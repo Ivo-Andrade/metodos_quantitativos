@@ -1,0 +1,228 @@
+ID_da_subdisciplina	Nome_da_subdisciplina	ID_da_disciplina
+1	Clinical Cancer Research	3
+2	Circulation	3
+3	Data Mining	7
+4	Protein Science	2
+6	Neuroscience; Molecular & Cellular	8
+8	Urology	3
+9	Immunology	10
+10	Macromolecules & Polymers	5
+11	Affective Disorders	8
+13	Surface Science	11
+14	Nonlinear Analysis	11
+16	Rheumatology	3
+18	Organic Chemistry	5
+19	Leukemia	3
+20	Virology	10
+22	Allergy & Clinical Immunology	3
+23	Material Science	4
+24	Dermatology	3
+27	Law	13
+28	Medical Imaging	8
+29	Bacteriology	10
+32	Digestion	3
+33	Toxicology Applied Pharmacology	3
+34	Transportation Research	4
+35	Inorganic Chemistry	5
+36	Chemical Engineering	4
+37	Pharmaceutical Research	5
+38	Semiconducting Materials	11
+42	Nutrition	12
+43	Finance	13
+47	Nuclear Engineering	4
+49	Food Chemistry	5
+50	Obstetrics	3
+51	Chest & Respiratory	3
+53	Zoology	1
+54	Pharmaceutical Design	5
+55	AntiMicrobial Agents	10
+57	Decision Support Systems	13
+61	Seismology	6
+63	Neurology	8
+67	Nursing Specialists	12
+69	Psychopharmacology	8
+70	Aeronautics & Astronautics	4
+73	Sports Medicine	12
+75	Chromatography; Electrophoresis	5
+76	Pediatrics	3
+77	Cardiovascular	3
+79	Economics	13
+80	Hypertension	12
+84	Clinical Microbiology	10
+88	Computational Chemistry	5
+90	Ceramics	4
+96	Automatic Control	7
+97	Atmospheric Science	6
+99	BioStatistics	13
+102	Alloys	4
+103	Astronomy & Astrophysics	11
+105	Research Policy; Technology Management	13
+107	Animal Science	10
+108	Chaos Fractals & Complexity	11
+109	Environmental Contamination	1
+110	Otolaryngology; Laryngoscope	8
+113	Biological Conservation	1
+114	Thoracic Surgery	3
+115	Phytochemistry	5
+116	Tropical Medicine	10
+117	Food Protection	2
+118	Broadband Communication	7
+119	Energy Fuel	4
+120	Soil Quality	4
+122	Philosophy Psychology	9
+123	Construction & Project Management	13
+125	High Energy Physics	11
+126	Strategic Management	13
+129	Cement & Concrete	4
+133	Veterinary Science	10
+134	Teacher Education; Evaluation	13
+138	Nursing Education	12
+139	Intensive Care	3
+140	Alternative Complementary Medicine	12
+142	Music & Theatre	9
+150	Psychosis; Schizophrenia	8
+152	Parallel Computing	7
+153	Power Distribution	7
+156	Discrete Applied Mathematics	11
+157	Geology & Tectonics	6
+160	Artificial Intelligence	7
+161	Electro Analytical Chemistry	5
+163	Enzyme Microbiological Techniques	2
+165	Biomaterials	12
+166	Quaternary Research	6
+169	Language Learning	13
+173	Computer-Aided Process Planning	13
+179	Molecular Physics	5
+181	Political Science	13
+184	Nuclear Medicine	3
+185	Nanotechnology	5
+190	Clinical Infectious Disease	3
+191	Prosthetic Dentistry	12
+192	Orthodontics	12
+194	Dental Research	12
+195	Atomic Spectrometry	5
+196	Botany	1
+197	Public Health Service	12
+199	Catalysis	5
+200	Radiation Protection	3
+202	Veterinary Medicine	10
+203	Periodontology	12
+205	Thrombosis	3
+206	Freshwater Biology	1
+210	Plastic Surgery	12
+213	Ecology	1
+215	Neurophysiology & Neuroscience	8
+222	Linguistics	9
+227	Soil Science	4
+231	Forest Science	1
+239	Geotechnical Engineering	4
+240	Instrumentation	7
+241	Clinical Chemistry	3
+248	Sound & Vibration	4
+249	Ore Processing	4
+251	Prenatal Diagnostics	3
+255	Flavors & Fragrance	5
+256	Numerical Methods in Engineering	4
+257	EthnoPharmacology	5
+258	Electrocardiography	3
+260	Electrochemistry	4
+261	Political Studies	13
+262	Molecular Endocrinology	3
+263	Surface Coating Technology	11
+267	International Conflict	13
+269	Applied Catalysis	5
+270	Agricultural Economics	13
+273	Fluid Phase Equilibrium	4
+278	Applied Physiology; Muscle	12
+284	Horticulture	1
+290	Science Education	13
+294	Crop Science	1
+295	Fuzzy Sets	7
+297	Transfusion	3
+300	Atherosclerosis	3
+304	Veterinary Microbiology	10
+305	Environmental Protection	4
+312	Child Development	13
+313	Pain	12
+315	Soil Analysis	1
+316	Safety Management	4
+321	Human Evolution	1
+324	Epilepsy	8
+325	Plant Ecology	1
+326	Computer Aided Molecular Design	5
+334	Contemporary Philosophy	9
+336	Child Abuse	13
+337	Mathematics Research	11
+339	Environmental Chemistry	5
+341	Dairy Science	10
+342	Water Policy	4
+343	Fish Research	1
+345	Genetics	1
+350	Physical Therapy; Brain Injury	8
+352	World Health Organization	10
+358	Ocean Coastal Management	4
+361	Microbiology Biotechnology	2
+369	Environmental Microbiology	1
+373	Plant Disease	1
+387	Vaccines	10
+390	Psychiatric Nursing	12
+396	Materials Processing	4
+398	Power Systems	7
+402	Molecular Medicine	12
+404	Ecological Modeling	1
+405	Clinical Rehabilitation	3
+413	Mineralogy	6
+414	Trauma	12
+415	Thermal Analysis	5
+416	Solar & Wind Power	4
+418	Educational Psychology	13
+419	Mycology	1
+423	Molecular Ecology	1
+424	Cytogenetics & Genome Mapping	10
+425	Clinical Psychiatry	12
+427	Water Waste	4
+428	Computer Networks	7
+429	Weed Management	1
+434	Environmental Policy	13
+435	Topology	11
+436	Construction	4
+441	Peptides	10
+442	Applied Geophysics	4
+443	Sexually Transmitted Diseases	10
+445	NeuroImmunology	8
+448	Sensors & Actuators	4
+450	Medical Image Processing	7
+453	Hospital Management	12
+454	Insect Physiology	1
+455	Power Transmission	7
+456	Food Engineering	2
+457	Oral Surgery	12
+460	Dermatological Surgery	3
+461	Wildlife Research	1
+462	Midwifery	12
+463	Physics; Current Developments	11
+464	Pyschiatric & Behavioral Genetics	13
+470	Carbon	5
+479	Heart Failure; Catheters	3
+482	Friction Lubrication & Wear	4
+487	Fish Biology	1
+494	Medical Libraries	12
+497	Acoustics	4
+499	Reproduction Veterinary	10
+503	Poultry Science	10
+504	Artificial Organs	12
+505	Physical Therapy; Orthopedic	12
+509	Toxins	5
+512	Lung Cancer	3
+514	Carbohydrate Research	5
+519	Forensic Science	8
+523	Molecular Biology Methods	10
+525	Impotence	3
+530	Hormone Research	3
+537	Clinical Medicine (Romania)	3
+542	Perception Motor Skills	12
+544	Insects	1
+545	Australian Ecology	1
+547	Nursing Theory	12
+548	Crustaceans	1
+549	Laser Surgery	12

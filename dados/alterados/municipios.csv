@@ -1,0 +1,5572 @@
+nome,id
+Ro-Alta Floresta D Oeste,1100015
+Ro-Ariquemes,1100023
+Ro-Cabixi,1100031
+Ro-Cacoal,1100049
+Ro-Cerejeiras,1100056
+Ro-Colorado do Oeste,1100064
+Ro-Corumbiara,1100072
+Ro-Costa Marques,1100080
+Ro-Espigao D Oeste,1100098
+Ro-Guajara-Mirim,1100106
+Ro-Jaru,1100114
+Ro-Ji-Parana,1100122
+Ro-Machadinho D Oeste,1100130
+Ro-Nova Brasilandia D Oeste,1100148
+Ro-Ouro Preto do Oeste,1100155
+Ro-Pimenta Bueno,1100189
+Ro-Porto Velho,1100205
+Ro-Presidente Medici,1100254
+Ro-Rio Crespo,1100262
+Ro-Rolim de Moura,1100288
+Ro-Santa Luzia D Oeste,1100296
+Ro-Vilhena,1100304
+Ro-Sao Miguel do Guapore,1100320
+Ro-Nova Mamore,1100338
+Ro-Alvorada D Oeste,1100346
+Ro-Alto Alegre dos Parecis,1100379
+Ro-Alto Paraiso,1100403
+Ro-Buritis,1100452
+Ro-Novo Horizonte do Oeste,1100502
+Ro-Cacaulandia,1100601
+Ro-Campo Novo de Rondonia,1100700
+Ro-Candeias do Jamari,1100809
+Ro-Castanheiras,1100908
+Ro-Chupinguaia,1100924
+Ro-Cujubim,1100940
+Ro-Governador Jorge Teixeira,1101005
+Ro-Itapua do Oeste,1101104
+Ro-Ministro Andreazza,1101203
+Ro-Mirante da Serra,1101302
+Ro-Monte Negro,1101401
+Ro-Nova Uniao,1101435
+Ro-Parecis,1101450
+Ro-Pimenteiras do Oeste,1101468
+Ro-Primavera de Rondonia,1101476
+Ro-Sao Felipe D Oeste,1101484
+Ro-Sao Francisco do Guapore,1101492
+Ro-Seringueiras,1101500
+Ro-Teixeiropolis,1101559
+Ro-Theobroma,1101609
+Ro-Urupa,1101708
+Ro-Vale do Anari,1101757
+Ro-Vale do Paraiso,1101807
+Ac-Acrelandia,1200013
+Ac-Assis Brasil,1200054
+Ac-Brasileia,1200104
+Ac-Bujari,1200138
+Ac-Capixaba,1200179
+Ac-Cruzeiro do Sul,1200203
+Ac-Epitaciolandia,1200252
+Ac-Feijo,1200302
+Ac-Jordao,1200328
+Ac-Mancio Lima,1200336
+Ac-Manoel Urbano,1200344
+Ac-Marechal Thaumaturgo,1200351
+Ac-Placido de Castro,1200385
+Ac-Porto Walter,1200393
+Ac-Rio Branco,1200401
+Ac-Rodrigues Alves,1200427
+Ac-Santa Rosa do Purus,1200435
+Ac-Senador Guiomard,1200450
+Ac-Sena Madureira,1200500
+Ac-Tarauaca,1200609
+Ac-Xapuri,1200708
+Ac-Porto Acre,1200807
+Am-Alvaraes,1300029
+Am-Amatura,1300060
+Am-Anama,1300086
+Am-Anori,1300102
+Am-Apui,1300144
+Am-Atalaia do Norte,1300201
+Am-Autazes,1300300
+Am-Barcelos,1300409
+Am-Barreirinha,1300508
+Am-Benjamin Constant,1300607
+Am-Beruri,1300631
+Am-Boa Vista do Ramos,1300680
+Am-Boca do Acre,1300706
+Am-Borba,1300805
+Am-Caapiranga,1300839
+Am-Canutama,1300904
+Am-Carauari,1301001
+Am-Careiro,1301100
+Am-Careiro da Varzea,1301159
+Am-Coari,1301209
+Am-Codajas,1301308
+Am-Eirunepe,1301407
+Am-Envira,1301506
+Am-Fonte Boa,1301605
+Am-Guajara,1301654
+Am-Humaita,1301704
+Am-Ipixuna,1301803
+Am-Iranduba,1301852
+Am-Itacoatiara,1301902
+Am-Itamarati,1301951
+Am-Itapiranga,1302009
+Am-Japura,1302108
+Am-Jurua,1302207
+Am-Jutai,1302306
+Am-Labrea,1302405
+Am-Manacapuru,1302504
+Am-Manaquiri,1302553
+Am-Manaus,1302603
+Am-Manicore,1302702
+Am-Maraa,1302801
+Am-Maues,1302900
+Am-Nhamunda,1303007
+Am-Nova Olinda do Norte,1303106
+Am-Novo Airao,1303205
+Am-Novo Aripuana,1303304
+Am-Parintins,1303403
+Am-Pauini,1303502
+Am-Presidente Figueiredo,1303536
+Am-Rio Preto da Eva,1303569
+Am-Santa Isabel do Rio Negro,1303601
+Am-Santo Antonio do Ica,1303700
+Am-Sao Gabriel da Cachoeira,1303809
+Am-Sao Paulo de Olivenca,1303908
+Am-Sao Sebastiao do Uatuma,1303957
+Am-Silves,1304005
+Am-Tabatinga,1304062
+Am-Tapaua,1304104
+Am-Tefe,1304203
+Am-Tonantins,1304237
+Am-Uarini,1304260
+Am-Urucara,1304302
+Am-Urucurituba,1304401
+Rr-Amajari,1400027
+Rr-Alto Alegre,1400050
+Rr-Boa Vista,1400100
+Rr-Bonfim,1400159
+Rr-Canta,1400175
+Rr-Caracarai,1400209
+Rr-Caroebe,1400233
+Rr-Iracema,1400282
+Rr-Mucajai,1400308
+Rr-Normandia,1400407
+Rr-Pacaraima,1400456
+Rr-Rorainopolis,1400472
+Rr-Sao Joao da Baliza,1400506
+Rr-Sao Luiz,1400605
+Rr-Uiramuta,1400704
+Pa-Abaetetuba,1500107
+Pa-Abel Figueiredo,1500131
+Pa-Acara,1500206
+Pa-Afua,1500305
+Pa-Agua Azul do Norte,1500347
+Pa-Alenquer,1500404
+Pa-Almeirim,1500503
+Pa-Altamira,1500602
+Pa-Anajas,1500701
+Pa-Ananindeua,1500800
+Pa-Anapu,1500859
+Pa-Augusto Correa,1500909
+Pa-Aurora do Para,1500958
+Pa-Aveiro,1501006
+Pa-Bagre,1501105
+Pa-Baiao,1501204
+Pa-Bannach,1501253
+Pa-Barcarena,1501303
+Pa-Belem,1501402
+Pa-Belterra,1501451
+Pa-Benevides,1501501
+Pa-Bom Jesus do Tocantins,1501576
+Pa-Bonito,1501600
+Pa-Braganca,1501709
+Pa-Brasil Novo,1501725
+Pa-Brejo Grande do Araguaia,1501758
+Pa-Breu Branco,1501782
+Pa-Breves,1501808
+Pa-Bujaru,1501907
+Pa-Cachoeira do Piria,1501956
+Pa-Cachoeira do Arari,1502004
+Pa-Cameta,1502103
+Pa-Canaa dos Carajas,1502152
+Pa-Capanema,1502202
+Pa-Capitao Poco,1502301
+Pa-Castanhal,1502400
+Pa-Chaves,1502509
+Pa-Colares,1502608
+Pa-Conceicao do Araguaia,1502707
+Pa-Concordia do Para,1502756
+Pa-Cumaru do Norte,1502764
+Pa-Curionopolis,1502772
+Pa-Curralinho,1502806
+Pa-Curua,1502855
+Pa-Curuca,1502905
+Pa-Dom Eliseu,1502939
+Pa-Eldorado do Carajas,1502954
+Pa-Faro,1503002
+Pa-Floresta do Araguaia,1503044
+Pa-Garrafao do Norte,1503077
+Pa-Goianesia do Para,1503093
+Pa-Gurupa,1503101
+Pa-Igarape-Acu,1503200
+Pa-Igarape-Miri,1503309
+Pa-Inhangapi,1503408
+Pa-Ipixuna do Para,1503457
+Pa-Irituia,1503507
+Pa-Itaituba,1503606
+Pa-Itupiranga,1503705
+Pa-Jacareacanga,1503754
+Pa-Jacunda,1503804
+Pa-Juruti,1503903
+Pa-Limoeiro do Ajuru,1504000
+Pa-Mae do Rio,1504059
+Pa-Magalhaes Barata,1504109
+Pa-Maraba,1504208
+Pa-Maracana,1504307
+Pa-Marapanim,1504406
+Pa-Marituba,1504422
+Pa-Medicilandia,1504455
+Pa-Melgaco,1504505
+Pa-Mocajuba,1504604
+Pa-Moju,1504703
+Pa-Mojui dos Campos,1504752
+Pa-Monte Alegre,1504802
+Pa-Muana,1504901
+Pa-Nova Esperanca do Piria,1504950
+Pa-Nova Ipixuna,1504976
+Pa-Nova Timboteua,1505007
+Pa-Novo Progresso,1505031
+Pa-Novo Repartimento,1505064
+Pa-Obidos,1505106
+Pa-Oeiras do Para,1505205
+Pa-Oriximina,1505304
+Pa-Ourem,1505403
+Pa-Ourilandia do Norte,1505437
+Pa-Pacaja,1505486
+Pa-Palestina do Para,1505494
+Pa-Paragominas,1505502
+Pa-Parauapebas,1505536
+Pa-Pau D Arco,1505551
+Pa-Peixe-Boi,1505601
+Pa-Picarra,1505635
+Pa-Placas,1505650
+Pa-Ponta de Pedras,1505700
+Pa-Portel,1505809
+Pa-Porto de Moz,1505908
+Pa-Prainha,1506005
+Pa-Primavera,1506104
+Pa-Quatipuru,1506112
+Pa-Redencao,1506138
+Pa-Rio Maria,1506161
+Pa-Rondon do Para,1506187
+Pa-Ruropolis,1506195
+Pa-Salinopolis,1506203
+Pa-Salvaterra,1506302
+Pa-Santa Barbara do Para,1506351
+Pa-Santa Cruz do Arari,1506401
+Pa-Santa Izabel do Para,1506500
+Pa-Santa Luzia do Para,1506559
+Pa-Santa Maria das Barreiras,1506583
+Pa-Santa Maria do Para,1506609
+Pa-Santana do Araguaia,1506708
+Pa-Santarem,1506807
+Pa-Santarem Novo,1506906
+Pa-Santo Antonio do Taua,1507003
+Pa-Sao Caetano de Odivelas,1507102
+Pa-Sao Domingos do Araguaia,1507151
+Pa-Sao Domingos do Capim,1507201
+Pa-Sao Felix do Xingu,1507300
+Pa-Sao Francisco do Para,1507409
+Pa-Sao Geraldo do Araguaia,1507458
+Pa-Sao Joao da Ponta,1507466
+Pa-Sao Joao de Pirabas,1507474
+Pa-Sao Joao do Araguaia,1507508
+Pa-Sao Miguel do Guama,1507607
+Pa-Sao Sebastiao da Boa Vista,1507706
+Pa-Sapucaia,1507755
+Pa-Senador Jose Porfirio,1507805
+Pa-Soure,1507904
+Pa-Tailandia,1507953
+Pa-Terra Alta,1507961
+Pa-Terra Santa,1507979
+Pa-Tome-Acu,1508001
+Pa-Tracuateua,1508035
+Pa-Trairao,1508050
+Pa-Tucuma,1508084
+Pa-Tucurui,1508100
+Pa-Ulianopolis,1508126
+Pa-Uruara,1508159
+Pa-Vigia,1508209
+Pa-Viseu,1508308
+Pa-Vitoria do Xingu,1508357
+Pa-Xinguara,1508407
+Ap-Serra do Navio,1600055
+Ap-Amapa,1600105
+Ap-Pedra Branca do Amapari,1600154
+Ap-Calcoene,1600204
+Ap-Cutias,1600212
+Ap-Ferreira Gomes,1600238
+Ap-Itaubal,1600253
+Ap-Laranjal do Jari,1600279
+Ap-Macapa,1600303
+Ap-Mazagao,1600402
+Ap-Oiapoque,1600501
+Ap-Porto Grande,1600535
+Ap-Pracuuba,1600550
+Ap-Santana,1600600
+Ap-Tartarugalzinho,1600709
+Ap-Vitoria do Jari,1600808
+To-Abreulandia,1700251
+To-Aguiarnopolis,1700301
+To-Alianca do Tocantins,1700350
+To-Almas,1700400
+To-Alvorada,1700707
+To-Ananas,1701002
+To-Angico,1701051
+To-Aparecida do Rio Negro,1701101
+To-Aragominas,1701309
+To-Araguacema,1701903
+To-Araguacu,1702000
+To-Araguaina,1702109
+To-Araguana,1702158
+To-Araguatins,1702208
+To-Arapoema,1702307
+To-Arraias,1702406
+To-Augustinopolis,1702554
+To-Aurora do Tocantins,1702703
+To-Axixa do Tocantins,1702901
+To-Babaculandia,1703008
+To-Bandeirantes do Tocantins,1703057
+To-Barra do Ouro,1703073
+To-Barrolandia,1703107
+To-Bernardo Sayao,1703206
+To-Bom Jesus do Tocantins,1703305
+To-Brasilandia do Tocantins,1703602
+To-Brejinho de Nazare,1703701
+To-Buriti do Tocantins,1703800
+To-Cachoeirinha,1703826
+To-Campos Lindos,1703842
+To-Cariri do Tocantins,1703867
+To-Carmolandia,1703883
+To-Carrasco Bonito,1703891
+To-Caseara,1703909
+To-Centenario,1704105
+To-Chapada de Areia,1704600
+To-Chapada da Natividade,1705102
+To-Colinas do Tocantins,1705508
+To-Combinado,1705557
+To-Conceicao do Tocantins,1705607
+To-Couto Magalhaes,1706001
+To-Cristalandia,1706100
+To-Crixas do Tocantins,1706258
+To-Darcinopolis,1706506
+To-Dianopolis,1707009
+To-Divinopolis do Tocantins,1707108
+To-Dois Irmaos do Tocantins,1707207
+To-Duere,1707306
+To-Esperantina,1707405
+To-Fatima,1707553
+To-Figueiropolis,1707652
+To-Filadelfia,1707702
+To-Formoso do Araguaia,1708205
+To-Fortaleza do Tabocao,1708254
+To-Goianorte,1708304
+To-Goiatins,1709005
+To-Guarai,1709302
+To-Gurupi,1709500
+To-Ipueiras,1709807
+To-Itacaja,1710508
+To-Itaguatins,1710706
+To-Itapiratins,1710904
+To-Itapora do Tocantins,1711100
+To-Jau do Tocantins,1711506
+To-Juarina,1711803
+To-Lagoa da Confusao,1711902
+To-Lagoa do Tocantins,1711951
+To-Lajeado,1712009
+To-Lavandeira,1712157
+To-Lizarda,1712405
+To-Luzinopolis,1712454
+To-Marianopolis do Tocantins,1712504
+To-Mateiros,1712702
+To-Maurilandia do Tocantins,1712801
+To-Miracema do Tocantins,1713205
+To-Miranorte,1713304
+To-Monte do Carmo,1713601
+To-Monte Santo do Tocantins,1713700
+To-Palmeiras do Tocantins,1713809
+To-Muricilandia,1713957
+To-Natividade,1714203
+To-Nazare,1714302
+To-Nova Olinda,1714880
+To-Nova Rosalandia,1715002
+To-Novo Acordo,1715101
+To-Novo Alegre,1715150
+To-Novo Jardim,1715259
+To-Oliveira de Fatima,1715507
+To-Palmeirante,1715705
+To-Palmeiropolis,1715754
+To-Paraiso do Tocantins,1716109
+To-Parana,1716208
+To-Pau D Arco,1716307
+To-Pedro Afonso,1716505
+To-Peixe,1716604
+To-Pequizeiro,1716653
+To-Colmeia,1716703
+To-Pindorama do Tocantins,1717008
+To-Piraque,1717206
+To-Pium,1717503
+To-Ponte Alta do Bom Jesus,1717800
+To-Ponte Alta do Tocantins,1717909
+To-Porto Alegre do Tocantins,1718006
+To-Porto Nacional,1718204
+To-Praia Norte,1718303
+To-Presidente Kennedy,1718402
+To-Pugmil,1718451
+To-Recursolandia,1718501
+To-Riachinho,1718550
+To-Rio da Conceicao,1718659
+To-Rio dos Bois,1718709
+To-Rio Sono,1718758
+To-Sampaio,1718808
+To-Sandolandia,1718840
+To-Santa Fe do Araguaia,1718865
+To-Santa Maria do Tocantins,1718881
+To-Santa Rita do Tocantins,1718899
+To-Santa Rosa do Tocantins,1718907
+To-Santa Tereza do Tocantins,1719004
+To-Santa Terezinha do Tocantins,1720002
+To-Sao Bento do Tocantins,1720101
+To-Sao Felix do Tocantins,1720150
+To-Sao Miguel do Tocantins,1720200
+To-Sao Salvador do Tocantins,1720259
+To-Sao Sebastiao do Tocantins,1720309
+To-Sao Valerio,1720499
+To-Silvanopolis,1720655
+To-Sitio Novo do Tocantins,1720804
+To-Sucupira,1720853
+To-Taguatinga,1720903
+To-Taipas do Tocantins,1720937
+To-Talisma,1720978
+To-Palmas,1721000
+To-Tocantinia,1721109
+To-Tocantinopolis,1721208
+To-Tupirama,1721257
+To-Tupiratins,1721307
+To-Wanderlandia,1722081
+To-Xambioá,1722107
+Ma-Acailandia,2100055
+Ma-Afonso Cunha,2100105
+Ma-Agua Doce do Maranhao,2100154
+Ma-Alcantara,2100204
+Ma-Aldeias Altas,2100303
+Ma-Altamira do Maranhao,2100402
+Ma-Alto Alegre do Maranhao,2100436
+Ma-Alto Alegre do Pindare,2100477
+Ma-Alto Parnaiba,2100501
+Ma-Amapa do Maranhao,2100550
+Ma-Amarante do Maranhao,2100600
+Ma-Anajatuba,2100709
+Ma-Anapurus,2100808
+Ma-Apicum-Acu,2100832
+Ma-Araguana,2100873
+Ma-Araioses,2100907
+Ma-Arame,2100956
+Ma-Arari,2101004
+Ma-Axixa,2101103
+Ma-Bacabal,2101202
+Ma-Bacabeira,2101251
+Ma-Bacuri,2101301
+Ma-Bacurituba,2101350
+Ma-Balsas,2101400
+Ma-Barao de Grajau,2101509
+Ma-Barra do Corda,2101608
+Ma-Barreirinhas,2101707
+Ma-Belagua,2101731
+Ma-Bela Vista do Maranhao,2101772
+Ma-Benedito Leite,2101806
+Ma-Bequimao,2101905
+Ma-Bernardo do Mearim,2101939
+Ma-Boa Vista do Gurupi,2101970
+Ma-Bom Jardim,2102002
+Ma-Bom Jesus das Selvas,2102036
+Ma-Bom Lugar,2102077
+Ma-Brejo,2102101
+Ma-Brejo de Areia,2102150
+Ma-Buriti,2102200
+Ma-Buriti Bravo,2102309
+Ma-Buriticupu,2102325
+Ma-Buritirana,2102358
+Ma-Cachoeira Grande,2102374
+Ma-Cajapio,2102408
+Ma-Cajari,2102507
+Ma-Campestre do Maranhao,2102556
+Ma-Candido Mendes,2102606
+Ma-Cantanhede,2102705
+Ma-Capinzal do Norte,2102754
+Ma-Carolina,2102804
+Ma-Carutapera,2102903
+Ma-Caxias,2103000
+Ma-Cedral,2103109
+Ma-Central do Maranhao,2103125
+Ma-Centro do Guilherme,2103158
+Ma-Centro Novo do Maranhao,2103174
+Ma-Chapadinha,2103208
+Ma-Cidelandia,2103257
+Ma-Codo,2103307
+Ma-Coelho Neto,2103406
+Ma-Colinas,2103505
+Ma-Conceicao do Lago-Acu,2103554
+Ma-Coroata,2103604
+Ma-Cururupu,2103703
+Ma-Davinopolis,2103752
+Ma-Dom Pedro,2103802
+Ma-Duque Bacelar,2103901
+Ma-Esperantinopolis,2104008
+Ma-Estreito,2104057
+Ma-Feira Nova do Maranhao,2104073
+Ma-Fernando Falcao,2104081
+Ma-Formosa da Serra Negra,2104099
+Ma-Fortaleza dos Nogueiras,2104107
+Ma-Fortuna,2104206
+Ma-Godofredo Viana,2104305
+Ma-Goncalves Dias,2104404
+Ma-Governador Archer,2104503
+Ma-Governador Edison Lobao,2104552
+Ma-Governador Eugenio Barros,2104602
+Ma-Governador Luiz Rocha,2104628
+Ma-Governador Newton Bello,2104651
+Ma-Governador Nunes Freire,2104677
+Ma-Graca Aranha,2104701
+Ma-Grajau,2104800
+Ma-Guimaraes,2104909
+Ma-Humberto de Campos,2105005
+Ma-Icatu,2105104
+Ma-Igarape do Meio,2105153
+Ma-Igarape Grande,2105203
+Ma-Imperatriz,2105302
+Ma-Itaipava do Grajau,2105351
+Ma-Itapecuru Mirim,2105401
+Ma-Itinga do Maranhao,2105427
+Ma-Jatoba,2105450
+Ma-Jenipapo dos Vieiras,2105476
+Ma-Joao Lisboa,2105500
+Ma-Joselandia,2105609
+Ma-Junco do Maranhao,2105658
+Ma-Lago da Pedra,2105708
+Ma-Lago do Junco,2105807
+Ma-Lago Verde,2105906
+Ma-Lagoa do Mato,2105922
+Ma-Lago dos Rodrigues,2105948
+Ma-Lagoa Grande do Maranhao,2105963
+Ma-Lajeado Novo,2105989
+Ma-Lima Campos,2106003
+Ma-Loreto,2106102
+Ma-Luis Domingues,2106201
+Ma-Magalhaes de Almeida,2106300
+Ma-Maracacume,2106326
+Ma-Maraja do Sena,2106359
+Ma-Maranhaozinho,2106375
+Ma-Mata Roma,2106409
+Ma-Matinha,2106508
+Ma-Matoes,2106607
+Ma-Matoes do Norte,2106631
+Ma-Milagres do Maranhao,2106672
+Ma-Mirador,2106706
+Ma-Miranda do Norte,2106755
+Ma-Mirinzal,2106805
+Ma-Moncao,2106904
+Ma-Montes Altos,2107001
+Ma-Morros,2107100
+Ma-Nina Rodrigues,2107209
+Ma-Nova Colinas,2107258
+Ma-Nova Iorque,2107308
+Ma-Nova Olinda do Maranhao,2107357
+Ma-Olho D Agua das Cunhas,2107407
+Ma-Olinda Nova do Maranhao,2107456
+Ma-Paco do Lumiar,2107506
+Ma-Palmeirandia,2107605
+Ma-Paraibano,2107704
+Ma-Parnarama,2107803
+Ma-Passagem Franca,2107902
+Ma-Pastos Bons,2108009
+Ma-Paulino Neves,2108058
+Ma-Paulo Ramos,2108108
+Ma-Pedreiras,2108207
+Ma-Pedro do Rosario,2108256
+Ma-Penalva,2108306
+Ma-Peri Mirim,2108405
+Ma-Peritoro,2108454
+Ma-Pindare-Mirim,2108504
+Ma-Pinheiro,2108603
+Ma-Pio Xii,2108702
+Ma-Pirapemas,2108801
+Ma-Pocao de Pedras,2108900
+Ma-Porto Franco,2109007
+Ma-Porto Rico do Maranhao,2109056
+Ma-Presidente Dutra,2109106
+Ma-Presidente Juscelino,2109205
+Ma-Presidente Medici,2109239
+Ma-Presidente Sarney,2109270
+Ma-Presidente Vargas,2109304
+Ma-Primeira Cruz,2109403
+Ma-Raposa,2109452
+Ma-Riachao,2109502
+Ma-Ribamar Fiquene,2109551
+Ma-Rosario,2109601
+Ma-Sambaiba,2109700
+Ma-Santa Filomena do Maranhao,2109759
+Ma-Santa Helena,2109809
+Ma-Santa Ines,2109908
+Ma-Santa Luzia,2110005
+Ma-Santa Luzia do Parua,2110039
+Ma-Santa Quiteria do Maranhao,2110104
+Ma-Santa Rita,2110203
+Ma-Santana do Maranhao,2110237
+Ma-Santo Amaro do Maranhao,2110278
+Ma-Santo Antonio dos Lopes,2110302
+Ma-Sao Benedito do Rio Preto,2110401
+Ma-Sao Bento,2110500
+Ma-Sao Bernardo,2110609
+Ma-Sao Domingos do Azeitao,2110658
+Ma-Sao Domingos do Maranhao,2110708
+Ma-Sao Felix de Balsas,2110807
+Ma-Sao Francisco do Brejao,2110856
+Ma-Sao Francisco do Maranhao,2110906
+Ma-Sao Joao Batista,2111003
+Ma-Sao Joao do Caru,2111029
+Ma-Sao Joao do Paraiso,2111052
+Ma-Sao Joao do Soter,2111078
+Ma-Sao Joao dos Patos,2111102
+Ma-Sao Jose de Ribamar,2111201
+Ma-Sao Jose dos Basilios,2111250
+Ma-Sao Luis,2111300
+Ma-Sao Luis Gonzaga do Maranhao,2111409
+Ma-Sao Mateus do Maranhao,2111508
+Ma-Sao Pedro da Agua Branca,2111532
+Ma-Sao Pedro dos Crentes,2111573
+Ma-Sao Raimundo das Mangabeiras,2111607
+Ma-Sao Raimundo do Doca Bezerra,2111631
+Ma-Sao Roberto,2111672
+Ma-Sao Vicente Ferrer,2111706
+Ma-Satubinha,2111722
+Ma-Senador Alexandre Costa,2111748
+Ma-Senador La Rocque,2111763
+Ma-Serrano do Maranhao,2111789
+Ma-Sitio Novo,2111805
+Ma-Sucupira do Norte,2111904
+Ma-Sucupira do Riachao,2111953
+Ma-Tasso Fragoso,2112001
+Ma-Timbiras,2112100
+Ma-Timon,2112209
+Ma-Trizidela do Vale,2112233
+Ma-Tufilandia,2112274
+Ma-Tuntum,2112308
+Ma-Turiacu,2112407
+Ma-Turilandia,2112456
+Ma-Tutoia,2112506
+Ma-Urbano Santos,2112605
+Ma-Vargem Grande,2112704
+Ma-Viana,2112803
+Ma-Vila Nova dos Martirios,2112852
+Ma-Vitoria do Mearim,2112902
+Ma-Vitorino Freire,2113009
+Ma-Ze Doca,2114007
+Pi-Acaua,2200053
+Pi-Agricolandia,2200103
+Pi-Agua Branca,2200202
+Pi-Alagoinha do Piaui,2200251
+Pi-Alegrete do Piaui,2200277
+Pi-Alto Longa,2200301
+Pi-Altos,2200400
+Pi-Alvorada do Gurgueia,2200459
+Pi-Amarante,2200509
+Pi-Angical do Piaui,2200608
+Pi-Anisio de Abreu,2200707
+Pi-Antonio Almeida,2200806
+Pi-Aroazes,2200905
+Pi-Aroeiras do Itaim,2200954
+Pi-Arraial,2201002
+Pi-Assuncao do Piaui,2201051
+Pi-Avelino Lopes,2201101
+Pi-Baixa Grande do Ribeiro,2201150
+Pi-Barra D Alcantara,2201176
+Pi-Barras,2201200
+Pi-Barreiras do Piaui,2201309
+Pi-Barro Duro,2201408
+Pi-Batalha,2201507
+Pi-Bela Vista do Piaui,2201556
+Pi-Belem do Piaui,2201572
+Pi-Beneditinos,2201606
+Pi-Bertolinia,2201705
+Pi-Betania do Piaui,2201739
+Pi-Boa Hora,2201770
+Pi-Bocaina,2201804
+Pi-Bom Jesus,2201903
+Pi-Bom Principio do Piaui,2201919
+Pi-Bonfim do Piaui,2201929
+Pi-Boqueirao do Piaui,2201945
+Pi-Brasileira,2201960
+Pi-Brejo do Piaui,2201988
+Pi-Buriti dos Lopes,2202000
+Pi-Buriti dos Montes,2202026
+Pi-Cabeceiras do Piaui,2202059
+Pi-Cajazeiras do Piaui,2202075
+Pi-Cajueiro da Praia,2202083
+Pi-Caldeirao Grande do Piaui,2202091
+Pi-Campinas do Piaui,2202109
+Pi-Campo Alegre do Fidalgo,2202117
+Pi-Campo Grande do Piaui,2202133
+Pi-Campo Largo do Piaui,2202174
+Pi-Campo Maior,2202208
+Pi-Canavieira,2202251
+Pi-Canto do Buriti,2202307
+Pi-Capitao de Campos,2202406
+Pi-Capitao Gervasio Oliveira,2202455
+Pi-Caracol,2202505
+Pi-Caraubas do Piaui,2202539
+Pi-Caridade do Piaui,2202554
+Pi-Castelo do Piaui,2202604
+Pi-Caxingo,2202653
+Pi-Cocal,2202703
+Pi-Cocal de Telha,2202711
+Pi-Cocal dos Alves,2202729
+Pi-Coivaras,2202737
+Pi-Colonia do Gurgueia,2202752
+Pi-Colonia do Piaui,2202778
+Pi-Conceicao do Caninde,2202802
+Pi-Coronel Jose Dias,2202851
+Pi-Corrente,2202901
+Pi-Cristalandia do Piaui,2203008
+Pi-Cristino Castro,2203107
+Pi-Curimata,2203206
+Pi-Currais,2203230
+Pi-Curralinhos,2203255
+Pi-Curral Novo do Piaui,2203271
+Pi-Demerval Lobao,2203305
+Pi-Dirceu Arcoverde,2203354
+Pi-Dom Expedito Lopes,2203404
+Pi-Domingos Mourao,2203420
+Pi-Dom Inocencio,2203453
+Pi-Elesbao Veloso,2203503
+Pi-Eliseu Martins,2203602
+Pi-Esperantina,2203701
+Pi-Fartura do Piaui,2203750
+Pi-Flores do Piaui,2203800
+Pi-Floresta do Piaui,2203859
+Pi-Floriano,2203909
+Pi-Francinopolis,2204006
+Pi-Francisco Ayres,2204105
+Pi-Francisco Macedo,2204154
+Pi-Francisco Santos,2204204
+Pi-Fronteiras,2204303
+Pi-Geminiano,2204352
+Pi-Gilbues,2204402
+Pi-Guadalupe,2204501
+Pi-Guaribas,2204550
+Pi-Hugo Napoleao,2204600
+Pi-Ilha Grande,2204659
+Pi-Inhuma,2204709
+Pi-Ipiranga do Piaui,2204808
+Pi-Isaias Coelho,2204907
+Pi-Itainopolis,2205003
+Pi-Itaueira,2205102
+Pi-Jacobina do Piaui,2205151
+Pi-Jaicos,2205201
+Pi-Jardim do Mulato,2205250
+Pi-Jatoba do Piaui,2205276
+Pi-Jerumenha,2205300
+Pi-Joao Costa,2205359
+Pi-Joaquim Pires,2205409
+Pi-Joca Marques,2205458
+Pi-Jose de Freitas,2205508
+Pi-Juazeiro do Piaui,2205516
+Pi-Julio Borges,2205524
+Pi-Jurema,2205532
+Pi-Lagoinha do Piaui,2205540
+Pi-Lagoa Alegre,2205557
+Pi-Lagoa do Barro do Piaui,2205565
+Pi-Lagoa de Sao Francisco,2205573
+Pi-Lagoa do Piaui,2205581
+Pi-Lagoa do Sitio,2205599
+Pi-Landri Sales,2205607
+Pi-Luis Correia,2205706
+Pi-Luzilandia,2205805
+Pi-Madeiro,2205854
+Pi-Manoel Emidio,2205904
+Pi-Marcolandia,2205953
+Pi-Marcos Parente,2206001
+Pi-Massape do Piaui,2206050
+Pi-Matias Olimpio,2206100
+Pi-Miguel Alves,2206209
+Pi-Miguel Leao,2206308
+Pi-Milton Brandao,2206357
+Pi-Monsenhor Gil,2206407
+Pi-Monsenhor Hipolito,2206506
+Pi-Monte Alegre do Piaui,2206605
+Pi-Morro Cabeca no Tempo,2206654
+Pi-Morro do Chapeu do Piaui,2206670
+Pi-Murici dos Portelas,2206696
+Pi-Nazare do Piaui,2206704
+Pi-Nazaria,2206720
+Pi-Nossa Senhora de Nazare,2206753
+Pi-Nossa Senhora dos Remedios,2206803
+Pi-Novo Oriente do Piaui,2206902
+Pi-Novo Santo Antonio,2206951
+Pi-Oeiras,2207009
+Pi-Olho D Agua do Piaui,2207108
+Pi-Padre Marcos,2207207
+Pi-Paes Landim,2207306
+Pi-Pajeu do Piaui,2207355
+Pi-Palmeira do Piaui,2207405
+Pi-Palmeirais,2207504
+Pi-Paqueta,2207553
+Pi-Parnagua,2207603
+Pi-Parnaiba,2207702
+Pi-Passagem Franca do Piaui,2207751
+Pi-Patos do Piaui,2207777
+Pi-Pau D Arco do Piaui,2207793
+Pi-Paulistana,2207801
+Pi-Pavussu,2207850
+Pi-Pedro Ii,2207900
+Pi-Pedro Laurentino,2207934
+Pi-Nova Santa Rita,2207959
+Pi-Picos,2208007
+Pi-Pimenteiras,2208106
+Pi-Pio Ix,2208205
+Pi-Piracuruca,2208304
+Pi-Piripiri,2208403
+Pi-Porto,2208502
+Pi-Porto Alegre do Piaui,2208551
+Pi-Prata do Piaui,2208601
+Pi-Queimada Nova,2208650
+Pi-Redencao do Gurgueia,2208700
+Pi-Regeneracao,2208809
+Pi-Riacho Frio,2208858
+Pi-Ribeira do Piaui,2208874
+Pi-Ribeiro Goncalves,2208908
+Pi-Rio Grande do Piaui,2209005
+Pi-Santa Cruz do Piaui,2209104
+Pi-Santa Cruz dos Milagres,2209153
+Pi-Santa Filomena,2209203
+Pi-Santa Luz,2209302
+Pi-Santana do Piaui,2209351
+Pi-Santa Rosa do Piaui,2209377
+Pi-Santo Antonio de Lisboa,2209401
+Pi-Santo Antonio dos Milagres,2209450
+Pi-Santo Inacio do Piaui,2209500
+Pi-Sao Braz do Piaui,2209559
+Pi-Sao Felix do Piaui,2209609
+Pi-Sao Francisco de Assis do Piaui,2209658
+Pi-Sao Francisco do Piaui,2209708
+Pi-Sao Goncalo do Gurgueia,2209757
+Pi-Sao Goncalo do Piaui,2209807
+Pi-Sao Joao da Canabrava,2209856
+Pi-Sao Joao da Fronteira,2209872
+Pi-Sao Joao da Serra,2209906
+Pi-Sao Joao da Varjota,2209955
+Pi-Sao Joao do Arraial,2209971
+Pi-Sao Joao do Piaui,2210003
+Pi-Sao Jose do Divino,2210052
+Pi-Sao Jose do Peixe,2210102
+Pi-Sao Jose do Piaui,2210201
+Pi-Sao Juliao,2210300
+Pi-Sao Lourenco do Piaui,2210359
+Pi-Sao Luis do Piaui,2210375
+Pi-Sao Miguel da Baixa Grande,2210383
+Pi-Sao Miguel do Fidalgo,2210391
+Pi-Sao Miguel do Tapuio,2210409
+Pi-Sao Pedro do Piaui,2210508
+Pi-Sao Raimundo Nonato,2210607
+Pi-Sebastiao Barros,2210623
+Pi-Sebastiao Leal,2210631
+Pi-Sigefredo Pacheco,2210656
+Pi-Simoes,2210706
+Pi-Simplicio Mendes,2210805
+Pi-Socorro do Piaui,2210904
+Pi-Sussuapara,2210938
+Pi-Tamboril do Piaui,2210953
+Pi-Tanque do Piaui,2210979
+Pi-Teresina,2211001
+Pi-Uniao,2211100
+Pi-Urucui,2211209
+Pi-Valenca do Piaui,2211308
+Pi-Varzea Branca,2211357
+Pi-Varzea Grande,2211407
+Pi-Vera Mendes,2211506
+Pi-Vila Nova do Piaui,2211605
+Pi-Wall Ferraz,2211704
+Ce-Abaiara,2300101
+Ce-Acarape,2300150
+Ce-Acarau,2300200
+Ce-Acopiara,2300309
+Ce-Aiuaba,2300408
+Ce-Alcantaras,2300507
+Ce-Altaneira,2300606
+Ce-Alto Santo,2300705
+Ce-Amontada,2300754
+Ce-Antonina do Norte,2300804
+Ce-Apuiares,2300903
+Ce-Aquiraz,2301000
+Ce-Aracati,2301109
+Ce-Aracoiaba,2301208
+Ce-Ararenda,2301257
+Ce-Araripe,2301307
+Ce-Aratuba,2301406
+Ce-Arneiroz,2301505
+Ce-Assare,2301604
+Ce-Aurora,2301703
+Ce-Baixio,2301802
+Ce-Banabuiu,2301851
+Ce-Barbalha,2301901
+Ce-Barreira,2301950
+Ce-Barro,2302008
+Ce-Barroquinha,2302057
+Ce-Baturite,2302107
+Ce-Beberibe,2302206
+Ce-Bela Cruz,2302305
+Ce-Boa Viagem,2302404
+Ce-Brejo Santo,2302503
+Ce-Camocim,2302602
+Ce-Campos Sales,2302701
+Ce-Caninde,2302800
+Ce-Capistrano,2302909
+Ce-Caridade,2303006
+Ce-Carire,2303105
+Ce-Caririacu,2303204
+Ce-Carius,2303303
+Ce-Carnaubal,2303402
+Ce-Cascavel,2303501
+Ce-Catarina,2303600
+Ce-Catunda,2303659
+Ce-Caucaia,2303709
+Ce-Cedro,2303808
+Ce-Chaval,2303907
+Ce-Choro,2303931
+Ce-Chorozinho,2303956
+Ce-Coreau,2304004
+Ce-Crateus,2304103
+Ce-Crato,2304202
+Ce-Croata,2304236
+Ce-Cruz,2304251
+Ce-Deputado Irapuan Pinheiro,2304269
+Ce-Erere,2304277
+Ce-Eusebio,2304285
+Ce-Farias Brito,2304301
+Ce-Forquilha,2304350
+Ce-Fortaleza,2304400
+Ce-Fortim,2304459
+Ce-Frecheirinha,2304509
+Ce-General Sampaio,2304608
+Ce-Graca,2304657
+Ce-Granja,2304707
+Ce-Granjeiro,2304806
+Ce-Groairas,2304905
+Ce-Guaiuba,2304954
+Ce-Guaraciaba do Norte,2305001
+Ce-Guaramiranga,2305100
+Ce-Hidrolandia,2305209
+Ce-Horizonte,2305233
+Ce-Ibaretama,2305266
+Ce-Ibiapina,2305308
+Ce-Ibicuitinga,2305332
+Ce-Icapui,2305357
+Ce-Ico,2305407
+Ce-Iguatu,2305506
+Ce-Independencia,2305605
+Ce-Ipaporanga,2305654
+Ce-Ipaumirim,2305704
+Ce-Ipu,2305803
+Ce-Ipueiras,2305902
+Ce-Iracema,2306009
+Ce-Iraucuba,2306108
+Ce-Itaicaba,2306207
+Ce-Itaitinga,2306256
+Ce-Itapaje,2306306
+Ce-Itapipoca,2306405
+Ce-Itapiuna,2306504
+Ce-Itarema,2306553
+Ce-Itatira,2306603
+Ce-Jaguaretama,2306702
+Ce-Jaguaribara,2306801
+Ce-Jaguaribe,2306900
+Ce-Jaguaruana,2307007
+Ce-Jardim,2307106
+Ce-Jati,2307205
+Ce-Jijoca de Jericoacoara,2307254
+Ce-Juazeiro do Norte,2307304
+Ce-Jucas,2307403
+Ce-Lavras da Mangabeira,2307502
+Ce-Limoeiro do Norte,2307601
+Ce-Madalena,2307635
+Ce-Maracanau,2307650
+Ce-Maranguape,2307700
+Ce-Marco,2307809
+Ce-Martinopole,2307908
+Ce-Massape,2308005
+Ce-Mauriti,2308104
+Ce-Meruoca,2308203
+Ce-Milagres,2308302
+Ce-Milha,2308351
+Ce-Miraima,2308377
+Ce-Missao Velha,2308401
+Ce-Mombaca,2308500
+Ce-Monsenhor Tabosa,2308609
+Ce-Morada Nova,2308708
+Ce-Moraujo,2308807
+Ce-Morrinhos,2308906
+Ce-Mucambo,2309003
+Ce-Mulungu,2309102
+Ce-Nova Olinda,2309201
+Ce-Nova Russas,2309300
+Ce-Novo Oriente,2309409
+Ce-Ocara,2309458
+Ce-Oros,2309508
+Ce-Pacajus,2309607
+Ce-Pacatuba,2309706
+Ce-Pacoti,2309805
+Ce-Pacuja,2309904
+Ce-Palhano,2310001
+Ce-Palmacia,2310100
+Ce-Paracuru,2310209
+Ce-Paraipaba,2310258
+Ce-Parambu,2310308
+Ce-Paramoti,2310407
+Ce-Pedra Branca,2310506
+Ce-Penaforte,2310605
+Ce-Pentecoste,2310704
+Ce-Pereiro,2310803
+Ce-Pindoretama,2310852
+Ce-Piquet Carneiro,2310902
+Ce-Pires Ferreira,2310951
+Ce-Poranga,2311009
+Ce-Porteiras,2311108
+Ce-Potengi,2311207
+Ce-Potiretama,2311231
+Ce-Quiterianopolis,2311264
+Ce-Quixada,2311306
+Ce-Quixelo,2311355
+Ce-Quixeramobim,2311405
+Ce-Quixere,2311504
+Ce-Redencao,2311603
+Ce-Reriutaba,2311702
+Ce-Russas,2311801
+Ce-Saboeiro,2311900
+Ce-Salitre,2311959
+Ce-Santana do Acarau,2312007
+Ce-Santana do Cariri,2312106
+Ce-Santa Quiteria,2312205
+Ce-Sao Benedito,2312304
+Ce-Sao Goncalo do Amarante,2312403
+Ce-Sao Joao do Jaguaribe,2312502
+Ce-Sao Luis do Curu,2312601
+Ce-Senador Pompeu,2312700
+Ce-Senador Sa,2312809
+Ce-Sobral,2312908
+Ce-Solonopole,2313005
+Ce-Tabuleiro do Norte,2313104
+Ce-Tamboril,2313203
+Ce-Tarrafas,2313252
+Ce-Taua,2313302
+Ce-Tejucuoca,2313351
+Ce-Tiangua,2313401
+Ce-Trairi,2313500
+Ce-Tururu,2313559
+Ce-Ubajara,2313609
+Ce-Umari,2313708
+Ce-Umirim,2313757
+Ce-Uruburetama,2313807
+Ce-Uruoca,2313906
+Ce-Varjota,2313955
+Ce-Varzea Alegre,2314003
+Ce-Vicosa do Ceara,2314102
+Rn-Acari,2400109
+Rn-Acu,2400208
+Rn-Afonso Bezerra,2400307
+Rn-Agua Nova,2400406
+Rn-Alexandria,2400505
+Rn-Almino Afonso,2400604
+Rn-Alto do Rodrigues,2400703
+Rn-Angicos,2400802
+Rn-Antonio Martins,2400901
+Rn-Apodi,2401008
+Rn-Areia Branca,2401107
+Rn-Ares,2401206
+Rn-Augusto Severo,2401305
+Rn-Baia Formosa,2401404
+Rn-Barauna,2401453
+Rn-Barcelona,2401503
+Rn-Bento Fernandes,2401602
+Rn-Bodo,2401651
+Rn-Bom Jesus,2401701
+Rn-Brejinho,2401800
+Rn-Caicara do Norte,2401859
+Rn-Caicara do Rio do Vento,2401909
+Rn-Caico,2402006
+Rn-Campo Redondo,2402105
+Rn-Canguaretama,2402204
+Rn-Caraubas,2402303
+Rn-Carnauba dos Dantas,2402402
+Rn-Carnaubais,2402501
+Rn-Ceara-Mirim,2402600
+Rn-Cerro Cora,2402709
+Rn-Coronel Ezequiel,2402808
+Rn-Coronel Joao Pessoa,2402907
+Rn-Cruzeta,2403004
+Rn-Currais Novos,2403103
+Rn-Doutor Severiano,2403202
+Rn-Parnamirim,2403251
+Rn-Encanto,2403301
+Rn-Equador,2403400
+Rn-Espirito Santo,2403509
+Rn-Extremoz,2403608
+Rn-Felipe Guerra,2403707
+Rn-Fernando Pedroza,2403756
+Rn-Florania,2403806
+Rn-Francisco Dantas,2403905
+Rn-Frutuoso Gomes,2404002
+Rn-Galinhos,2404101
+Rn-Goianinha,2404200
+Rn-Governador Dix-Sept Rosado,2404309
+Rn-Grossos,2404408
+Rn-Guamare,2404507
+Rn-Ielmo Marinho,2404606
+Rn-Ipanguacu,2404705
+Rn-Ipueira,2404804
+Rn-Itaja,2404853
+Rn-Itau,2404903
+Rn-Jacana,2405009
+Rn-Jandaira,2405108
+Rn-Janduis,2405207
+Rn-Januario Cicco,2405306
+Rn-Japi,2405405
+Rn-Jardim de Angicos,2405504
+Rn-Jardim de Piranhas,2405603
+Rn-Jardim do Serido,2405702
+Rn-Joao Camara,2405801
+Rn-Joao Dias,2405900
+Rn-Jose da Penha,2406007
+Rn-Jucurutu,2406106
+Rn-Jundia,2406155
+Rn-Lagoa D Anta,2406205
+Rn-Lagoa de Pedras,2406304
+Rn-Lagoa de Velhos,2406403
+Rn-Lagoa Nova,2406502
+Rn-Lagoa Salgada,2406601
+Rn-Lajes,2406700
+Rn-Lajes Pintadas,2406809
+Rn-Lucrecia,2406908
+Rn-Luis Gomes,2407005
+Rn-Macaiba,2407104
+Rn-Macau,2407203
+Rn-Major Sales,2407252
+Rn-Marcelino Vieira,2407302
+Rn-Martins,2407401
+Rn-Maxaranguape,2407500
+Rn-Messias Targino,2407609
+Rn-Montanhas,2407708
+Rn-Monte Alegre,2407807
+Rn-Monte das Gameleiras,2407906
+Rn-Mossoro,2408003
+Rn-Natal,2408102
+Rn-Nisia Floresta,2408201
+Rn-Nova Cruz,2408300
+Rn-Olho-D Agua do Borges,2408409
+Rn-Ouro Branco,2408508
+Rn-Parana,2408607
+Rn-Parau,2408706
+Rn-Parazinho,2408805
+Rn-Parelhas,2408904
+Rn-Rio do Fogo,2408953
+Rn-Passa e Fica,2409100
+Rn-Passagem,2409209
+Rn-Patu,2409308
+Rn-Santa Maria,2409332
+Rn-Pau dos Ferros,2409407
+Rn-Pedra Grande,2409506
+Rn-Pedra Preta,2409605
+Rn-Pedro Avelino,2409704
+Rn-Pedro Velho,2409803
+Rn-Pendencias,2409902
+Rn-Piloes,2410009
+Rn-Poco Branco,2410108
+Rn-Portalegre,2410207
+Rn-Porto do Mangue,2410256
+Rn-Serra Caiada,2410306
+Rn-Pureza,2410405
+Rn-Rafael Fernandes,2410504
+Rn-Rafael Godeiro,2410603
+Rn-Riacho da Cruz,2410702
+Rn-Riacho de Santana,2410801
+Rn-Riachuelo,2410900
+Rn-Rodolfo Fernandes,2411007
+Rn-Tibau,2411056
+Rn-Ruy Barbosa,2411106
+Rn-Santa Cruz,2411205
+Rn-Santana do Matos,2411403
+Rn-Santana do Serido,2411429
+Rn-Santo Antonio,2411502
+Rn-Sao Bento do Norte,2411601
+Rn-Sao Bento do Trairi,2411700
+Rn-Sao Fernando,2411809
+Rn-Sao Francisco do Oeste,2411908
+Rn-Sao Goncalo do Amarante,2412005
+Rn-Sao Joao do Sabugi,2412104
+Rn-Sao Jose de Mipibu,2412203
+Rn-Sao Jose do Campestre,2412302
+Rn-Sao Jose do Serido,2412401
+Rn-Sao Miguel,2412500
+Rn-Sao Miguel do Gostoso,2412559
+Rn-Sao Paulo do Potengi,2412609
+Rn-Sao Pedro,2412708
+Rn-Sao Rafael,2412807
+Rn-Sao Tome,2412906
+Rn-Sao Vicente,2413003
+Rn-Senador Eloi de Souza,2413102
+Rn-Senador Georgino Avelino,2413201
+Rn-Serra de Sao Bento,2413300
+Rn-Serra do Mel,2413359
+Rn-Serra Negra do Norte,2413409
+Rn-Serrinha,2413508
+Rn-Serrinha dos Pintos,2413557
+Rn-Severiano Melo,2413607
+Rn-Sitio Novo,2413706
+Rn-Taboleiro Grande,2413805
+Rn-Taipu,2413904
+Rn-Tangara,2414001
+Rn-Tenente Ananias,2414100
+Rn-Tenente Laurentino Cruz,2414159
+Rn-Tibau do Sul,2414209
+Rn-Timbauba dos Batistas,2414308
+Rn-Touros,2414407
+Rn-Triunfo Potiguar,2414456
+Rn-Umarizal,2414506
+Rn-Upanema,2414605
+Rn-Varzea,2414704
+Rn-Venha-Ver,2414753
+Rn-Vera Cruz,2414803
+Rn-Vicosa,2414902
+Rn-Vila Flor,2415008
+Pb-Agua Branca,2500106
+Pb-Aguiar,2500205
+Pb-Alagoa Grande,2500304
+Pb-Alagoa Nova,2500403
+Pb-Alagoinha,2500502
+Pb-Alcantil,2500536
+Pb-Algodao de Jandaira,2500577
+Pb-Alhandra,2500601
+Pb-Sao Joao do Rio do Peixe,2500700
+Pb-Amparo,2500734
+Pb-Aparecida,2500775
+Pb-Aracagi,2500809
+Pb-Arara,2500908
+Pb-Araruna,2501005
+Pb-Areia,2501104
+Pb-Areia de Baraunas,2501153
+Pb-Areial,2501203
+Pb-Aroeiras,2501302
+Pb-Assuncao,2501351
+Pb-Baia da Traicao,2501401
+Pb-Bananeiras,2501500
+Pb-Barauna,2501534
+Pb-Barra de Santana,2501575
+Pb-Barra de Santa Rosa,2501609
+Pb-Barra de Sao Miguel,2501708
+Pb-Bayeux,2501807
+Pb-Belem,2501906
+Pb-Belem do Brejo do Cruz,2502003
+Pb-Bernardino Batista,2502052
+Pb-Boa Ventura,2502102
+Pb-Boa Vista,2502151
+Pb-Bom Jesus,2502201
+Pb-Bom Sucesso,2502300
+Pb-Bonito de Santa Fe,2502409
+Pb-Boqueirao,2502508
+Pb-Igaracy,2502607
+Pb-Borborema,2502706
+Pb-Brejo do Cruz,2502805
+Pb-Brejo dos Santos,2502904
+Pb-Caapora,2503001
+Pb-Cabaceiras,2503100
+Pb-Cabedelo,2503209
+Pb-Cachoeira dos Indios,2503308
+Pb-Cacimba de Areia,2503407
+Pb-Cacimba de Dentro,2503506
+Pb-Cacimbas,2503555
+Pb-Caicara,2503605
+Pb-Cajazeiras,2503704
+Pb-Cajazeirinhas,2503753
+Pb-Caldas Brandao,2503803
+Pb-Camalau,2503902
+Pb-Campina Grande,2504009
+Pb-Capim,2504033
+Pb-Caraubas,2504074
+Pb-Carrapateira,2504108
+Pb-Casserengue,2504157
+Pb-Catingueira,2504207
+Pb-Catole do Rocha,2504306
+Pb-Caturite,2504355
+Pb-Conceicao,2504405
+Pb-Condado,2504504
+Pb-Conde,2504603
+Pb-Congo,2504702
+Pb-Coremas,2504801
+Pb-Coxixola,2504850
+Pb-Cruz do Espirito Santo,2504900
+Pb-Cubati,2505006
+Pb-Cuite,2505105
+Pb-Cuitegi,2505204
+Pb-Cuite de Mamanguape,2505238
+Pb-Curral de Cima,2505279
+Pb-Curral Velho,2505303
+Pb-Damiao,2505352
+Pb-Desterro,2505402
+Pb-Vista Serrana,2505501
+Pb-Diamante,2505600
+Pb-Dona Ines,2505709
+Pb-Duas Estradas,2505808
+Pb-Emas,2505907
+Pb-Esperanca,2506004
+Pb-Fagundes,2506103
+Pb-Frei Martinho,2506202
+Pb-Gado Bravo,2506251
+Pb-Guarabira,2506301
+Pb-Gurinhem,2506400
+Pb-Gurjao,2506509
+Pb-Ibiara,2506608
+Pb-Imaculada,2506707
+Pb-Inga,2506806
+Pb-Itabaiana,2506905
+Pb-Itaporanga,2507002
+Pb-Itapororoca,2507101
+Pb-Itatuba,2507200
+Pb-Jacarau,2507309
+Pb-Jerico,2507408
+Pb-Joao Pessoa,2507507
+Pb-Juarez Tavora,2507606
+Pb-Juazeirinho,2507705
+Pb-Junco do Serido,2507804
+Pb-Juripiranga,2507903
+Pb-Juru,2508000
+Pb-Lagoa,2508109
+Pb-Lagoa de Dentro,2508208
+Pb-Lagoa Seca,2508307
+Pb-Lastro,2508406
+Pb-Livramento,2508505
+Pb-Logradouro,2508554
+Pb-Lucena,2508604
+Pb-Mae D Agua,2508703
+Pb-Malta,2508802
+Pb-Mamanguape,2508901
+Pb-Manaira,2509008
+Pb-Marcacao,2509057
+Pb-Mari,2509107
+Pb-Marizopolis,2509156
+Pb-Massaranduba,2509206
+Pb-Mataraca,2509305
+Pb-Matinhas,2509339
+Pb-Mato Grosso,2509370
+Pb-Matureia,2509396
+Pb-Mogeiro,2509404
+Pb-Montadas,2509503
+Pb-Monte Horebe,2509602
+Pb-Monteiro,2509701
+Pb-Mulungu,2509800
+Pb-Natuba,2509909
+Pb-Nazarezinho,2510006
+Pb-Nova Floresta,2510105
+Pb-Nova Olinda,2510204
+Pb-Nova Palmeira,2510303
+Pb-Olho D Agua,2510402
+Pb-Olivedos,2510501
+Pb-Ouro Velho,2510600
+Pb-Parari,2510659
+Pb-Passagem,2510709
+Pb-Patos,2510808
+Pb-Paulista,2510907
+Pb-Pedra Branca,2511004
+Pb-Pedra Lavrada,2511103
+Pb-Pedras de Fogo,2511202
+Pb-Pianco,2511301
+Pb-Picui,2511400
+Pb-Pilar,2511509
+Pb-Piloes,2511608
+Pb-Piloezinhos,2511707
+Pb-Pirpirituba,2511806
+Pb-Pitimbu,2511905
+Pb-Pocinhos,2512002
+Pb-Poco Dantas,2512036
+Pb-Poco de Jose de Moura,2512077
+Pb-Pombal,2512101
+Pb-Prata,2512200
+Pb-Princesa Isabel,2512309
+Pb-Puxinana,2512408
+Pb-Queimadas,2512507
+Pb-Quixaba,2512606
+Pb-Remigio,2512705
+Pb-Pedro Regis,2512721
+Pb-Riachao,2512747
+Pb-Riachao do Bacamarte,2512754
+Pb-Riachao do Poco,2512762
+Pb-Riacho de Santo Antonio,2512788
+Pb-Riacho dos Cavalos,2512804
+Pb-Rio Tinto,2512903
+Pb-Salgadinho,2513000
+Pb-Salgado de Sao Felix,2513109
+Pb-Santa Cecilia,2513158
+Pb-Santa Cruz,2513208
+Pb-Santa Helena,2513307
+Pb-Santa Ines,2513356
+Pb-Santa Luzia,2513406
+Pb-Santana de Mangueira,2513505
+Pb-Santana dos Garrotes,2513604
+Pb-Joca Claudino,2513653
+Pb-Santa Rita,2513703
+Pb-Santa Teresinha,2513802
+Pb-Santo Andre,2513851
+Pb-Sao Bento,2513901
+Pb-Sao Bentinho,2513927
+Pb-Sao Domingos do Cariri,2513943
+Pb-Sao Domingos,2513968
+Pb-Sao Francisco,2513984
+Pb-Sao Joao do Cariri,2514008
+Pb-Sao Joao do Tigre,2514107
+Pb-Sao Jose da Lagoa Tapada,2514206
+Pb-Sao Jose de Caiana,2514305
+Pb-Sao Jose de Espinharas,2514404
+Pb-Sao Jose dos Ramos,2514453
+Pb-Sao Jose de Piranhas,2514503
+Pb-Sao Jose de Princesa,2514552
+Pb-Sao Jose do Bonfim,2514602
+Pb-Sao Jose do Brejo do Cruz,2514651
+Pb-Sao Jose do Sabugi,2514701
+Pb-Sao Jose dos Cordeiros,2514800
+Pb-Sao Mamede,2514909
+Pb-Sao Miguel de Taipu,2515005
+Pb-Sao Sebastiao de Lagoa de Roca,2515104
+Pb-Sao Sebastiao do Umbuzeiro,2515203
+Pb-Sape,2515302
+Pb-Sao Vicente do Serido,2515401
+Pb-Serra Branca,2515500
+Pb-Serra da Raiz,2515609
+Pb-Serra Grande,2515708
+Pb-Serra Redonda,2515807
+Pb-Serraria,2515906
+Pb-Sertaozinho,2515930
+Pb-Sobrado,2515971
+Pb-Solanea,2516003
+Pb-Soledade,2516102
+Pb-Sossego,2516151
+Pb-Sousa,2516201
+Pb-Sume,2516300
+Pb-Tacima,2516409
+Pb-Taperoa,2516508
+Pb-Tavares,2516607
+Pb-Teixeira,2516706
+Pb-Tenorio,2516755
+Pb-Triunfo,2516805
+Pb-Uirauna,2516904
+Pb-Umbuzeiro,2517001
+Pb-Varzea,2517100
+Pb-Vieiropolis,2517209
+Pb-Zabele,2517407
+Pe-Abreu e Lima,2600054
+Pe-Afogados da Ingazeira,2600104
+Pe-Afranio,2600203
+Pe-Agrestina,2600302
+Pe-Agua Preta,2600401
+Pe-Aguas Belas,2600500
+Pe-Alagoinha,2600609
+Pe-Alianca,2600708
+Pe-Altinho,2600807
+Pe-Amaraji,2600906
+Pe-Angelim,2601003
+Pe-Aracoiaba,2601052
+Pe-Araripina,2601102
+Pe-Arcoverde,2601201
+Pe-Barra de Guabiraba,2601300
+Pe-Barreiros,2601409
+Pe-Belem de Maria,2601508
+Pe-Belem do Sao Francisco,2601607
+Pe-Belo Jardim,2601706
+Pe-Betania,2601805
+Pe-Bezerros,2601904
+Pe-Bodoco,2602001
+Pe-Bom Conselho,2602100
+Pe-Bom Jardim,2602209
+Pe-Bonito,2602308
+Pe-Brejao,2602407
+Pe-Brejinho,2602506
+Pe-Brejo da Madre de Deus,2602605
+Pe-Buenos Aires,2602704
+Pe-Buique,2602803
+Pe-Cabo de Santo Agostinho,2602902
+Pe-Cabrobo,2603009
+Pe-Cachoeirinha,2603108
+Pe-Caetes,2603207
+Pe-Calcado,2603306
+Pe-Calumbi,2603405
+Pe-Camaragibe,2603454
+Pe-Camocim de Sao Felix,2603504
+Pe-Camutanga,2603603
+Pe-Canhotinho,2603702
+Pe-Capoeiras,2603801
+Pe-Carnaiba,2603900
+Pe-Carnaubeira da Penha,2603926
+Pe-Carpina,2604007
+Pe-Caruaru,2604106
+Pe-Casinhas,2604155
+Pe-Catende,2604205
+Pe-Cedro,2604304
+Pe-Cha de Alegria,2604403
+Pe-Cha Grande,2604502
+Pe-Condado,2604601
+Pe-Correntes,2604700
+Pe-Cortes,2604809
+Pe-Cumaru,2604908
+Pe-Cupira,2605004
+Pe-Custodia,2605103
+Pe-Dormentes,2605152
+Pe-Escada,2605202
+Pe-Exu,2605301
+Pe-Feira Nova,2605400
+Pe-Fernando de Noronha,2605459
+Pe-Ferreiros,2605509
+Pe-Flores,2605608
+Pe-Floresta,2605707
+Pe-Frei Miguelinho,2605806
+Pe-Gameleira,2605905
+Pe-Garanhuns,2606002
+Pe-Gloria do Goita,2606101
+Pe-Goiana,2606200
+Pe-Granito,2606309
+Pe-Gravata,2606408
+Pe-Iati,2606507
+Pe-Ibimirim,2606606
+Pe-Ibirajuba,2606705
+Pe-Igarassu,2606804
+Pe-Iguaracy,2606903
+Pe-Inaja,2607000
+Pe-Ingazeira,2607109
+Pe-Ipojuca,2607208
+Pe-Ipubi,2607307
+Pe-Itacuruba,2607406
+Pe-Itaiba,2607505
+Pe-Ilha de Itamaraca,2607604
+Pe-Itambe,2607653
+Pe-Itapetim,2607703
+Pe-Itapissuma,2607752
+Pe-Itaquitinga,2607802
+Pe-Jaboatao dos Guararapes,2607901
+Pe-Jaqueira,2607950
+Pe-Jatauba,2608008
+Pe-Jatoba,2608057
+Pe-Joao Alfredo,2608107
+Pe-Joaquim Nabuco,2608206
+Pe-Jucati,2608255
+Pe-Jupi,2608305
+Pe-Jurema,2608404
+Pe-Lagoa do Carro,2608453
+Pe-Lagoa de Itaenga,2608503
+Pe-Lagoa do Ouro,2608602
+Pe-Lagoa dos Gatos,2608701
+Pe-Lagoa Grande,2608750
+Pe-Lajedo,2608800
+Pe-Limoeiro,2608909
+Pe-Macaparana,2609006
+Pe-Machados,2609105
+Pe-Manari,2609154
+Pe-Maraial,2609204
+Pe-Mirandiba,2609303
+Pe-Moreno,2609402
+Pe-Nazare da Mata,2609501
+Pe-Olinda,2609600
+Pe-Orobo,2609709
+Pe-Oroco,2609808
+Pe-Ouricuri,2609907
+Pe-Palmares,2610004
+Pe-Palmeirina,2610103
+Pe-Panelas,2610202
+Pe-Paranatama,2610301
+Pe-Parnamirim,2610400
+Pe-Passira,2610509
+Pe-Paudalho,2610608
+Pe-Paulista,2610707
+Pe-Pedra,2610806
+Pe-Pesqueira,2610905
+Pe-Petrolandia,2611002
+Pe-Petrolina,2611101
+Pe-Pocao,2611200
+Pe-Pombos,2611309
+Pe-Primavera,2611408
+Pe-Quipapa,2611507
+Pe-Quixaba,2611533
+Pe-Recife,2611606
+Pe-Riacho das Almas,2611705
+Pe-Ribeirao,2611804
+Pe-Rio Formoso,2611903
+Pe-Saire,2612000
+Pe-Salgadinho,2612109
+Pe-Salgueiro,2612208
+Pe-Saloa,2612307
+Pe-Sanharo,2612406
+Pe-Santa Cruz,2612455
+Pe-Santa Cruz da Baixa Verde,2612471
+Pe-Santa Cruz do Capibaribe,2612505
+Pe-Santa Filomena,2612554
+Pe-Santa Maria da Boa Vista,2612604
+Pe-Santa Maria do Cambuca,2612703
+Pe-Santa Terezinha,2612802
+Pe-Sao Benedito do Sul,2612901
+Pe-Sao Bento do Una,2613008
+Pe-Sao Caitano,2613107
+Pe-Sao Joao,2613206
+Pe-Sao Joaquim do Monte,2613305
+Pe-Sao Jose da Coroa Grande,2613404
+Pe-Sao Jose do Belmonte,2613503
+Pe-Sao Jose do Egito,2613602
+Pe-Sao Lourenco da Mata,2613701
+Pe-Sao Vicente Ferrer,2613800
+Pe-Serra Talhada,2613909
+Pe-Serrita,2614006
+Pe-Sertania,2614105
+Pe-Sirinhaem,2614204
+Pe-Moreilandia,2614303
+Pe-Solidao,2614402
+Pe-Surubim,2614501
+Pe-Tabira,2614600
+Pe-Tacaimbo,2614709
+Pe-Tacaratu,2614808
+Pe-Tamandare,2614857
+Pe-Taquaritinga do Norte,2615003
+Pe-Terezinha,2615102
+Pe-Terra Nova,2615201
+Pe-Timbauba,2615300
+Pe-Toritama,2615409
+Pe-Tracunhaem,2615508
+Pe-Trindade,2615607
+Pe-Triunfo,2615706
+Pe-Tupanatinga,2615805
+Pe-Tuparetama,2615904
+Pe-Venturosa,2616001
+Pe-Verdejante,2616100
+Pe-Vertente do Lerio,2616183
+Pe-Vertentes,2616209
+Pe-Vicencia,2616308
+Pe-Vitoria de Santo Antao,2616407
+Pe-Xexeu,2616506
+Al-Agua Branca,2700102
+Al-Anadia,2700201
+Al-Arapiraca,2700300
+Al-Atalaia,2700409
+Al-Barra de Santo Antonio,2700508
+Al-Barra de Sao Miguel,2700607
+Al-Batalha,2700706
+Al-Belem,2700805
+Al-Belo Monte,2700904
+Al-Boca da Mata,2701001
+Al-Branquinha,2701100
+Al-Cacimbinhas,2701209
+Al-Cajueiro,2701308
+Al-Campestre,2701357
+Al-Campo Alegre,2701407
+Al-Campo Grande,2701506
+Al-Canapi,2701605
+Al-Capela,2701704
+Al-Carneiros,2701803
+Al-Cha Preta,2701902
+Al-Coite do Noia,2702009
+Al-Colonia Leopoldina,2702108
+Al-Coqueiro Seco,2702207
+Al-Coruripe,2702306
+Al-Craibas,2702355
+Al-Delmiro Gouveia,2702405
+Al-Dois Riachos,2702504
+Al-Estrela de Alagoas,2702553
+Al-Feira Grande,2702603
+Al-Feliz Deserto,2702702
+Al-Flexeiras,2702801
+Al-Girau do Ponciano,2702900
+Al-Ibateguara,2703007
+Al-Igaci,2703106
+Al-Igreja Nova,2703205
+Al-Inhapi,2703304
+Al-Jacare dos Homens,2703403
+Al-Jacuipe,2703502
+Al-Japaratinga,2703601
+Al-Jaramataia,2703700
+Al-Jequia da Praia,2703759
+Al-Joaquim Gomes,2703809
+Al-Jundia,2703908
+Al-Junqueiro,2704005
+Al-Lagoa da Canoa,2704104
+Al-Limoeiro de Anadia,2704203
+Al-Maceio,2704302
+Al-Major Isidoro,2704401
+Al-Maragogi,2704500
+Al-Maravilha,2704609
+Al-Marechal Deodoro,2704708
+Al-Maribondo,2704807
+Al-Mar Vermelho,2704906
+Al-Mata Grande,2705002
+Al-Matriz de Camaragibe,2705101
+Al-Messias,2705200
+Al-Minador do Negrao,2705309
+Al-Monteiropolis,2705408
+Al-Murici,2705507
+Al-Novo Lino,2705606
+Al-Olho D Agua das Flores,2705705
+Al-Olho D Agua do Casado,2705804
+Al-Olho D Agua Grande,2705903
+Al-Olivenca,2706000
+Al-Ouro Branco,2706109
+Al-Palestina,2706208
+Al-Palmeira dos Indios,2706307
+Al-Pao de Acucar,2706406
+Al-Pariconha,2706422
+Al-Paripueira,2706448
+Al-Passo de Camaragibe,2706505
+Al-Paulo Jacinto,2706604
+Al-Penedo,2706703
+Al-Piacabucu,2706802
+Al-Pilar,2706901
+Al-Pindoba,2707008
+Al-Piranhas,2707107
+Al-Poco das Trincheiras,2707206
+Al-Porto Calvo,2707305
+Al-Porto de Pedras,2707404
+Al-Porto Real do Colegio,2707503
+Al-Quebrangulo,2707602
+Al-Rio Largo,2707701
+Al-Roteiro,2707800
+Al-Santa Luzia do Norte,2707909
+Al-Santana do Ipanema,2708006
+Al-Santana do Mundau,2708105
+Al-Sao Bras,2708204
+Al-Sao Jose da Laje,2708303
+Al-Sao Jose da Tapera,2708402
+Al-Sao Luis do Quitunde,2708501
+Al-Sao Miguel dos Campos,2708600
+Al-Sao Miguel dos Milagres,2708709
+Al-Sao Sebastiao,2708808
+Al-Satuba,2708907
+Al-Senador Rui Palmeira,2708956
+Al-Tanque D Arca,2709004
+Al-Taquarana,2709103
+Al-Teotonio Vilela,2709152
+Al-Traipu,2709202
+Al-Uniao dos Palmares,2709301
+Al-Vicosa,2709400
+Se-Amparo de Sao Francisco,2800100
+Se-Aquidaba,2800209
+Se-Aracaju,2800308
+Se-Araua,2800407
+Se-Areia Branca,2800506
+Se-Barra dos Coqueiros,2800605
+Se-Boquim,2800670
+Se-Brejo Grande,2800704
+Se-Campo do Brito,2801009
+Se-Canhoba,2801108
+Se-Caninde de Sao Francisco,2801207
+Se-Capela,2801306
+Se-Carira,2801405
+Se-Carmopolis,2801504
+Se-Cedro de Sao Joao,2801603
+Se-Cristinapolis,2801702
+Se-Cumbe,2801900
+Se-Divina Pastora,2802007
+Se-Estancia,2802106
+Se-Feira Nova,2802205
+Se-Frei Paulo,2802304
+Se-Gararu,2802403
+Se-General Maynard,2802502
+Se-Gracho Cardoso,2802601
+Se-Ilha das Flores,2802700
+Se-Indiaroba,2802809
+Se-Itabaiana,2802908
+Se-Itabaianinha,2803005
+Se-Itabi,2803104
+Se-Itaporanga D Ajuda,2803203
+Se-Japaratuba,2803302
+Se-Japoata,2803401
+Se-Lagarto,2803500
+Se-Laranjeiras,2803609
+Se-Macambira,2803708
+Se-Malhada dos Bois,2803807
+Se-Malhador,2803906
+Se-Maruim,2804003
+Se-Moita Bonita,2804102
+Se-Monte Alegre de Sergipe,2804201
+Se-Muribeca,2804300
+Se-Neopolis,2804409
+Se-Nossa Senhora Aparecida,2804458
+Se-Nossa Senhora da Gloria,2804508
+Se-Nossa Senhora das Dores,2804607
+Se-Nossa Senhora de Lourdes,2804706
+Se-Nossa Senhora do Socorro,2804805
+Se-Pacatuba,2804904
+Se-Pedra Mole,2805000
+Se-Pedrinhas,2805109
+Se-Pinhao,2805208
+Se-Pirambu,2805307
+Se-Poco Redondo,2805406
+Se-Poco Verde,2805505
+Se-Porto da Folha,2805604
+Se-Propria,2805703
+Se-Riachao do Dantas,2805802
+Se-Riachuelo,2805901
+Se-Ribeiropolis,2806008
+Se-Rosario do Catete,2806107
+Se-Salgado,2806206
+Se-Santa Luzia do Itanhy,2806305
+Se-Santana do Sao Francisco,2806404
+Se-Santa Rosa de Lima,2806503
+Se-Santo Amaro das Brotas,2806602
+Se-Sao Cristovao,2806701
+Se-Sao Domingos,2806800
+Se-Sao Francisco,2806909
+Se-Sao Miguel do Aleixo,2807006
+Se-Simao Dias,2807105
+Se-Siriri,2807204
+Se-Telha,2807303
+Se-Tobias Barreto,2807402
+Se-Tomar do Geru,2807501
+Se-Umbauba,2807600
+Ba-Abaira,2900108
+Ba-Abare,2900207
+Ba-Acajutiba,2900306
+Ba-Adustina,2900355
+Ba-Agua Fria,2900405
+Ba-Erico Cardoso,2900504
+Ba-Aiquara,2900603
+Ba-Alagoinhas,2900702
+Ba-Alcobaca,2900801
+Ba-Almadina,2900900
+Ba-Amargosa,2901007
+Ba-Amelia Rodrigues,2901106
+Ba-America Dourada,2901155
+Ba-Anage,2901205
+Ba-Andarai,2901304
+Ba-Andorinha,2901353
+Ba-Angical,2901403
+Ba-Anguera,2901502
+Ba-Antas,2901601
+Ba-Antonio Cardoso,2901700
+Ba-Antonio Goncalves,2901809
+Ba-Apora,2901908
+Ba-Apuarema,2901957
+Ba-Aracatu,2902005
+Ba-Aracas,2902054
+Ba-Araci,2902104
+Ba-Aramari,2902203
+Ba-Arataca,2902252
+Ba-Aratuipe,2902302
+Ba-Aurelino Leal,2902401
+Ba-Baianopolis,2902500
+Ba-Baixa Grande,2902609
+Ba-Banzae,2902658
+Ba-Barra,2902708
+Ba-Barra da Estiva,2902807
+Ba-Barra do Choca,2902906
+Ba-Barra do Mendes,2903003
+Ba-Barra do Rocha,2903102
+Ba-Barreiras,2903201
+Ba-Barro Alto,2903235
+Ba-Barrocas,2903276
+Ba-Barro Preto,2903300
+Ba-Belmonte,2903409
+Ba-Belo Campo,2903508
+Ba-Biritinga,2903607
+Ba-Boa Nova,2903706
+Ba-Boa Vista do Tupim,2903805
+Ba-Bom Jesus da Lapa,2903904
+Ba-Bom Jesus da Serra,2903953
+Ba-Boninal,2904001
+Ba-Bonito,2904050
+Ba-Boquira,2904100
+Ba-Botupora,2904209
+Ba-Brejoes,2904308
+Ba-Brejolandia,2904407
+Ba-Brotas de Macaubas,2904506
+Ba-Brumado,2904605
+Ba-Buerarema,2904704
+Ba-Buritirama,2904753
+Ba-Caatiba,2904803
+Ba-Cabaceiras do Paraguacu,2904852
+Ba-Cachoeira,2904902
+Ba-Cacule,2905008
+Ba-Caem,2905107
+Ba-Caetanos,2905156
+Ba-Caetite,2905206
+Ba-Cafarnaum,2905305
+Ba-Cairu,2905404
+Ba-Caldeirao Grande,2905503
+Ba-Camacan,2905602
+Ba-Camacari,2905701
+Ba-Camamu,2905800
+Ba-Campo Alegre de Lourdes,2905909
+Ba-Campo Formoso,2906006
+Ba-Canapolis,2906105
+Ba-Canarana,2906204
+Ba-Canavieiras,2906303
+Ba-Candeal,2906402
+Ba-Candeias,2906501
+Ba-Candiba,2906600
+Ba-Candido Sales,2906709
+Ba-Cansancao,2906808
+Ba-Canudos,2906824
+Ba-Capela do Alto Alegre,2906857
+Ba-Capim Grosso,2906873
+Ba-Caraibas,2906899
+Ba-Caravelas,2906907
+Ba-Cardeal da Silva,2907004
+Ba-Carinhanha,2907103
+Ba-Casa Nova,2907202
+Ba-Castro Alves,2907301
+Ba-Catolandia,2907400
+Ba-Catu,2907509
+Ba-Caturama,2907558
+Ba-Central,2907608
+Ba-Chorrocho,2907707
+Ba-Cicero Dantas,2907806
+Ba-Cipo,2907905
+Ba-Coaraci,2908002
+Ba-Cocos,2908101
+Ba-Conceicao da Feira,2908200
+Ba-Conceicao do Almeida,2908309
+Ba-Conceicao do Coite,2908408
+Ba-Conceicao do Jacuipe,2908507
+Ba-Conde,2908606
+Ba-Condeuba,2908705
+Ba-Contendas do Sincora,2908804
+Ba-Coracao de Maria,2908903
+Ba-Cordeiros,2909000
+Ba-Coribe,2909109
+Ba-Coronel Joao Sa,2909208
+Ba-Correntina,2909307
+Ba-Cotegipe,2909406
+Ba-Cravolandia,2909505
+Ba-Crisopolis,2909604
+Ba-Cristopolis,2909703
+Ba-Cruz das Almas,2909802
+Ba-Curaca,2909901
+Ba-Dario Meira,2910008
+Ba-Dias D Avila,2910057
+Ba-Dom Basilio,2910107
+Ba-Dom Macedo Costa,2910206
+Ba-Elisio Medrado,2910305
+Ba-Encruzilhada,2910404
+Ba-Entre Rios,2910503
+Ba-Esplanada,2910602
+Ba-Euclides da Cunha,2910701
+Ba-Eunapolis,2910727
+Ba-Fatima,2910750
+Ba-Feira da Mata,2910776
+Ba-Feira de Santana,2910800
+Ba-Filadelfia,2910859
+Ba-Firmino Alves,2910909
+Ba-Floresta Azul,2911006
+Ba-Formosa do Rio Preto,2911105
+Ba-Gandu,2911204
+Ba-Gaviao,2911253
+Ba-Gentio do Ouro,2911303
+Ba-Gloria,2911402
+Ba-Gongogi,2911501
+Ba-Governador Mangabeira,2911600
+Ba-Guajeru,2911659
+Ba-Guanambi,2911709
+Ba-Guaratinga,2911808
+Ba-Heliopolis,2911857
+Ba-Iacu,2911907
+Ba-Ibiassuce,2912004
+Ba-Ibicarai,2912103
+Ba-Ibicoara,2912202
+Ba-Ibicui,2912301
+Ba-Ibipeba,2912400
+Ba-Ibipitanga,2912509
+Ba-Ibiquera,2912608
+Ba-Ibirapitanga,2912707
+Ba-Ibirapua,2912806
+Ba-Ibirataia,2912905
+Ba-Ibitiara,2913002
+Ba-Ibitita,2913101
+Ba-Ibotirama,2913200
+Ba-Ichu,2913309
+Ba-Igapora,2913408
+Ba-Igrapiuna,2913457
+Ba-Iguai,2913507
+Ba-Ilheus,2913606
+Ba-Inhambupe,2913705
+Ba-Ipecaeta,2913804
+Ba-Ipiau,2913903
+Ba-Ipira,2914000
+Ba-Ipupiara,2914109
+Ba-Irajuba,2914208
+Ba-Iramaia,2914307
+Ba-Iraquara,2914406
+Ba-Irara,2914505
+Ba-Irece,2914604
+Ba-Itabela,2914653
+Ba-Itaberaba,2914703
+Ba-Itabuna,2914802
+Ba-Itacare,2914901
+Ba-Itaete,2915007
+Ba-Itagi,2915106
+Ba-Itagiba,2915205
+Ba-Itagimirim,2915304
+Ba-Itaguacu da Bahia,2915353
+Ba-Itaju do Colonia,2915403
+Ba-Itajuipe,2915502
+Ba-Itamaraju,2915601
+Ba-Itamari,2915700
+Ba-Itambe,2915809
+Ba-Itanagra,2915908
+Ba-Itanhem,2916005
+Ba-Itaparica,2916104
+Ba-Itape,2916203
+Ba-Itapebi,2916302
+Ba-Itapetinga,2916401
+Ba-Itapicuru,2916500
+Ba-Itapitanga,2916609
+Ba-Itaquara,2916708
+Ba-Itarantim,2916807
+Ba-Itatim,2916856
+Ba-Itirucu,2916906
+Ba-Itiuba,2917003
+Ba-Itororo,2917102
+Ba-Ituacu,2917201
+Ba-Itubera,2917300
+Ba-Iuiu,2917334
+Ba-Jaborandi,2917359
+Ba-Jacaraci,2917409
+Ba-Jacobina,2917508
+Ba-Jaguaquara,2917607
+Ba-Jaguarari,2917706
+Ba-Jaguaripe,2917805
+Ba-Jandaira,2917904
+Ba-Jequie,2918001
+Ba-Jeremoabo,2918100
+Ba-Jiquirica,2918209
+Ba-Jitauna,2918308
+Ba-Joao Dourado,2918357
+Ba-Juazeiro,2918407
+Ba-Jucurucu,2918456
+Ba-Jussara,2918506
+Ba-Jussari,2918555
+Ba-Jussiape,2918605
+Ba-Lafaiete Coutinho,2918704
+Ba-Lagoa Real,2918753
+Ba-Laje,2918803
+Ba-Lajedao,2918902
+Ba-Lajedinho,2919009
+Ba-Lajedo do Tabocal,2919058
+Ba-Lamarao,2919108
+Ba-Lapao,2919157
+Ba-Lauro de Freitas,2919207
+Ba-Lencois,2919306
+Ba-Licinio de Almeida,2919405
+Ba-Livramento de Nossa Senhora,2919504
+Ba-Luis Eduardo Magalhaes,2919553
+Ba-Macajuba,2919603
+Ba-Macarani,2919702
+Ba-Macaubas,2919801
+Ba-Macurure,2919900
+Ba-Madre de Deus,2919926
+Ba-Maetinga,2919959
+Ba-Maiquinique,2920007
+Ba-Mairi,2920106
+Ba-Malhada,2920205
+Ba-Malhada de Pedras,2920304
+Ba-Manoel Vitorino,2920403
+Ba-Mansidao,2920452
+Ba-Maracas,2920502
+Ba-Maragogipe,2920601
+Ba-Marau,2920700
+Ba-Marcionilio Souza,2920809
+Ba-Mascote,2920908
+Ba-Mata de Sao Joao,2921005
+Ba-Matina,2921054
+Ba-Medeiros Neto,2921104
+Ba-Miguel Calmon,2921203
+Ba-Milagres,2921302
+Ba-Mirangaba,2921401
+Ba-Mirante,2921450
+Ba-Monte Santo,2921500
+Ba-Morpara,2921609
+Ba-Morro do Chapeu,2921708
+Ba-Mortugaba,2921807
+Ba-Mucuge,2921906
+Ba-Mucuri,2922003
+Ba-Mulungu do Morro,2922052
+Ba-Mundo Novo,2922102
+Ba-Muniz Ferreira,2922201
+Ba-Muquem de Sao Francisco,2922250
+Ba-Muritiba,2922300
+Ba-Mutuipe,2922409
+Ba-Nazare,2922508
+Ba-Nilo Pecanha,2922607
+Ba-Nordestina,2922656
+Ba-Nova Canaa,2922706
+Ba-Nova Fatima,2922730
+Ba-Nova Ibia,2922755
+Ba-Nova Itarana,2922805
+Ba-Nova Redencao,2922854
+Ba-Nova Soure,2922904
+Ba-Nova Vicosa,2923001
+Ba-Novo Horizonte,2923035
+Ba-Novo Triunfo,2923050
+Ba-Olindina,2923100
+Ba-Oliveira dos Brejinhos,2923209
+Ba-Ouricangas,2923308
+Ba-Ourolandia,2923357
+Ba-Palmas de Monte Alto,2923407
+Ba-Palmeiras,2923506
+Ba-Paramirim,2923605
+Ba-Paratinga,2923704
+Ba-Paripiranga,2923803
+Ba-Pau Brasil,2923902
+Ba-Paulo Afonso,2924009
+Ba-Pe de Serra,2924058
+Ba-Pedrao,2924108
+Ba-Pedro Alexandre,2924207
+Ba-Piata,2924306
+Ba-Pilao Arcado,2924405
+Ba-Pindai,2924504
+Ba-Pindobacu,2924603
+Ba-Pintadas,2924652
+Ba-Pirai do Norte,2924678
+Ba-Piripa,2924702
+Ba-Piritiba,2924801
+Ba-Planaltino,2924900
+Ba-Planalto,2925006
+Ba-Pocoes,2925105
+Ba-Pojuca,2925204
+Ba-Ponto Novo,2925253
+Ba-Porto Seguro,2925303
+Ba-Potiragua,2925402
+Ba-Prado,2925501
+Ba-Presidente Dutra,2925600
+Ba-Presidente Janio Quadros,2925709
+Ba-Presidente Tancredo Neves,2925758
+Ba-Queimadas,2925808
+Ba-Quijingue,2925907
+Ba-Quixabeira,2925931
+Ba-Rafael Jambeiro,2925956
+Ba-Remanso,2926004
+Ba-Retirolandia,2926103
+Ba-Riachao das Neves,2926202
+Ba-Riachao do Jacuipe,2926301
+Ba-Riacho de Santana,2926400
+Ba-Ribeira do Amparo,2926509
+Ba-Ribeira do Pombal,2926608
+Ba-Ribeirao do Largo,2926657
+Ba-Rio de Contas,2926707
+Ba-Rio do Antonio,2926806
+Ba-Rio do Pires,2926905
+Ba-Rio Real,2927002
+Ba-Rodelas,2927101
+Ba-Ruy Barbosa,2927200
+Ba-Salinas da Margarida,2927309
+Ba-Salvador,2927408
+Ba-Santa Barbara,2927507
+Ba-Santa Brigida,2927606
+Ba-Santa Cruz Cabralia,2927705
+Ba-Santa Cruz da Vitoria,2927804
+Ba-Santa Ines,2927903
+Ba-Santaluz,2928000
+Ba-Santa Luzia,2928059
+Ba-Santa Maria da Vitoria,2928109
+Ba-Santana,2928208
+Ba-Santanopolis,2928307
+Ba-Santa Rita de Cassia,2928406
+Ba-Santa Teresinha,2928505
+Ba-Santo Amaro,2928604
+Ba-Santo Antonio de Jesus,2928703
+Ba-Santo Estevao,2928802
+Ba-Sao Desiderio,2928901
+Ba-Sao Domingos,2928950
+Ba-Sao Felix,2929008
+Ba-Sao Felix do Coribe,2929057
+Ba-Sao Felipe,2929107
+Ba-Sao Francisco do Conde,2929206
+Ba-Sao Gabriel,2929255
+Ba-Sao Goncalo dos Campos,2929305
+Ba-Sao Jose da Vitoria,2929354
+Ba-Sao Jose do Jacuipe,2929370
+Ba-Sao Miguel das Matas,2929404
+Ba-Sao Sebastiao do Passe,2929503
+Ba-Sapeacu,2929602
+Ba-Satiro Dias,2929701
+Ba-Saubara,2929750
+Ba-Saude,2929800
+Ba-Seabra,2929909
+Ba-Sebastiao Laranjeiras,2930006
+Ba-Senhor do Bonfim,2930105
+Ba-Serra do Ramalho,2930154
+Ba-Sento Se,2930204
+Ba-Serra Dourada,2930303
+Ba-Serra Preta,2930402
+Ba-Serrinha,2930501
+Ba-Serrolandia,2930600
+Ba-Simoes Filho,2930709
+Ba-Sitio do Mato,2930758
+Ba-Sitio do Quinto,2930766
+Ba-Sobradinho,2930774
+Ba-Souto Soares,2930808
+Ba-Tabocas do Brejo Velho,2930907
+Ba-Tanhacu,2931004
+Ba-Tanque Novo,2931053
+Ba-Tanquinho,2931103
+Ba-Taperoa,2931202
+Ba-Tapiramuta,2931301
+Ba-Teixeira de Freitas,2931350
+Ba-Teodoro Sampaio,2931400
+Ba-Teofilandia,2931509
+Ba-Teolandia,2931608
+Ba-Terra Nova,2931707
+Ba-Tremedal,2931806
+Ba-Tucano,2931905
+Ba-Uaua,2932002
+Ba-Ubaira,2932101
+Ba-Ubaitaba,2932200
+Ba-Ubata,2932309
+Ba-Uibai,2932408
+Ba-Umburanas,2932457
+Ba-Una,2932507
+Ba-Urandi,2932606
+Ba-Urucuca,2932705
+Ba-Utinga,2932804
+Ba-Valenca,2932903
+Ba-Valente,2933000
+Ba-Varzea da Roca,2933059
+Ba-Varzea do Poco,2933109
+Ba-Varzea Nova,2933158
+Ba-Varzedo,2933174
+Ba-Vera Cruz,2933208
+Ba-Vereda,2933257
+Ba-Vitoria da Conquista,2933307
+Ba-Wagner,2933406
+Ba-Wanderley,2933455
+Ba-Wenceslau Guimaraes,2933505
+Ba-Xique-Xique,2933604
+Mg-Abadia dos Dourados,3100104
+Mg-Abaete,3100203
+Mg-Abre Campo,3100302
+Mg-Acaiaca,3100401
+Mg-Acucena,3100500
+Mg-Agua Boa,3100609
+Mg-Agua Comprida,3100708
+Mg-Aguanil,3100807
+Mg-Aguas Formosas,3100906
+Mg-Aguas Vermelhas,3101003
+Mg-Aimores,3101102
+Mg-Aiuruoca,3101201
+Mg-Alagoa,3101300
+Mg-Albertina,3101409
+Mg-Alem Paraiba,3101508
+Mg-Alfenas,3101607
+Mg-Alfredo Vasconcelos,3101631
+Mg-Almenara,3101706
+Mg-Alpercata,3101805
+Mg-Alpinopolis,3101904
+Mg-Alterosa,3102001
+Mg-Alto Caparao,3102050
+Mg-Alto Rio Doce,3102100
+Mg-Alvarenga,3102209
+Mg-Alvinopolis,3102308
+Mg-Alvorada de Minas,3102407
+Mg-Amparo do Serra,3102506
+Mg-Andradas,3102605
+Mg-Cachoeira de Pajeu,3102704
+Mg-Andrelandia,3102803
+Mg-Angelandia,3102852
+Mg-Antonio Carlos,3102902
+Mg-Antonio Dias,3103009
+Mg-Antonio Prado de Minas,3103108
+Mg-Aracai,3103207
+Mg-Aracitaba,3103306
+Mg-Aracuai,3103405
+Mg-Araguari,3103504
+Mg-Arantina,3103603
+Mg-Araponga,3103702
+Mg-Arapora,3103751
+Mg-Arapua,3103801
+Mg-Araujos,3103900
+Mg-Araxa,3104007
+Mg-Arceburgo,3104106
+Mg-Arcos,3104205
+Mg-Areado,3104304
+Mg-Argirita,3104403
+Mg-Aricanduva,3104452
+Mg-Arinos,3104502
+Mg-Astolfo Dutra,3104601
+Mg-Ataleia,3104700
+Mg-Augusto de Lima,3104809
+Mg-Baependi,3104908
+Mg-Baldim,3105004
+Mg-Bambui,3105103
+Mg-Bandeira,3105202
+Mg-Bandeira do Sul,3105301
+Mg-Barao de Cocais,3105400
+Mg-Barao de Monte Alto,3105509
+Mg-Barbacena,3105608
+Mg-Barra Longa,3105707
+Mg-Barroso,3105905
+Mg-Bela Vista de Minas,3106002
+Mg-Belmiro Braga,3106101
+Mg-Belo Horizonte,3106200
+Mg-Belo Oriente,3106309
+Mg-Belo Vale,3106408
+Mg-Berilo,3106507
+Mg-Bertopolis,3106606
+Mg-Berizal,3106655
+Mg-Betim,3106705
+Mg-Bias Fortes,3106804
+Mg-Bicas,3106903
+Mg-Biquinhas,3107000
+Mg-Boa Esperanca,3107109
+Mg-Bocaina de Minas,3107208
+Mg-Bocaiuva,3107307
+Mg-Bom Despacho,3107406
+Mg-Bom Jardim de Minas,3107505
+Mg-Bom Jesus da Penha,3107604
+Mg-Bom Jesus do Amparo,3107703
+Mg-Bom Jesus do Galho,3107802
+Mg-Bom Repouso,3107901
+Mg-Bom Sucesso,3108008
+Mg-Bonfim,3108107
+Mg-Bonfinopolis de Minas,3108206
+Mg-Bonito de Minas,3108255
+Mg-Borda da Mata,3108305
+Mg-Botelhos,3108404
+Mg-Botumirim,3108503
+Mg-Brasilandia de Minas,3108552
+Mg-Brasilia de Minas,3108602
+Mg-Bras Pires,3108701
+Mg-Braunas,3108800
+Mg-Brazopolis,3108909
+Mg-Brumadinho,3109006
+Mg-Bueno Brandao,3109105
+Mg-Buenopolis,3109204
+Mg-Bugre,3109253
+Mg-Buritis,3109303
+Mg-Buritizeiro,3109402
+Mg-Cabeceira Grande,3109451
+Mg-Cabo Verde,3109501
+Mg-Cachoeira da Prata,3109600
+Mg-Cachoeira de Minas,3109709
+Mg-Cachoeira Dourada,3109808
+Mg-Caetanopolis,3109907
+Mg-Caete,3110004
+Mg-Caiana,3110103
+Mg-Cajuri,3110202
+Mg-Caldas,3110301
+Mg-Camacho,3110400
+Mg-Camanducaia,3110509
+Mg-Cambui,3110608
+Mg-Cambuquira,3110707
+Mg-Campanario,3110806
+Mg-Campanha,3110905
+Mg-Campestre,3111002
+Mg-Campina Verde,3111101
+Mg-Campo Azul,3111150
+Mg-Campo Belo,3111200
+Mg-Campo do Meio,3111309
+Mg-Campo Florido,3111408
+Mg-Campos Altos,3111507
+Mg-Campos Gerais,3111606
+Mg-Canaa,3111705
+Mg-Canapolis,3111804
+Mg-Cana Verde,3111903
+Mg-Candeias,3112000
+Mg-Cantagalo,3112059
+Mg-Caparao,3112109
+Mg-Capela Nova,3112208
+Mg-Capelinha,3112307
+Mg-Capetinga,3112406
+Mg-Capim Branco,3112505
+Mg-Capinopolis,3112604
+Mg-Capitao Andrade,3112653
+Mg-Capitao Eneas,3112703
+Mg-Capitolio,3112802
+Mg-Caputira,3112901
+Mg-Carai,3113008
+Mg-Caranaiba,3113107
+Mg-Carandai,3113206
+Mg-Carangola,3113305
+Mg-Caratinga,3113404
+Mg-Carbonita,3113503
+Mg-Careacu,3113602
+Mg-Carlos Chagas,3113701
+Mg-Carmesia,3113800
+Mg-Carmo da Cachoeira,3113909
+Mg-Carmo da Mata,3114006
+Mg-Carmo de Minas,3114105
+Mg-Carmo do Cajuru,3114204
+Mg-Carmo do Paranaiba,3114303
+Mg-Carmo do Rio Claro,3114402
+Mg-Carmopolis de Minas,3114501
+Mg-Carneirinho,3114550
+Mg-Carrancas,3114600
+Mg-Carvalhopolis,3114709
+Mg-Carvalhos,3114808
+Mg-Casa Grande,3114907
+Mg-Cascalho Rico,3115003
+Mg-Cassia,3115102
+Mg-Conceicao da Barra de Minas,3115201
+Mg-Cataguases,3115300
+Mg-Catas Altas,3115359
+Mg-Catas Altas da Noruega,3115409
+Mg-Catuji,3115458
+Mg-Catuti,3115474
+Mg-Caxambu,3115508
+Mg-Cedro do Abaete,3115607
+Mg-Central de Minas,3115706
+Mg-Centralina,3115805
+Mg-Chacara,3115904
+Mg-Chale,3116001
+Mg-Chapada do Norte,3116100
+Mg-Chapada Gaucha,3116159
+Mg-Chiador,3116209
+Mg-Cipotanea,3116308
+Mg-Claraval,3116407
+Mg-Claro dos Pocoes,3116506
+Mg-Claudio,3116605
+Mg-Coimbra,3116704
+Mg-Coluna,3116803
+Mg-Comendador Gomes,3116902
+Mg-Comercinho,3117009
+Mg-Conceicao da Aparecida,3117108
+Mg-Conceicao das Pedras,3117207
+Mg-Conceicao das Alagoas,3117306
+Mg-Conceicao de Ipanema,3117405
+Mg-Conceicao do Mato Dentro,3117504
+Mg-Conceicao do Para,3117603
+Mg-Conceicao do Rio Verde,3117702
+Mg-Conceicao dos Ouros,3117801
+Mg-Conego Marinho,3117836
+Mg-Confins,3117876
+Mg-Congonhal,3117900
+Mg-Congonhas,3118007
+Mg-Congonhas do Norte,3118106
+Mg-Conquista,3118205
+Mg-Conselheiro Lafaiete,3118304
+Mg-Conselheiro Pena,3118403
+Mg-Consolacao,3118502
+Mg-Contagem,3118601
+Mg-Coqueiral,3118700
+Mg-Coracao de Jesus,3118809
+Mg-Cordisburgo,3118908
+Mg-Cordislandia,3119005
+Mg-Corinto,3119104
+Mg-Coroaci,3119203
+Mg-Coromandel,3119302
+Mg-Coronel Fabriciano,3119401
+Mg-Coronel Murta,3119500
+Mg-Coronel Pacheco,3119609
+Mg-Coronel Xavier Chaves,3119708
+Mg-Corrego Danta,3119807
+Mg-Corrego do Bom Jesus,3119906
+Mg-Corrego Fundo,3119955
+Mg-Corrego Novo,3120003
+Mg-Couto de Magalhaes de Minas,3120102
+Mg-Crisolita,3120151
+Mg-Cristais,3120201
+Mg-Cristalia,3120300
+Mg-Cristiano Otoni,3120409
+Mg-Cristina,3120508
+Mg-Crucilandia,3120607
+Mg-Cruzeiro da Fortaleza,3120706
+Mg-Cruzilia,3120805
+Mg-Cuparaque,3120839
+Mg-Curral de Dentro,3120870
+Mg-Curvelo,3120904
+Mg-Datas,3121001
+Mg-Delfim Moreira,3121100
+Mg-Delfinopolis,3121209
+Mg-Delta,3121258
+Mg-Descoberto,3121308
+Mg-Desterro de Entre Rios,3121407
+Mg-Desterro do Melo,3121506
+Mg-Diamantina,3121605
+Mg-Diogo de Vasconcelos,3121704
+Mg-Dionisio,3121803
+Mg-Divinesia,3121902
+Mg-Divino,3122009
+Mg-Divino das Laranjeiras,3122108
+Mg-Divinolandia de Minas,3122207
+Mg-Divinopolis,3122306
+Mg-Divisa Alegre,3122355
+Mg-Divisa Nova,3122405
+Mg-Divisopolis,3122454
+Mg-Dom Bosco,3122470
+Mg-Dom Cavati,3122504
+Mg-Dom Joaquim,3122603
+Mg-Dom Silverio,3122702
+Mg-Dom Vicoso,3122801
+Mg-Dona Eusebia,3122900
+Mg-Dores de Campos,3123007
+Mg-Dores de Guanhaes,3123106
+Mg-Dores do Indaia,3123205
+Mg-Dores do Turvo,3123304
+Mg-Doresopolis,3123403
+Mg-Douradoquara,3123502
+Mg-Durande,3123528
+Mg-Eloi Mendes,3123601
+Mg-Engenheiro Caldas,3123700
+Mg-Engenheiro Navarro,3123809
+Mg-Entre Folhas,3123858
+Mg-Entre Rios de Minas,3123908
+Mg-Ervalia,3124005
+Mg-Esmeraldas,3124104
+Mg-Espera Feliz,3124203
+Mg-Espinosa,3124302
+Mg-Espirito Santo do Dourado,3124401
+Mg-Estiva,3124500
+Mg-Estrela Dalva,3124609
+Mg-Estrela do Indaia,3124708
+Mg-Estrela do Sul,3124807
+Mg-Eugenopolis,3124906
+Mg-Ewbank da Camara,3125002
+Mg-Extrema,3125101
+Mg-Fama,3125200
+Mg-Faria Lemos,3125309
+Mg-Felicio dos Santos,3125408
+Mg-Sao Goncalo do Rio Preto,3125507
+Mg-Felisburgo,3125606
+Mg-Felixlandia,3125705
+Mg-Fernandes Tourinho,3125804
+Mg-Ferros,3125903
+Mg-Fervedouro,3125952
+Mg-Florestal,3126000
+Mg-Formiga,3126109
+Mg-Formoso,3126208
+Mg-Fortaleza de Minas,3126307
+Mg-Fortuna de Minas,3126406
+Mg-Francisco Badaro,3126505
+Mg-Francisco Dumont,3126604
+Mg-Francisco Sa,3126703
+Mg-Franciscopolis,3126752
+Mg-Frei Gaspar,3126802
+Mg-Frei Inocencio,3126901
+Mg-Frei Lagonegro,3126950
+Mg-Fronteira,3127008
+Mg-Fronteira dos Vales,3127057
+Mg-Fruta de Leite,3127073
+Mg-Frutal,3127107
+Mg-Funilandia,3127206
+Mg-Galileia,3127305
+Mg-Gameleiras,3127339
+Mg-Glaucilandia,3127354
+Mg-Goiabeira,3127370
+Mg-Goiana,3127388
+Mg-Goncalves,3127404
+Mg-Gonzaga,3127503
+Mg-Gouveia,3127602
+Mg-Governador Valadares,3127701
+Mg-Grao Mogol,3127800
+Mg-Grupiara,3127909
+Mg-Guanhaes,3128006
+Mg-Guape,3128105
+Mg-Guaraciaba,3128204
+Mg-Guaraciama,3128253
+Mg-Guaranesia,3128303
+Mg-Guarani,3128402
+Mg-Guarara,3128501
+Mg-Guarda-Mor,3128600
+Mg-Guaxupe,3128709
+Mg-Guidoval,3128808
+Mg-Guimarania,3128907
+Mg-Guiricema,3129004
+Mg-Gurinhata,3129103
+Mg-Heliodora,3129202
+Mg-Iapu,3129301
+Mg-Ibertioga,3129400
+Mg-Ibia,3129509
+Mg-Ibiai,3129608
+Mg-Ibiracatu,3129657
+Mg-Ibiraci,3129707
+Mg-Ibirite,3129806
+Mg-Ibitiura de Minas,3129905
+Mg-Ibituruna,3130002
+Mg-Icarai de Minas,3130051
+Mg-Igarape,3130101
+Mg-Igaratinga,3130200
+Mg-Iguatama,3130309
+Mg-Ijaci,3130408
+Mg-Ilicinea,3130507
+Mg-Imbe de Minas,3130556
+Mg-Inconfidentes,3130606
+Mg-Indaiabira,3130655
+Mg-Indianopolis,3130705
+Mg-Ingai,3130804
+Mg-Inhapim,3130903
+Mg-Inhauma,3131000
+Mg-Inimutaba,3131109
+Mg-Ipaba,3131158
+Mg-Ipanema,3131208
+Mg-Ipatinga,3131307
+Mg-Ipiacu,3131406
+Mg-Ipuiuna,3131505
+Mg-Irai de Minas,3131604
+Mg-Itabira,3131703
+Mg-Itabirinha,3131802
+Mg-Itabirito,3131901
+Mg-Itacambira,3132008
+Mg-Itacarambi,3132107
+Mg-Itaguara,3132206
+Mg-Itaipe,3132305
+Mg-Itajuba,3132404
+Mg-Itamarandiba,3132503
+Mg-Itamarati de Minas,3132602
+Mg-Itambacuri,3132701
+Mg-Itambe do Mato Dentro,3132800
+Mg-Itamogi,3132909
+Mg-Itamonte,3133006
+Mg-Itanhandu,3133105
+Mg-Itanhomi,3133204
+Mg-Itaobim,3133303
+Mg-Itapagipe,3133402
+Mg-Itapecerica,3133501
+Mg-Itapeva,3133600
+Mg-Itatiaiucu,3133709
+Mg-Itau de Minas,3133758
+Mg-Itauna,3133808
+Mg-Itaverava,3133907
+Mg-Itinga,3134004
+Mg-Itueta,3134103
+Mg-Ituiutaba,3134202
+Mg-Itumirim,3134301
+Mg-Iturama,3134400
+Mg-Itutinga,3134509
+Mg-Jaboticatubas,3134608
+Mg-Jacinto,3134707
+Mg-Jacui,3134806
+Mg-Jacutinga,3134905
+Mg-Jaguaracu,3135001
+Mg-Jaiba,3135050
+Mg-Jampruca,3135076
+Mg-Janauba,3135100
+Mg-Januaria,3135209
+Mg-Japaraiba,3135308
+Mg-Japonvar,3135357
+Mg-Jeceaba,3135407
+Mg-Jenipapo de Minas,3135456
+Mg-Jequeri,3135506
+Mg-Jequitai,3135605
+Mg-Jequitiba,3135704
+Mg-Jequitinhonha,3135803
+Mg-Jesuania,3135902
+Mg-Joaima,3136009
+Mg-Joanesia,3136108
+Mg-Joao Monlevade,3136207
+Mg-Joao Pinheiro,3136306
+Mg-Joaquim Felicio,3136405
+Mg-Jordania,3136504
+Mg-Jose Goncalves de Minas,3136520
+Mg-Jose Raydan,3136553
+Mg-Josenopolis,3136579
+Mg-Nova Uniao,3136603
+Mg-Juatuba,3136652
+Mg-Juiz de Fora,3136702
+Mg-Juramento,3136801
+Mg-Juruaia,3136900
+Mg-Juvenilia,3136959
+Mg-Ladainha,3137007
+Mg-Lagamar,3137106
+Mg-Lagoa da Prata,3137205
+Mg-Lagoa dos Patos,3137304
+Mg-Lagoa Dourada,3137403
+Mg-Lagoa Formosa,3137502
+Mg-Lagoa Grande,3137536
+Mg-Lagoa Santa,3137601
+Mg-Lajinha,3137700
+Mg-Lambari,3137809
+Mg-Lamim,3137908
+Mg-Laranjal,3138005
+Mg-Lassance,3138104
+Mg-Lavras,3138203
+Mg-Leandro Ferreira,3138302
+Mg-Leme do Prado,3138351
+Mg-Leopoldina,3138401
+Mg-Liberdade,3138500
+Mg-Lima Duarte,3138609
+Mg-Limeira do Oeste,3138625
+Mg-Lontra,3138658
+Mg-Luisburgo,3138674
+Mg-Luislandia,3138682
+Mg-Luminarias,3138708
+Mg-Luz,3138807
+Mg-Machacalis,3138906
+Mg-Machado,3139003
+Mg-Madre de Deus de Minas,3139102
+Mg-Malacacheta,3139201
+Mg-Mamonas,3139250
+Mg-Manga,3139300
+Mg-Manhuacu,3139409
+Mg-Manhumirim,3139508
+Mg-Mantena,3139607
+Mg-Maravilhas,3139706
+Mg-Mar de Espanha,3139805
+Mg-Maria da Fe,3139904
+Mg-Mariana,3140001
+Mg-Marilac,3140100
+Mg-Mario Campos,3140159
+Mg-Maripa de Minas,3140209
+Mg-Marlieria,3140308
+Mg-Marmelopolis,3140407
+Mg-Martinho Campos,3140506
+Mg-Martins Soares,3140530
+Mg-Mata Verde,3140555
+Mg-Materlandia,3140605
+Mg-Mateus Leme,3140704
+Mg-Matias Barbosa,3140803
+Mg-Matias Cardoso,3140852
+Mg-Matipo,3140902
+Mg-Mato Verde,3141009
+Mg-Matozinhos,3141108
+Mg-Matutina,3141207
+Mg-Medeiros,3141306
+Mg-Medina,3141405
+Mg-Mendes Pimentel,3141504
+Mg-Merces,3141603
+Mg-Mesquita,3141702
+Mg-Minas Novas,3141801
+Mg-Minduri,3141900
+Mg-Mirabela,3142007
+Mg-Miradouro,3142106
+Mg-Mirai,3142205
+Mg-Miravania,3142254
+Mg-Moeda,3142304
+Mg-Moema,3142403
+Mg-Monjolos,3142502
+Mg-Monsenhor Paulo,3142601
+Mg-Montalvania,3142700
+Mg-Monte Alegre de Minas,3142809
+Mg-Monte Azul,3142908
+Mg-Monte Belo,3143005
+Mg-Monte Carmelo,3143104
+Mg-Monte Formoso,3143153
+Mg-Monte Santo de Minas,3143203
+Mg-Montes Claros,3143302
+Mg-Monte Siao,3143401
+Mg-Montezuma,3143450
+Mg-Morada Nova de Minas,3143500
+Mg-Morro da Garca,3143609
+Mg-Morro do Pilar,3143708
+Mg-Munhoz,3143807
+Mg-Muriae,3143906
+Mg-Mutum,3144003
+Mg-Muzambinho,3144102
+Mg-Nacip Raydan,3144201
+Mg-Nanuque,3144300
+Mg-Naque,3144359
+Mg-Natalandia,3144375
+Mg-Natercia,3144409
+Mg-Nazareno,3144508
+Mg-Nepomuceno,3144607
+Mg-Ninheira,3144656
+Mg-Nova Belem,3144672
+Mg-Nova Era,3144706
+Mg-Nova Lima,3144805
+Mg-Nova Modica,3144904
+Mg-Nova Ponte,3145000
+Mg-Nova Porteirinha,3145059
+Mg-Nova Resende,3145109
+Mg-Nova Serrana,3145208
+Mg-Novo Cruzeiro,3145307
+Mg-Novo Oriente de Minas,3145356
+Mg-Novorizonte,3145372
+Mg-Olaria,3145406
+Mg-Olhos-D Agua,3145455
+Mg-Olimpio Noronha,3145505
+Mg-Oliveira,3145604
+Mg-Oliveira Fortes,3145703
+Mg-Onca de Pitangui,3145802
+Mg-Oratorios,3145851
+Mg-Orizania,3145877
+Mg-Ouro Branco,3145901
+Mg-Ouro Fino,3146008
+Mg-Ouro Preto,3146107
+Mg-Ouro Verde de Minas,3146206
+Mg-Padre Carvalho,3146255
+Mg-Padre Paraiso,3146305
+Mg-Paineiras,3146404
+Mg-Pains,3146503
+Mg-Pai Pedro,3146552
+Mg-Paiva,3146602
+Mg-Palma,3146701
+Mg-Palmopolis,3146750
+Mg-Papagaios,3146909
+Mg-Paracatu,3147006
+Mg-Para de Minas,3147105
+Mg-Paraguacu,3147204
+Mg-Paraisopolis,3147303
+Mg-Paraopeba,3147402
+Mg-Passabem,3147501
+Mg-Passa Quatro,3147600
+Mg-Passa Tempo,3147709
+Mg-Passa-Vinte,3147808
+Mg-Passos,3147907
+Mg-Patis,3147956
+Mg-Patos de Minas,3148004
+Mg-Patrocinio,3148103
+Mg-Patrocinio do Muriae,3148202
+Mg-Paula Candido,3148301
+Mg-Paulistas,3148400
+Mg-Pavao,3148509
+Mg-Pecanha,3148608
+Mg-Pedra Azul,3148707
+Mg-Pedra Bonita,3148756
+Mg-Pedra do Anta,3148806
+Mg-Pedra do Indaia,3148905
+Mg-Pedra Dourada,3149002
+Mg-Pedralva,3149101
+Mg-Pedras de Maria da Cruz,3149150
+Mg-Pedrinopolis,3149200
+Mg-Pedro Leopoldo,3149309
+Mg-Pedro Teixeira,3149408
+Mg-Pequeri,3149507
+Mg-Pequi,3149606
+Mg-Perdigao,3149705
+Mg-Perdizes,3149804
+Mg-Perdoes,3149903
+Mg-Periquito,3149952
+Mg-Pescador,3150000
+Mg-Piau,3150109
+Mg-Piedade de Caratinga,3150158
+Mg-Piedade de Ponte Nova,3150208
+Mg-Piedade do Rio Grande,3150307
+Mg-Piedade dos Gerais,3150406
+Mg-Pimenta,3150505
+Mg-Pingo-D Agua,3150539
+Mg-Pintopolis,3150570
+Mg-Piracema,3150604
+Mg-Pirajuba,3150703
+Mg-Piranga,3150802
+Mg-Pirangucu,3150901
+Mg-Piranguinho,3151008
+Mg-Pirapetinga,3151107
+Mg-Pirapora,3151206
+Mg-Pirauba,3151305
+Mg-Pitangui,3151404
+Mg-Piumhi,3151503
+Mg-Planura,3151602
+Mg-Poco Fundo,3151701
+Mg-Pocos de Caldas,3151800
+Mg-Pocrane,3151909
+Mg-Pompeu,3152006
+Mg-Ponte Nova,3152105
+Mg-Ponto Chique,3152131
+Mg-Ponto dos Volantes,3152170
+Mg-Porteirinha,3152204
+Mg-Porto Firme,3152303
+Mg-Pote,3152402
+Mg-Pouso Alegre,3152501
+Mg-Pouso Alto,3152600
+Mg-Prados,3152709
+Mg-Prata,3152808
+Mg-Pratapolis,3152907
+Mg-Pratinha,3153004
+Mg-Presidente Bernardes,3153103
+Mg-Presidente Juscelino,3153202
+Mg-Presidente Kubitschek,3153301
+Mg-Presidente Olegario,3153400
+Mg-Alto Jequitiba,3153509
+Mg-Prudente de Morais,3153608
+Mg-Quartel Geral,3153707
+Mg-Queluzito,3153806
+Mg-Raposos,3153905
+Mg-Raul Soares,3154002
+Mg-Recreio,3154101
+Mg-Reduto,3154150
+Mg-Resende Costa,3154200
+Mg-Resplendor,3154309
+Mg-Ressaquinha,3154408
+Mg-Riachinho,3154457
+Mg-Riacho dos Machados,3154507
+Mg-Ribeirao das Neves,3154606
+Mg-Ribeirao Vermelho,3154705
+Mg-Rio Acima,3154804
+Mg-Rio Casca,3154903
+Mg-Rio Doce,3155009
+Mg-Rio do Prado,3155108
+Mg-Rio Espera,3155207
+Mg-Rio Manso,3155306
+Mg-Rio Novo,3155405
+Mg-Rio Paranaiba,3155504
+Mg-Rio Pardo de Minas,3155603
+Mg-Rio Piracicaba,3155702
+Mg-Rio Pomba,3155801
+Mg-Rio Preto,3155900
+Mg-Rio Vermelho,3156007
+Mg-Ritapolis,3156106
+Mg-Rochedo de Minas,3156205
+Mg-Rodeiro,3156304
+Mg-Romaria,3156403
+Mg-Rosario da Limeira,3156452
+Mg-Rubelita,3156502
+Mg-Rubim,3156601
+Mg-Sabara,3156700
+Mg-Sabinopolis,3156809
+Mg-Sacramento,3156908
+Mg-Salinas,3157005
+Mg-Salto da Divisa,3157104
+Mg-Santa Barbara,3157203
+Mg-Santa Barbara do Leste,3157252
+Mg-Santa Barbara do Monte Verde,3157278
+Mg-Santa Barbara do Tugurio,3157302
+Mg-Santa Cruz de Minas,3157336
+Mg-Santa Cruz de Salinas,3157377
+Mg-Santa Cruz do Escalvado,3157401
+Mg-Santa Efigenia de Minas,3157500
+Mg-Santa Fe de Minas,3157609
+Mg-Santa Helena de Minas,3157658
+Mg-Santa Juliana,3157708
+Mg-Santa Luzia,3157807
+Mg-Santa Margarida,3157906
+Mg-Santa Maria de Itabira,3158003
+Mg-Santa Maria do Salto,3158102
+Mg-Santa Maria do Suacui,3158201
+Mg-Santana da Vargem,3158300
+Mg-Santana de Cataguases,3158409
+Mg-Santana de Pirapama,3158508
+Mg-Santana do Deserto,3158607
+Mg-Santana do Garambeu,3158706
+Mg-Santana do Jacare,3158805
+Mg-Santana do Manhuacu,3158904
+Mg-Santana do Paraiso,3158953
+Mg-Santana do Riacho,3159001
+Mg-Santana dos Montes,3159100
+Mg-Santa Rita de Caldas,3159209
+Mg-Santa Rita de Jacutinga,3159308
+Mg-Santa Rita de Minas,3159357
+Mg-Santa Rita de Ibitipoca,3159407
+Mg-Santa Rita do Itueto,3159506
+Mg-Santa Rita do Sapucai,3159605
+Mg-Santa Rosa da Serra,3159704
+Mg-Santa Vitoria,3159803
+Mg-Santo Antonio do Amparo,3159902
+Mg-Santo Antonio do Aventureiro,3160009
+Mg-Santo Antonio do Grama,3160108
+Mg-Santo Antonio do Itambe,3160207
+Mg-Santo Antonio do Jacinto,3160306
+Mg-Santo Antonio do Monte,3160405
+Mg-Santo Antonio do Retiro,3160454
+Mg-Santo Antonio do Rio Abaixo,3160504
+Mg-Santo Hipolito,3160603
+Mg-Santos Dumont,3160702
+Mg-Sao Bento Abade,3160801
+Mg-Sao Bras do Suacui,3160900
+Mg-Sao Domingos das Dores,3160959
+Mg-Sao Domingos do Prata,3161007
+Mg-Sao Felix de Minas,3161056
+Mg-Sao Francisco,3161106
+Mg-Sao Francisco de Paula,3161205
+Mg-Sao Francisco de Sales,3161304
+Mg-Sao Francisco do Gloria,3161403
+Mg-Sao Geraldo,3161502
+Mg-Sao Geraldo da Piedade,3161601
+Mg-Sao Geraldo do Baixio,3161650
+Mg-Sao Goncalo do Abaete,3161700
+Mg-Sao Goncalo do Para,3161809
+Mg-Sao Goncalo do Rio Abaixo,3161908
+Mg-Sao Goncalo do Sapucai,3162005
+Mg-Sao Gotardo,3162104
+Mg-Sao Joao Batista do Gloria,3162203
+Mg-Sao Joao da Lagoa,3162252
+Mg-Sao Joao da Mata,3162302
+Mg-Sao Joao da Ponte,3162401
+Mg-Sao Joao das Missoes,3162450
+Mg-Sao Joao Del Rei,3162500
+Mg-Sao Joao do Manhuacu,3162559
+Mg-Sao Joao do Manteninha,3162575
+Mg-Sao Joao do Oriente,3162609
+Mg-Sao Joao do Pacui,3162658
+Mg-Sao Joao do Paraiso,3162708
+Mg-Sao Joao Evangelista,3162807
+Mg-Sao Joao Nepomuceno,3162906
+Mg-Sao Joaquim de Bicas,3162922
+Mg-Sao Jose da Barra,3162948
+Mg-Sao Jose da Lapa,3162955
+Mg-Sao Jose da Safira,3163003
+Mg-Sao Jose da Varginha,3163102
+Mg-Sao Jose do Alegre,3163201
+Mg-Sao Jose do Divino,3163300
+Mg-Sao Jose do Goiabal,3163409
+Mg-Sao Jose do Jacuri,3163508
+Mg-Sao Jose do Mantimento,3163607
+Mg-Sao Lourenco,3163706
+Mg-Sao Miguel do Anta,3163805
+Mg-Sao Pedro da Uniao,3163904
+Mg-Sao Pedro dos Ferros,3164001
+Mg-Sao Pedro do Suacui,3164100
+Mg-Sao Romao,3164209
+Mg-Sao Roque de Minas,3164308
+Mg-Sao Sebastiao da Bela Vista,3164407
+Mg-Sao Sebastiao da Vargem Alegre,3164431
+Mg-Sao Sebastiao do Anta,3164472
+Mg-Sao Sebastiao do Maranhao,3164506
+Mg-Sao Sebastiao do Oeste,3164605
+Mg-Sao Sebastiao do Paraiso,3164704
+Mg-Sao Sebastiao do Rio Preto,3164803
+Mg-Sao Sebastiao do Rio Verde,3164902
+Mg-Sao Tiago,3165008
+Mg-Sao Tomas de Aquino,3165107
+Mg-Sao Thome das Letras,3165206
+Mg-Sao Vicente de Minas,3165305
+Mg-Sapucai-Mirim,3165404
+Mg-Sardoa,3165503
+Mg-Sarzedo,3165537
+Mg-Setubinha,3165552
+Mg-Sem-Peixe,3165560
+Mg-Senador Amaral,3165578
+Mg-Senador Cortes,3165602
+Mg-Senador Firmino,3165701
+Mg-Senador Jose Bento,3165800
+Mg-Senador Modestino Goncalves,3165909
+Mg-Senhora de Oliveira,3166006
+Mg-Senhora do Porto,3166105
+Mg-Senhora dos Remedios,3166204
+Mg-Sericita,3166303
+Mg-Seritinga,3166402
+Mg-Serra Azul de Minas,3166501
+Mg-Serra da Saudade,3166600
+Mg-Serra dos Aimores,3166709
+Mg-Serra do Salitre,3166808
+Mg-Serrania,3166907
+Mg-Serranopolis de Minas,3166956
+Mg-Serranos,3167004
+Mg-Serro,3167103
+Mg-Sete Lagoas,3167202
+Mg-Silveirania,3167301
+Mg-Silvianopolis,3167400
+Mg-Simao Pereira,3167509
+Mg-Simonesia,3167608
+Mg-Sobralia,3167707
+Mg-Soledade de Minas,3167806
+Mg-Tabuleiro,3167905
+Mg-Taiobeiras,3168002
+Mg-Taparuba,3168051
+Mg-Tapira,3168101
+Mg-Tapirai,3168200
+Mg-Taquaracu de Minas,3168309
+Mg-Tarumirim,3168408
+Mg-Teixeiras,3168507
+Mg-Teofilo Otoni,3168606
+Mg-Timoteo,3168705
+Mg-Tiradentes,3168804
+Mg-Tiros,3168903
+Mg-Tocantins,3169000
+Mg-Tocos do Moji,3169059
+Mg-Toledo,3169109
+Mg-Tombos,3169208
+Mg-Tres Coracoes,3169307
+Mg-Tres Marias,3169356
+Mg-Tres Pontas,3169406
+Mg-Tumiritinga,3169505
+Mg-Tupaciguara,3169604
+Mg-Turmalina,3169703
+Mg-Turvolandia,3169802
+Mg-Uba,3169901
+Mg-Ubai,3170008
+Mg-Ubaporanga,3170057
+Mg-Uberaba,3170107
+Mg-Uberlandia,3170206
+Mg-Umburatiba,3170305
+Mg-Unai,3170404
+Mg-Uniao de Minas,3170438
+Mg-Uruana de Minas,3170479
+Mg-Urucania,3170503
+Mg-Urucuia,3170529
+Mg-Vargem Alegre,3170578
+Mg-Vargem Bonita,3170602
+Mg-Vargem Grande do Rio Pardo,3170651
+Mg-Varginha,3170701
+Mg-Varjao de Minas,3170750
+Mg-Varzea da Palma,3170800
+Mg-Varzelandia,3170909
+Mg-Vazante,3171006
+Mg-Verdelandia,3171030
+Mg-Veredinha,3171071
+Mg-Verissimo,3171105
+Mg-Vermelho Novo,3171154
+Mg-Vespasiano,3171204
+Mg-Vicosa,3171303
+Mg-Vieiras,3171402
+Mg-Mathias Lobato,3171501
+Mg-Virgem da Lapa,3171600
+Mg-Virginia,3171709
+Mg-Virginopolis,3171808
+Mg-Virgolandia,3171907
+Mg-Visconde do Rio Branco,3172004
+Mg-Volta Grande,3172103
+Mg-Wenceslau Braz,3172202
+Es-Afonso Claudio,3200102
+Es-Aguia Branca,3200136
+Es-Agua Doce do Norte,3200169
+Es-Alegre,3200201
+Es-Alfredo Chaves,3200300
+Es-Alto Rio Novo,3200359
+Es-Anchieta,3200409
+Es-Apiaca,3200508
+Es-Aracruz,3200607
+Es-Atilio Vivacqua,3200706
+Es-Baixo Guandu,3200805
+Es-Barra de Sao Francisco,3200904
+Es-Boa Esperanca,3201001
+Es-Bom Jesus do Norte,3201100
+Es-Brejetuba,3201159
+Es-Cachoeiro de Itapemirim,3201209
+Es-Cariacica,3201308
+Es-Castelo,3201407
+Es-Colatina,3201506
+Es-Conceicao da Barra,3201605
+Es-Conceicao do Castelo,3201704
+Es-Divino de Sao Lourenco,3201803
+Es-Domingos Martins,3201902
+Es-Dores do Rio Preto,3202009
+Es-Ecoporanga,3202108
+Es-Fundao,3202207
+Es-Governador Lindenberg,3202256
+Es-Guacui,3202306
+Es-Guarapari,3202405
+Es-Ibatiba,3202454
+Es-Ibiracu,3202504
+Es-Ibitirama,3202553
+Es-Iconha,3202603
+Es-Irupi,3202652
+Es-Itaguacu,3202702
+Es-Itapemirim,3202801
+Es-Itarana,3202900
+Es-Iuna,3203007
+Es-Jaguare,3203056
+Es-Jeronimo Monteiro,3203106
+Es-Joao Neiva,3203130
+Es-Laranja da Terra,3203163
+Es-Linhares,3203205
+Es-Mantenopolis,3203304
+Es-Marataizes,3203320
+Es-Marechal Floriano,3203346
+Es-Marilandia,3203353
+Es-Mimoso do Sul,3203403
+Es-Montanha,3203502
+Es-Mucurici,3203601
+Es-Muniz Freire,3203700
+Es-Muqui,3203809
+Es-Nova Venecia,3203908
+Es-Pancas,3204005
+Es-Pedro Canario,3204054
+Es-Pinheiros,3204104
+Es-Piuma,3204203
+Es-Ponto Belo,3204252
+Es-Presidente Kennedy,3204302
+Es-Rio Bananal,3204351
+Es-Rio Novo do Sul,3204401
+Es-Santa Leopoldina,3204500
+Es-Santa Maria de Jetiba,3204559
+Es-Santa Teresa,3204609
+Es-Sao Domingos do Norte,3204658
+Es-Sao Gabriel da Palha,3204708
+Es-Sao Jose do Calcado,3204807
+Es-Sao Mateus,3204906
+Es-Sao Roque do Canaa,3204955
+Es-Serra,3205002
+Es-Sooretama,3205010
+Es-Vargem Alta,3205036
+Es-Venda Nova do Imigrante,3205069
+Es-Viana,3205101
+Es-Vila Pavao,3205150
+Es-Vila Valerio,3205176
+Es-Vila Velha,3205200
+Es-Vitoria,3205309
+Rj-Angra dos Reis,3300100
+Rj-Aperibe,3300159
+Rj-Araruama,3300209
+Rj-Areal,3300225
+Rj-Armacao dos Buzios,3300233
+Rj-Arraial do Cabo,3300258
+Rj-Barra do Pirai,3300308
+Rj-Barra Mansa,3300407
+Rj-Belford Roxo,3300456
+Rj-Bom Jardim,3300506
+Rj-Bom Jesus do Itabapoana,3300605
+Rj-Cabo Frio,3300704
+Rj-Cachoeiras de Macacu,3300803
+Rj-Cambuci,3300902
+Rj-Carapebus,3300936
+Rj-Comendador Levy Gasparian,3300951
+Rj-Campos dos Goytacazes,3301009
+Rj-Cantagalo,3301108
+Rj-Cardoso Moreira,3301157
+Rj-Carmo,3301207
+Rj-Casimiro de Abreu,3301306
+Rj-Conceicao de Macabu,3301405
+Rj-Cordeiro,3301504
+Rj-Duas Barras,3301603
+Rj-Duque de Caxias,3301702
+Rj-Engenheiro Paulo de Frontin,3301801
+Rj-Guapimirim,3301850
+Rj-Iguaba Grande,3301876
+Rj-Itaborai,3301900
+Rj-Itaguai,3302007
+Rj-Italva,3302056
+Rj-Itaocara,3302106
+Rj-Itaperuna,3302205
+Rj-Itatiaia,3302254
+Rj-Japeri,3302270
+Rj-Laje do Muriae,3302304
+Rj-Macae,3302403
+Rj-Macuco,3302452
+Rj-Mage,3302502
+Rj-Mangaratiba,3302601
+Rj-Marica,3302700
+Rj-Mendes,3302809
+Rj-Mesquita,3302858
+Rj-Miguel Pereira,3302908
+Rj-Miracema,3303005
+Rj-Natividade,3303104
+Rj-Nilopolis,3303203
+Rj-Niteroi,3303302
+Rj-Nova Friburgo,3303401
+Rj-Nova Iguacu,3303500
+Rj-Paracambi,3303609
+Rj-Paraiba do Sul,3303708
+Rj-Paraty,3303807
+Rj-Paty do Alferes,3303856
+Rj-Petropolis,3303906
+Rj-Pinheiral,3303955
+Rj-Pirai,3304003
+Rj-Porciuncula,3304102
+Rj-Porto Real,3304110
+Rj-Quatis,3304128
+Rj-Queimados,3304144
+Rj-Quissama,3304151
+Rj-Resende,3304201
+Rj-Rio Bonito,3304300
+Rj-Rio Claro,3304409
+Rj-Rio das Flores,3304508
+Rj-Rio das Ostras,3304524
+Rj-Rio de Janeiro,3304557
+Rj-Santa Maria Madalena,3304607
+Rj-Santo Antonio de Padua,3304706
+Rj-Sao Francisco de Itabapoana,3304755
+Rj-Sao Fidelis,3304805
+Rj-Sao Goncalo,3304904
+Rj-Sao Joao da Barra,3305000
+Rj-Sao Joao de Meriti,3305109
+Rj-Sao Jose de Uba,3305133
+Rj-Sao Jose do Vale do Rio Preto,3305158
+Rj-Sao Pedro da Aldeia,3305208
+Rj-Sao Sebastiao do Alto,3305307
+Rj-Sapucaia,3305406
+Rj-Saquarema,3305505
+Rj-Seropedica,3305554
+Rj-Silva Jardim,3305604
+Rj-Sumidouro,3305703
+Rj-Tangua,3305752
+Rj-Teresopolis,3305802
+Rj-Trajano de Moraes,3305901
+Rj-Tres Rios,3306008
+Rj-Valenca,3306107
+Rj-Varre-Sai,3306156
+Rj-Vassouras,3306206
+Rj-Volta Redonda,3306305
+Sp-Adamantina,3500105
+Sp-Adolfo,3500204
+Sp-Aguai,3500303
+Sp-Aguas da Prata,3500402
+Sp-Aguas de Lindoia,3500501
+Sp-Aguas de Santa Barbara,3500550
+Sp-Aguas de Sao Pedro,3500600
+Sp-Agudos,3500709
+Sp-Alambari,3500758
+Sp-Alfredo Marcondes,3500808
+Sp-Altair,3500907
+Sp-Altinopolis,3501004
+Sp-Alto Alegre,3501103
+Sp-Aluminio,3501152
+Sp-Alvares Florence,3501202
+Sp-Alvares Machado,3501301
+Sp-Alvaro de Carvalho,3501400
+Sp-Alvinlandia,3501509
+Sp-Americana,3501608
+Sp-Americo Brasiliense,3501707
+Sp-Americo de Campos,3501806
+Sp-Amparo,3501905
+Sp-Analandia,3502002
+Sp-Andradina,3502101
+Sp-Angatuba,3502200
+Sp-Anhembi,3502309
+Sp-Anhumas,3502408
+Sp-Aparecida,3502507
+Sp-Aparecida D Oeste,3502606
+Sp-Apiai,3502705
+Sp-Aracariguama,3502754
+Sp-Aracatuba,3502804
+Sp-Aracoiaba da Serra,3502903
+Sp-Aramina,3503000
+Sp-Arandu,3503109
+Sp-Arapei,3503158
+Sp-Araraquara,3503208
+Sp-Araras,3503307
+Sp-Arco-Iris,3503356
+Sp-Arealva,3503406
+Sp-Areias,3503505
+Sp-Areiopolis,3503604
+Sp-Ariranha,3503703
+Sp-Artur Nogueira,3503802
+Sp-Aruja,3503901
+Sp-Aspasia,3503950
+Sp-Assis,3504008
+Sp-Atibaia,3504107
+Sp-Auriflama,3504206
+Sp-Avai,3504305
+Sp-Avanhandava,3504404
+Sp-Avare,3504503
+Sp-Bady Bassitt,3504602
+Sp-Balbinos,3504701
+Sp-Balsamo,3504800
+Sp-Bananal,3504909
+Sp-Barao de Antonina,3505005
+Sp-Barbosa,3505104
+Sp-Bariri,3505203
+Sp-Barra Bonita,3505302
+Sp-Barra do Chapeu,3505351
+Sp-Barra do Turvo,3505401
+Sp-Barretos,3505500
+Sp-Barrinha,3505609
+Sp-Barueri,3505708
+Sp-Bastos,3505807
+Sp-Batatais,3505906
+Sp-Bauru,3506003
+Sp-Bebedouro,3506102
+Sp-Bento de Abreu,3506201
+Sp-Bernardino de Campos,3506300
+Sp-Bertioga,3506359
+Sp-Bilac,3506409
+Sp-Birigui,3506508
+Sp-Biritiba-Mirim,3506607
+Sp-Boa Esperanca do Sul,3506706
+Sp-Bocaina,3506805
+Sp-Bofete,3506904
+Sp-Boituva,3507001
+Sp-Bom Jesus dos Perdoes,3507100
+Sp-Bom Sucesso de Itarare,3507159
+Sp-Bora,3507209
+Sp-Boraceia,3507308
+Sp-Borborema,3507407
+Sp-Borebi,3507456
+Sp-Botucatu,3507506
+Sp-Braganca Paulista,3507605
+Sp-Brauna,3507704
+Sp-Brejo Alegre,3507753
+Sp-Brodowski,3507803
+Sp-Brotas,3507902
+Sp-Buri,3508009
+Sp-Buritama,3508108
+Sp-Buritizal,3508207
+Sp-Cabralia Paulista,3508306
+Sp-Cabreuva,3508405
+Sp-Cacapava,3508504
+Sp-Cachoeira Paulista,3508603
+Sp-Caconde,3508702
+Sp-Cafelandia,3508801
+Sp-Caiabu,3508900
+Sp-Caieiras,3509007
+Sp-Caiua,3509106
+Sp-Cajamar,3509205
+Sp-Cajati,3509254
+Sp-Cajobi,3509304
+Sp-Cajuru,3509403
+Sp-Campina do Monte Alegre,3509452
+Sp-Campinas,3509502
+Sp-Campo Limpo Paulista,3509601
+Sp-Campos do Jordao,3509700
+Sp-Campos Novos Paulista,3509809
+Sp-Cananeia,3509908
+Sp-Canas,3509957
+Sp-Candido Mota,3510005
+Sp-Candido Rodrigues,3510104
+Sp-Canitar,3510153
+Sp-Capao Bonito,3510203
+Sp-Capela do Alto,3510302
+Sp-Capivari,3510401
+Sp-Caraguatatuba,3510500
+Sp-Carapicuiba,3510609
+Sp-Cardoso,3510708
+Sp-Casa Branca,3510807
+Sp-Cassia dos Coqueiros,3510906
+Sp-Castilho,3511003
+Sp-Catanduva,3511102
+Sp-Catigua,3511201
+Sp-Cedral,3511300
+Sp-Cerqueira Cesar,3511409
+Sp-Cerquilho,3511508
+Sp-Cesario Lange,3511607
+Sp-Charqueada,3511706
+Sp-Clementina,3511904
+Sp-Colina,3512001
+Sp-Colombia,3512100
+Sp-Conchal,3512209
+Sp-Conchas,3512308
+Sp-Cordeiropolis,3512407
+Sp-Coroados,3512506
+Sp-Coronel Macedo,3512605
+Sp-Corumbatai,3512704
+Sp-Cosmopolis,3512803
+Sp-Cosmorama,3512902
+Sp-Cotia,3513009
+Sp-Cravinhos,3513108
+Sp-Cristais Paulista,3513207
+Sp-Cruzalia,3513306
+Sp-Cruzeiro,3513405
+Sp-Cubatao,3513504
+Sp-Cunha,3513603
+Sp-Descalvado,3513702
+Sp-Diadema,3513801
+Sp-Dirce Reis,3513850
+Sp-Divinolandia,3513900
+Sp-Dobrada,3514007
+Sp-Dois Corregos,3514106
+Sp-Dolcinopolis,3514205
+Sp-Dourado,3514304
+Sp-Dracena,3514403
+Sp-Duartina,3514502
+Sp-Dumont,3514601
+Sp-Echapora,3514700
+Sp-Eldorado,3514809
+Sp-Elias Fausto,3514908
+Sp-Elisiario,3514924
+Sp-Embauba,3514957
+Sp-Embu das Artes,3515004
+Sp-Embu-Guacu,3515103
+Sp-Emilianopolis,3515129
+Sp-Engenheiro Coelho,3515152
+Sp-Espirito Santo do Pinhal,3515186
+Sp-Espirito Santo do Turvo,3515194
+Sp-Estrela D Oeste,3515202
+Sp-Estrela do Norte,3515301
+Sp-Euclides da Cunha Paulista,3515350
+Sp-Fartura,3515400
+Sp-Fernandopolis,3515509
+Sp-Fernando Prestes,3515608
+Sp-Fernao,3515657
+Sp-Ferraz de Vasconcelos,3515707
+Sp-Flora Rica,3515806
+Sp-Floreal,3515905
+Sp-Florida Paulista,3516002
+Sp-Florinia,3516101
+Sp-Franca,3516200
+Sp-Francisco Morato,3516309
+Sp-Franco da Rocha,3516408
+Sp-Gabriel Monteiro,3516507
+Sp-Galia,3516606
+Sp-Garca,3516705
+Sp-Gastao Vidigal,3516804
+Sp-Gaviao Peixoto,3516853
+Sp-General Salgado,3516903
+Sp-Getulina,3517000
+Sp-Glicerio,3517109
+Sp-Guaicara,3517208
+Sp-Guaimbe,3517307
+Sp-Guaira,3517406
+Sp-Guapiacu,3517505
+Sp-Guapiara,3517604
+Sp-Guara,3517703
+Sp-Guaracai,3517802
+Sp-Guaraci,3517901
+Sp-Guarani D Oeste,3518008
+Sp-Guaranta,3518107
+Sp-Guararapes,3518206
+Sp-Guararema,3518305
+Sp-Guaratingueta,3518404
+Sp-Guarei,3518503
+Sp-Guariba,3518602
+Sp-Guaruja,3518701
+Sp-Guarulhos,3518800
+Sp-Guatapara,3518859
+Sp-Guzolandia,3518909
+Sp-Herculandia,3519006
+Sp-Holambra,3519055
+Sp-Hortolandia,3519071
+Sp-Iacanga,3519105
+Sp-Iacri,3519204
+Sp-Iaras,3519253
+Sp-Ibate,3519303
+Sp-Ibira,3519402
+Sp-Ibirarema,3519501
+Sp-Ibitinga,3519600
+Sp-Ibiuna,3519709
+Sp-Icem,3519808
+Sp-Iepe,3519907
+Sp-Igaracu do Tiete,3520004
+Sp-Igarapava,3520103
+Sp-Igarata,3520202
+Sp-Iguape,3520301
+Sp-Ilhabela,3520400
+Sp-Ilha Comprida,3520426
+Sp-Ilha Solteira,3520442
+Sp-Indaiatuba,3520509
+Sp-Indiana,3520608
+Sp-Indiapora,3520707
+Sp-Inubia Paulista,3520806
+Sp-Ipaussu,3520905
+Sp-Ipero,3521002
+Sp-Ipeuna,3521101
+Sp-Ipigua,3521150
+Sp-Iporanga,3521200
+Sp-Ipua,3521309
+Sp-Iracemapolis,3521408
+Sp-Irapua,3521507
+Sp-Irapuru,3521606
+Sp-Itabera,3521705
+Sp-Itai,3521804
+Sp-Itajobi,3521903
+Sp-Itaju,3522000
+Sp-Itanhaem,3522109
+Sp-Itaoca,3522158
+Sp-Itapecerica da Serra,3522208
+Sp-Itapetininga,3522307
+Sp-Itapeva,3522406
+Sp-Itapevi,3522505
+Sp-Itapira,3522604
+Sp-Itapirapua Paulista,3522653
+Sp-Itapolis,3522703
+Sp-Itaporanga,3522802
+Sp-Itapui,3522901
+Sp-Itapura,3523008
+Sp-Itaquaquecetuba,3523107
+Sp-Itarare,3523206
+Sp-Itariri,3523305
+Sp-Itatiba,3523404
+Sp-Itatinga,3523503
+Sp-Itirapina,3523602
+Sp-Itirapua,3523701
+Sp-Itobi,3523800
+Sp-Itu,3523909
+Sp-Itupeva,3524006
+Sp-Ituverava,3524105
+Sp-Jaborandi,3524204
+Sp-Jaboticabal,3524303
+Sp-Jacarei,3524402
+Sp-Jaci,3524501
+Sp-Jacupiranga,3524600
+Sp-Jaguariuna,3524709
+Sp-Jales,3524808
+Sp-Jambeiro,3524907
+Sp-Jandira,3525003
+Sp-Jardinopolis,3525102
+Sp-Jarinu,3525201
+Sp-Jau,3525300
+Sp-Jeriquara,3525409
+Sp-Joanopolis,3525508
+Sp-Joao Ramalho,3525607
+Sp-Jose Bonifacio,3525706
+Sp-Julio Mesquita,3525805
+Sp-Jumirim,3525854
+Sp-Jundiai,3525904
+Sp-Junqueiropolis,3526001
+Sp-Juquia,3526100
+Sp-Juquitiba,3526209
+Sp-Lagoinha,3526308
+Sp-Laranjal Paulista,3526407
+Sp-Lavinia,3526506
+Sp-Lavrinhas,3526605
+Sp-Leme,3526704
+Sp-Lencois Paulista,3526803
+Sp-Limeira,3526902
+Sp-Lindoia,3527009
+Sp-Lins,3527108
+Sp-Lorena,3527207
+Sp-Lourdes,3527256
+Sp-Louveira,3527306
+Sp-Lucelia,3527405
+Sp-Lucianopolis,3527504
+Sp-Luis Antonio,3527603
+Sp-Luiziania,3527702
+Sp-Lupercio,3527801
+Sp-Lutecia,3527900
+Sp-Macatuba,3528007
+Sp-Macaubal,3528106
+Sp-Macedonia,3528205
+Sp-Magda,3528304
+Sp-Mairinque,3528403
+Sp-Mairipora,3528502
+Sp-Manduri,3528601
+Sp-Maraba Paulista,3528700
+Sp-Maracai,3528809
+Sp-Marapoama,3528858
+Sp-Mariapolis,3528908
+Sp-Marilia,3529005
+Sp-Marinopolis,3529104
+Sp-Martinopolis,3529203
+Sp-Matao,3529302
+Sp-Maua,3529401
+Sp-Mendonca,3529500
+Sp-Meridiano,3529609
+Sp-Mesopolis,3529658
+Sp-Miguelopolis,3529708
+Sp-Mineiros do Tiete,3529807
+Sp-Miracatu,3529906
+Sp-Mira Estrela,3530003
+Sp-Mirandopolis,3530102
+Sp-Mirante do Paranapanema,3530201
+Sp-Mirassol,3530300
+Sp-Mirassolandia,3530409
+Sp-Mococa,3530508
+Sp-Mogi das Cruzes,3530607
+Sp-Mogi Guacu,3530706
+Sp-Mogi Mirim,3530805
+Sp-Mombuca,3530904
+Sp-Moncoes,3531001
+Sp-Mongagua,3531100
+Sp-Monte Alegre do Sul,3531209
+Sp-Monte Alto,3531308
+Sp-Monte Aprazivel,3531407
+Sp-Monte Azul Paulista,3531506
+Sp-Monte Castelo,3531605
+Sp-Monteiro Lobato,3531704
+Sp-Monte Mor,3531803
+Sp-Morro Agudo,3531902
+Sp-Morungaba,3532009
+Sp-Motuca,3532058
+Sp-Murutinga do Sul,3532108
+Sp-Nantes,3532157
+Sp-Narandiba,3532207
+Sp-Natividade da Serra,3532306
+Sp-Nazare Paulista,3532405
+Sp-Neves Paulista,3532504
+Sp-Nhandeara,3532603
+Sp-Nipoa,3532702
+Sp-Nova Alianca,3532801
+Sp-Nova Campina,3532827
+Sp-Nova Canaa Paulista,3532843
+Sp-Nova Castilho,3532868
+Sp-Nova Europa,3532900
+Sp-Nova Granada,3533007
+Sp-Nova Guataporanga,3533106
+Sp-Nova Independencia,3533205
+Sp-Novais,3533254
+Sp-Nova Luzitania,3533304
+Sp-Nova Odessa,3533403
+Sp-Novo Horizonte,3533502
+Sp-Nuporanga,3533601
+Sp-Ocaucu,3533700
+Sp-Oleo,3533809
+Sp-Olimpia,3533908
+Sp-Onda Verde,3534005
+Sp-Oriente,3534104
+Sp-Orindiuva,3534203
+Sp-Orlandia,3534302
+Sp-Osasco,3534401
+Sp-Oscar Bressane,3534500
+Sp-Osvaldo Cruz,3534609
+Sp-Ourinhos,3534708
+Sp-Ouroeste,3534757
+Sp-Ouro Verde,3534807
+Sp-Pacaembu,3534906
+Sp-Palestina,3535002
+Sp-Palmares Paulista,3535101
+Sp-Palmeira D Oeste,3535200
+Sp-Palmital,3535309
+Sp-Panorama,3535408
+Sp-Paraguacu Paulista,3535507
+Sp-Paraibuna,3535606
+Sp-Paraiso,3535705
+Sp-Paranapanema,3535804
+Sp-Paranapua,3535903
+Sp-Parapua,3536000
+Sp-Pardinho,3536109
+Sp-Pariquera-Acu,3536208
+Sp-Parisi,3536257
+Sp-Patrocinio Paulista,3536307
+Sp-Pauliceia,3536406
+Sp-Paulinia,3536505
+Sp-Paulistania,3536570
+Sp-Paulo de Faria,3536604
+Sp-Pederneiras,3536703
+Sp-Pedra Bela,3536802
+Sp-Pedranopolis,3536901
+Sp-Pedregulho,3537008
+Sp-Pedreira,3537107
+Sp-Pedrinhas Paulista,3537156
+Sp-Pedro de Toledo,3537206
+Sp-Penapolis,3537305
+Sp-Pereira Barreto,3537404
+Sp-Pereiras,3537503
+Sp-Peruibe,3537602
+Sp-Piacatu,3537701
+Sp-Piedade,3537800
+Sp-Pilar do Sul,3537909
+Sp-Pindamonhangaba,3538006
+Sp-Pindorama,3538105
+Sp-Pinhalzinho,3538204
+Sp-Piquerobi,3538303
+Sp-Piquete,3538501
+Sp-Piracaia,3538600
+Sp-Piracicaba,3538709
+Sp-Piraju,3538808
+Sp-Pirajui,3538907
+Sp-Pirangi,3539004
+Sp-Pirapora do Bom Jesus,3539103
+Sp-Pirapozinho,3539202
+Sp-Pirassununga,3539301
+Sp-Piratininga,3539400
+Sp-Pitangueiras,3539509
+Sp-Planalto,3539608
+Sp-Platina,3539707
+Sp-Poa,3539806
+Sp-Poloni,3539905
+Sp-Pompeia,3540002
+Sp-Pongai,3540101
+Sp-Pontal,3540200
+Sp-Pontalinda,3540259
+Sp-Pontes Gestal,3540309
+Sp-Populina,3540408
+Sp-Porangaba,3540507
+Sp-Porto Feliz,3540606
+Sp-Porto Ferreira,3540705
+Sp-Potim,3540754
+Sp-Potirendaba,3540804
+Sp-Pracinha,3540853
+Sp-Pradopolis,3540903
+Sp-Praia Grande,3541000
+Sp-Pratania,3541059
+Sp-Presidente Alves,3541109
+Sp-Presidente Bernardes,3541208
+Sp-Presidente Epitacio,3541307
+Sp-Presidente Prudente,3541406
+Sp-Presidente Venceslau,3541505
+Sp-Promissao,3541604
+Sp-Quadra,3541653
+Sp-Quata,3541703
+Sp-Queiroz,3541802
+Sp-Queluz,3541901
+Sp-Quintana,3542008
+Sp-Rafard,3542107
+Sp-Rancharia,3542206
+Sp-Redencao da Serra,3542305
+Sp-Regente Feijo,3542404
+Sp-Reginopolis,3542503
+Sp-Registro,3542602
+Sp-Restinga,3542701
+Sp-Ribeira,3542800
+Sp-Ribeirao Bonito,3542909
+Sp-Ribeirao Branco,3543006
+Sp-Ribeirao Corrente,3543105
+Sp-Ribeirao do Sul,3543204
+Sp-Ribeirao dos Indios,3543238
+Sp-Ribeirao Grande,3543253
+Sp-Ribeirao Pires,3543303
+Sp-Ribeirao Preto,3543402
+Sp-Riversul,3543501
+Sp-Rifaina,3543600
+Sp-Rincao,3543709
+Sp-Rinopolis,3543808
+Sp-Rio Claro,3543907
+Sp-Rio das Pedras,3544004
+Sp-Rio Grande da Serra,3544103
+Sp-Riolandia,3544202
+Sp-Rosana,3544251
+Sp-Roseira,3544301
+Sp-Rubiacea,3544400
+Sp-Rubineia,3544509
+Sp-Sabino,3544608
+Sp-Sagres,3544707
+Sp-Sales,3544806
+Sp-Sales Oliveira,3544905
+Sp-Salesopolis,3545001
+Sp-Salmourao,3545100
+Sp-Saltinho,3545159
+Sp-Salto,3545209
+Sp-Salto de Pirapora,3545308
+Sp-Salto Grande,3545407
+Sp-Sandovalina,3545506
+Sp-Santa Adelia,3545605
+Sp-Santa Albertina,3545704
+Sp-Santa Barbara D Oeste,3545803
+Sp-Santa Branca,3546009
+Sp-Santa Clara D Oeste,3546108
+Sp-Santa Cruz da Conceicao,3546207
+Sp-Santa Cruz da Esperanca,3546256
+Sp-Santa Cruz das Palmeiras,3546306
+Sp-Santa Cruz do Rio Pardo,3546405
+Sp-Santa Ernestina,3546504
+Sp-Santa Fe do Sul,3546603
+Sp-Santa Gertrudes,3546702
+Sp-Santa Isabel,3546801
+Sp-Santa Lucia,3546900
+Sp-Santa Maria da Serra,3547007
+Sp-Santa Mercedes,3547106
+Sp-Santana da Ponte Pensa,3547205
+Sp-Santana de Parnaiba,3547304
+Sp-Santa Rita D Oeste,3547403
+Sp-Santa Rita do Passa Quatro,3547502
+Sp-Santa Rosa de Viterbo,3547601
+Sp-Santa Salete,3547650
+Sp-Santo Anastacio,3547700
+Sp-Santo Andre,3547809
+Sp-Santo Antonio da Alegria,3547908
+Sp-Santo Antonio de Posse,3548005
+Sp-Santo Antonio do Aracangua,3548054
+Sp-Santo Antonio do Jardim,3548104
+Sp-Santo Antonio do Pinhal,3548203
+Sp-Santo Expedito,3548302
+Sp-Santopolis do Aguapei,3548401
+Sp-Santos,3548500
+Sp-Sao Bento do Sapucai,3548609
+Sp-Sao Bernardo do Campo,3548708
+Sp-Sao Caetano do Sul,3548807
+Sp-Sao Carlos,3548906
+Sp-Sao Francisco,3549003
+Sp-Sao Joao da Boa Vista,3549102
+Sp-Sao Joao das Duas Pontes,3549201
+Sp-Sao Joao de Iracema,3549250
+Sp-Sao Joao do Pau D Alho,3549300
+Sp-Sao Joaquim da Barra,3549409
+Sp-Sao Jose da Bela Vista,3549508
+Sp-Sao Jose do Barreiro,3549607
+Sp-Sao Jose do Rio Pardo,3549706
+Sp-Sao Jose do Rio Preto,3549805
+Sp-Sao Jose dos Campos,3549904
+Sp-Sao Lourenco da Serra,3549953
+Sp-Sao Luis do Paraitinga,3550001
+Sp-Sao Manuel,3550100
+Sp-Sao Miguel Arcanjo,3550209
+Sp-Sao Paulo,3550308
+Sp-Sao Pedro,3550407
+Sp-Sao Pedro do Turvo,3550506
+Sp-Sao Roque,3550605
+Sp-Sao Sebastiao,3550704
+Sp-Sao Sebastiao da Grama,3550803
+Sp-Sao Simao,3550902
+Sp-Sao Vicente,3551009
+Sp-Sarapui,3551108
+Sp-Sarutaia,3551207
+Sp-Sebastianopolis do Sul,3551306
+Sp-Serra Azul,3551405
+Sp-Serrana,3551504
+Sp-Serra Negra,3551603
+Sp-Sertaozinho,3551702
+Sp-Sete Barras,3551801
+Sp-Severinia,3551900
+Sp-Silveiras,3552007
+Sp-Socorro,3552106
+Sp-Sorocaba,3552205
+Sp-Sud Mennucci,3552304
+Sp-Sumare,3552403
+Sp-Suzano,3552502
+Sp-Suzanapolis,3552551
+Sp-Tabapua,3552601
+Sp-Tabatinga,3552700
+Sp-Taboao da Serra,3552809
+Sp-Taciba,3552908
+Sp-Taguai,3553005
+Sp-Taiacu,3553104
+Sp-Taiuva,3553203
+Sp-Tambau,3553302
+Sp-Tanabi,3553401
+Sp-Tapirai,3553500
+Sp-Tapiratiba,3553609
+Sp-Taquaral,3553658
+Sp-Taquaritinga,3553708
+Sp-Taquarituba,3553807
+Sp-Taquarivai,3553856
+Sp-Tarabai,3553906
+Sp-Taruma,3553955
+Sp-Tatui,3554003
+Sp-Taubate,3554102
+Sp-Tejupa,3554201
+Sp-Teodoro Sampaio,3554300
+Sp-Terra Roxa,3554409
+Sp-Tiete,3554508
+Sp-Timburi,3554607
+Sp-Torre de Pedra,3554656
+Sp-Torrinha,3554706
+Sp-Trabiju,3554755
+Sp-Tremembe,3554805
+Sp-Tres Fronteiras,3554904
+Sp-Tuiuti,3554953
+Sp-Tupa,3555000
+Sp-Tupi Paulista,3555109
+Sp-Turiuba,3555208
+Sp-Turmalina,3555307
+Sp-Ubarana,3555356
+Sp-Ubatuba,3555406
+Sp-Ubirajara,3555505
+Sp-Uchoa,3555604
+Sp-Uniao Paulista,3555703
+Sp-Urania,3555802
+Sp-Uru,3555901
+Sp-Urupes,3556008
+Sp-Valentim Gentil,3556107
+Sp-Valinhos,3556206
+Sp-Valparaiso,3556305
+Sp-Vargem,3556354
+Sp-Vargem Grande do Sul,3556404
+Sp-Vargem Grande Paulista,3556453
+Sp-Varzea Paulista,3556503
+Sp-Vera Cruz,3556602
+Sp-Vinhedo,3556701
+Sp-Viradouro,3556800
+Sp-Vista Alegre do Alto,3556909
+Sp-Vitoria Brasil,3556958
+Sp-Votorantim,3557006
+Sp-Votuporanga,3557105
+Sp-Zacarias,3557154
+Sp-Chavantes,3557204
+Sp-Estiva Gerbi,3557303
+Pr-Abatia,4100103
+Pr-Adrianopolis,4100202
+Pr-Agudos do Sul,4100301
+Pr-Almirante Tamandare,4100400
+Pr-Altamira do Parana,4100459
+Pr-Altonia,4100509
+Pr-Alto Parana,4100608
+Pr-Alto Piquiri,4100707
+Pr-Alvorada do Sul,4100806
+Pr-Amapora,4100905
+Pr-Ampere,4101002
+Pr-Anahy,4101051
+Pr-Andira,4101101
+Pr-Angulo,4101150
+Pr-Antonina,4101200
+Pr-Antonio Olinto,4101309
+Pr-Apucarana,4101408
+Pr-Arapongas,4101507
+Pr-Arapoti,4101606
+Pr-Arapua,4101655
+Pr-Araruna,4101705
+Pr-Araucaria,4101804
+Pr-Ariranha do Ivai,4101853
+Pr-Assai,4101903
+Pr-Assis Chateaubriand,4102000
+Pr-Astorga,4102109
+Pr-Atalaia,4102208
+Pr-Balsa Nova,4102307
+Pr-Bandeirantes,4102406
+Pr-Barbosa Ferraz,4102505
+Pr-Barracao,4102604
+Pr-Barra do Jacare,4102703
+Pr-Bela Vista da Caroba,4102752
+Pr-Bela Vista do Paraiso,4102802
+Pr-Bituruna,4102901
+Pr-Boa Esperanca,4103008
+Pr-Boa Esperanca do Iguacu,4103024
+Pr-Boa Ventura de Sao Roque,4103040
+Pr-Boa Vista da Aparecida,4103057
+Pr-Bocaiuva do Sul,4103107
+Pr-Bom Jesus do Sul,4103156
+Pr-Bom Sucesso,4103206
+Pr-Bom Sucesso do Sul,4103222
+Pr-Borrazopolis,4103305
+Pr-Braganey,4103354
+Pr-Brasilandia do Sul,4103370
+Pr-Cafeara,4103404
+Pr-Cafelandia,4103453
+Pr-Cafezal do Sul,4103479
+Pr-California,4103503
+Pr-Cambara,4103602
+Pr-Cambe,4103701
+Pr-Cambira,4103800
+Pr-Campina da Lagoa,4103909
+Pr-Campina do Simao,4103958
+Pr-Campina Grande do Sul,4104006
+Pr-Campo Bonito,4104055
+Pr-Campo do Tenente,4104105
+Pr-Campo Largo,4104204
+Pr-Campo Magro,4104253
+Pr-Campo Mourao,4104303
+Pr-Candido de Abreu,4104402
+Pr-Candoi,4104428
+Pr-Cantagalo,4104451
+Pr-Capanema,4104501
+Pr-Capitao Leonidas Marques,4104600
+Pr-Carambei,4104659
+Pr-Carlopolis,4104709
+Pr-Cascavel,4104808
+Pr-Castro,4104907
+Pr-Catanduvas,4105003
+Pr-Centenario do Sul,4105102
+Pr-Cerro Azul,4105201
+Pr-Ceu Azul,4105300
+Pr-Chopinzinho,4105409
+Pr-Cianorte,4105508
+Pr-Cidade Gaucha,4105607
+Pr-Clevelandia,4105706
+Pr-Colombo,4105805
+Pr-Colorado,4105904
+Pr-Congonhinhas,4106001
+Pr-Conselheiro Mairinck,4106100
+Pr-Contenda,4106209
+Pr-Corbelia,4106308
+Pr-Cornelio Procopio,4106407
+Pr-Coronel Domingos Soares,4106456
+Pr-Coronel Vivida,4106506
+Pr-Corumbatai do Sul,4106555
+Pr-Cruzeiro do Iguacu,4106571
+Pr-Cruzeiro do Oeste,4106605
+Pr-Cruzeiro do Sul,4106704
+Pr-Cruz Machado,4106803
+Pr-Cruzmaltina,4106852
+Pr-Curitiba,4106902
+Pr-Curiuva,4107009
+Pr-Diamante do Norte,4107108
+Pr-Diamante do Sul,4107124
+Pr-Diamante D Oeste,4107157
+Pr-Dois Vizinhos,4107207
+Pr-Douradina,4107256
+Pr-Doutor Camargo,4107306
+Pr-Eneas Marques,4107405
+Pr-Engenheiro Beltrao,4107504
+Pr-Esperanca Nova,4107520
+Pr-Entre Rios do Oeste,4107538
+Pr-Espigao Alto do Iguacu,4107546
+Pr-Farol,4107553
+Pr-Faxinal,4107603
+Pr-Fazenda Rio Grande,4107652
+Pr-Fenix,4107702
+Pr-Fernandes Pinheiro,4107736
+Pr-Figueira,4107751
+Pr-Florai,4107801
+Pr-Flor da Serra do Sul,4107850
+Pr-Floresta,4107900
+Pr-Florestopolis,4108007
+Pr-Florida,4108106
+Pr-Formosa do Oeste,4108205
+Pr-Foz do Iguacu,4108304
+Pr-Francisco Alves,4108320
+Pr-Francisco Beltrao,4108403
+Pr-Foz do Jordao,4108452
+Pr-General Carneiro,4108502
+Pr-Godoy Moreira,4108551
+Pr-Goioere,4108601
+Pr-Goioxim,4108650
+Pr-Grandes Rios,4108700
+Pr-Guaira,4108809
+Pr-Guairaca,4108908
+Pr-Guamiranga,4108957
+Pr-Guapirama,4109005
+Pr-Guaporema,4109104
+Pr-Guaraci,4109203
+Pr-Guaraniacu,4109302
+Pr-Guarapuava,4109401
+Pr-Guaraquecaba,4109500
+Pr-Guaratuba,4109609
+Pr-Honorio Serpa,4109658
+Pr-Ibaiti,4109708
+Pr-Ibema,4109757
+Pr-Ibipora,4109807
+Pr-Icaraima,4109906
+Pr-Iguaracu,4110003
+Pr-Iguatu,4110052
+Pr-Imbau,4110078
+Pr-Imbituva,4110102
+Pr-Inacio Martins,4110201
+Pr-Inaja,4110300
+Pr-Indianopolis,4110409
+Pr-Ipiranga,4110508
+Pr-Ipora,4110607
+Pr-Iracema do Oeste,4110656
+Pr-Irati,4110706
+Pr-Iretama,4110805
+Pr-Itaguaje,4110904
+Pr-Itaipulandia,4110953
+Pr-Itambaraca,4111001
+Pr-Itambe,4111100
+Pr-Itapejara D Oeste,4111209
+Pr-Itaperucu,4111258
+Pr-Itauna do Sul,4111308
+Pr-Ivai,4111407
+Pr-Ivaipora,4111506
+Pr-Ivate,4111555
+Pr-Ivatuba,4111605
+Pr-Jaboti,4111704
+Pr-Jacarezinho,4111803
+Pr-Jaguapita,4111902
+Pr-Jaguariaiva,4112009
+Pr-Jandaia do Sul,4112108
+Pr-Janiopolis,4112207
+Pr-Japira,4112306
+Pr-Japura,4112405
+Pr-Jardim Alegre,4112504
+Pr-Jardim Olinda,4112603
+Pr-Jataizinho,4112702
+Pr-Jesuitas,4112751
+Pr-Joaquim Tavora,4112801
+Pr-Jundiai do Sul,4112900
+Pr-Juranda,4112959
+Pr-Jussara,4113007
+Pr-Kalore,4113106
+Pr-Lapa,4113205
+Pr-Laranjal,4113254
+Pr-Laranjeiras do Sul,4113304
+Pr-Leopolis,4113403
+Pr-Lidianopolis,4113429
+Pr-Lindoeste,4113452
+Pr-Loanda,4113502
+Pr-Lobato,4113601
+Pr-Londrina,4113700
+Pr-Luiziana,4113734
+Pr-Lunardelli,4113759
+Pr-Lupionopolis,4113809
+Pr-Mallet,4113908
+Pr-Mambore,4114005
+Pr-Mandaguacu,4114104
+Pr-Mandaguari,4114203
+Pr-Mandirituba,4114302
+Pr-Manfrinopolis,4114351
+Pr-Mangueirinha,4114401
+Pr-Manoel Ribas,4114500
+Pr-Marechal Candido Rondon,4114609
+Pr-Maria Helena,4114708
+Pr-Marialva,4114807
+Pr-Marilandia do Sul,4114906
+Pr-Marilena,4115002
+Pr-Mariluz,4115101
+Pr-Maringa,4115200
+Pr-Mariopolis,4115309
+Pr-Maripa,4115358
+Pr-Marmeleiro,4115408
+Pr-Marquinho,4115457
+Pr-Marumbi,4115507
+Pr-Matelandia,4115606
+Pr-Matinhos,4115705
+Pr-Mato Rico,4115739
+Pr-Maua da Serra,4115754
+Pr-Medianeira,4115804
+Pr-Mercedes,4115853
+Pr-Mirador,4115903
+Pr-Miraselva,4116000
+Pr-Missal,4116059
+Pr-Moreira Sales,4116109
+Pr-Morretes,4116208
+Pr-Munhoz de Melo,4116307
+Pr-Nossa Senhora das Gracas,4116406
+Pr-Nova Alianca do Ivai,4116505
+Pr-Nova America da Colina,4116604
+Pr-Nova Aurora,4116703
+Pr-Nova Cantu,4116802
+Pr-Nova Esperanca,4116901
+Pr-Nova Esperanca do Sudoeste,4116950
+Pr-Nova Fatima,4117008
+Pr-Nova Laranjeiras,4117057
+Pr-Nova Londrina,4117107
+Pr-Nova Olimpia,4117206
+Pr-Nova Santa Barbara,4117214
+Pr-Nova Santa Rosa,4117222
+Pr-Nova Prata do Iguacu,4117255
+Pr-Nova Tebas,4117271
+Pr-Novo Itacolomi,4117297
+Pr-Ortigueira,4117305
+Pr-Ourizona,4117404
+Pr-Ouro Verde do Oeste,4117453
+Pr-Paicandu,4117503
+Pr-Palmas,4117602
+Pr-Palmeira,4117701
+Pr-Palmital,4117800
+Pr-Palotina,4117909
+Pr-Paraiso do Norte,4118006
+Pr-Paranacity,4118105
+Pr-Paranagua,4118204
+Pr-Paranapoema,4118303
+Pr-Paranavai,4118402
+Pr-Pato Bragado,4118451
+Pr-Pato Branco,4118501
+Pr-Paula Freitas,4118600
+Pr-Paulo Frontin,4118709
+Pr-Peabiru,4118808
+Pr-Perobal,4118857
+Pr-Perola,4118907
+Pr-Perola D Oeste,4119004
+Pr-Pien,4119103
+Pr-Pinhais,4119152
+Pr-Pinhalao,4119202
+Pr-Pinhal de Sao Bento,4119251
+Pr-Pinhao,4119301
+Pr-Pirai do Sul,4119400
+Pr-Piraquara,4119509
+Pr-Pitanga,4119608
+Pr-Pitangueiras,4119657
+Pr-Planaltina do Parana,4119707
+Pr-Planalto,4119806
+Pr-Ponta Grossa,4119905
+Pr-Pontal do Parana,4119954
+Pr-Porecatu,4120002
+Pr-Porto Amazonas,4120101
+Pr-Porto Barreiro,4120150
+Pr-Porto Rico,4120200
+Pr-Porto Vitoria,4120309
+Pr-Prado Ferreira,4120333
+Pr-Pranchita,4120358
+Pr-Presidente Castelo Branco,4120408
+Pr-Primeiro de Maio,4120507
+Pr-Prudentopolis,4120606
+Pr-Quarto Centenario,4120655
+Pr-Quatigua,4120705
+Pr-Quatro Barras,4120804
+Pr-Quatro Pontes,4120853
+Pr-Quedas do Iguacu,4120903
+Pr-Querencia do Norte,4121000
+Pr-Quinta do Sol,4121109
+Pr-Quitandinha,4121208
+Pr-Ramilandia,4121257
+Pr-Rancho Alegre,4121307
+Pr-Rancho Alegre D Oeste,4121356
+Pr-Realeza,4121406
+Pr-Reboucas,4121505
+Pr-Renascenca,4121604
+Pr-Reserva,4121703
+Pr-Reserva do Iguacu,4121752
+Pr-Ribeirao Claro,4121802
+Pr-Ribeirao do Pinhal,4121901
+Pr-Rio Azul,4122008
+Pr-Rio Bom,4122107
+Pr-Rio Bonito do Iguacu,4122156
+Pr-Rio Branco do Ivai,4122172
+Pr-Rio Branco do Sul,4122206
+Pr-Rio Negro,4122305
+Pr-Rolandia,4122404
+Pr-Roncador,4122503
+Pr-Rondon,4122602
+Pr-Rosario do Ivai,4122651
+Pr-Sabaudia,4122701
+Pr-Salgado Filho,4122800
+Pr-Salto do Itarare,4122909
+Pr-Salto do Lontra,4123006
+Pr-Santa Amelia,4123105
+Pr-Santa Cecilia do Pavao,4123204
+Pr-Santa Cruz de Monte Castelo,4123303
+Pr-Santa Fe,4123402
+Pr-Santa Helena,4123501
+Pr-Santa Ines,4123600
+Pr-Santa Isabel do Ivai,4123709
+Pr-Santa Izabel do Oeste,4123808
+Pr-Santa Lucia,4123824
+Pr-Santa Maria do Oeste,4123857
+Pr-Santa Mariana,4123907
+Pr-Santa Monica,4123956
+Pr-Santana do Itarare,4124004
+Pr-Santa Tereza do Oeste,4124020
+Pr-Santa Terezinha de Itaipu,4124053
+Pr-Santo Antonio da Platina,4124103
+Pr-Santo Antonio do Caiua,4124202
+Pr-Santo Antonio do Paraiso,4124301
+Pr-Santo Antonio do Sudoeste,4124400
+Pr-Santo Inacio,4124509
+Pr-Sao Carlos do Ivai,4124608
+Pr-Sao Jeronimo da Serra,4124707
+Pr-Sao Joao,4124806
+Pr-Sao Joao do Caiua,4124905
+Pr-Sao Joao do Ivai,4125001
+Pr-Sao Joao do Triunfo,4125100
+Pr-Sao Jorge D Oeste,4125209
+Pr-Sao Jorge do Ivai,4125308
+Pr-Sao Jorge do Patrocinio,4125357
+Pr-Sao Jose da Boa Vista,4125407
+Pr-Sao Jose das Palmeiras,4125456
+Pr-Sao Jose dos Pinhais,4125506
+Pr-Sao Manoel do Parana,4125555
+Pr-Sao Mateus do Sul,4125605
+Pr-Sao Miguel do Iguacu,4125704
+Pr-Sao Pedro do Iguacu,4125753
+Pr-Sao Pedro do Ivai,4125803
+Pr-Sao Pedro do Parana,4125902
+Pr-Sao Sebastiao da Amoreira,4126009
+Pr-Sao Tome,4126108
+Pr-Sapopema,4126207
+Pr-Sarandi,4126256
+Pr-Saudade do Iguacu,4126272
+Pr-Senges,4126306
+Pr-Serranopolis do Iguacu,4126355
+Pr-Sertaneja,4126405
+Pr-Sertanopolis,4126504
+Pr-Siqueira Campos,4126603
+Pr-Sulina,4126652
+Pr-Tamarana,4126678
+Pr-Tamboara,4126702
+Pr-Tapejara,4126801
+Pr-Tapira,4126900
+Pr-Teixeira Soares,4127007
+Pr-Telemaco Borba,4127106
+Pr-Terra Boa,4127205
+Pr-Terra Rica,4127304
+Pr-Terra Roxa,4127403
+Pr-Tibagi,4127502
+Pr-Tijucas do Sul,4127601
+Pr-Toledo,4127700
+Pr-Tomazina,4127809
+Pr-Tres Barras do Parana,4127858
+Pr-Tunas do Parana,4127882
+Pr-Tuneiras do Oeste,4127908
+Pr-Tupassi,4127957
+Pr-Turvo,4127965
+Pr-Ubirata,4128005
+Pr-Umuarama,4128104
+Pr-Uniao da Vitoria,4128203
+Pr-Uniflor,4128302
+Pr-Urai,4128401
+Pr-Wenceslau Braz,4128500
+Pr-Ventania,4128534
+Pr-Vera Cruz do Oeste,4128559
+Pr-Vere,4128609
+Pr-Alto Paraiso,4128625
+Pr-Doutor Ulysses,4128633
+Pr-Virmond,4128658
+Pr-Vitorino,4128708
+Pr-Xambre,4128807
+Sc-Abdon Batista,4200051
+Sc-Abelardo Luz,4200101
+Sc-Agrolandia,4200200
+Sc-Agronomica,4200309
+Sc-Agua Doce,4200408
+Sc-Aguas de Chapeco,4200507
+Sc-Aguas Frias,4200556
+Sc-Aguas Mornas,4200606
+Sc-Alfredo Wagner,4200705
+Sc-Alto Bela Vista,4200754
+Sc-Anchieta,4200804
+Sc-Angelina,4200903
+Sc-Anita Garibaldi,4201000
+Sc-Anitapolis,4201109
+Sc-Antonio Carlos,4201208
+Sc-Apiuna,4201257
+Sc-Arabuta,4201273
+Sc-Araquari,4201307
+Sc-Ararangua,4201406
+Sc-Armazem,4201505
+Sc-Arroio Trinta,4201604
+Sc-Arvoredo,4201653
+Sc-Ascurra,4201703
+Sc-Atalanta,4201802
+Sc-Aurora,4201901
+Sc-Balneario Arroio do Silva,4201950
+Sc-Balneario Camboriu,4202008
+Sc-Balneario Barra do Sul,4202057
+Sc-Balneario Gaivota,4202073
+Sc-Bandeirante,4202081
+Sc-Barra Bonita,4202099
+Sc-Barra Velha,4202107
+Sc-Bela Vista do Toldo,4202131
+Sc-Belmonte,4202156
+Sc-Benedito Novo,4202206
+Sc-Biguacu,4202305
+Sc-Blumenau,4202404
+Sc-Bocaina do Sul,4202438
+Sc-Bombinhas,4202453
+Sc-Bom Jardim da Serra,4202503
+Sc-Bom Jesus,4202537
+Sc-Bom Jesus do Oeste,4202578
+Sc-Bom Retiro,4202602
+Sc-Botuvera,4202701
+Sc-Braco do Norte,4202800
+Sc-Braco do Trombudo,4202859
+Sc-Brunopolis,4202875
+Sc-Brusque,4202909
+Sc-Cacador,4203006
+Sc-Caibi,4203105
+Sc-Calmon,4203154
+Sc-Camboriu,4203204
+Sc-Capao Alto,4203253
+Sc-Campo Alegre,4203303
+Sc-Campo Belo do Sul,4203402
+Sc-Campo Ere,4203501
+Sc-Campos Novos,4203600
+Sc-Canelinha,4203709
+Sc-Canoinhas,4203808
+Sc-Capinzal,4203907
+Sc-Capivari de Baixo,4203956
+Sc-Catanduvas,4204004
+Sc-Caxambu do Sul,4204103
+Sc-Celso Ramos,4204152
+Sc-Cerro Negro,4204178
+Sc-Chapadao do Lageado,4204194
+Sc-Chapeco,4204202
+Sc-Cocal do Sul,4204251
+Sc-Concordia,4204301
+Sc-Cordilheira Alta,4204350
+Sc-Coronel Freitas,4204400
+Sc-Coronel Martins,4204459
+Sc-Corupa,4204509
+Sc-Correia Pinto,4204558
+Sc-Criciuma,4204608
+Sc-Cunha Pora,4204707
+Sc-Cunhatai,4204756
+Sc-Curitibanos,4204806
+Sc-Descanso,4204905
+Sc-Dionisio Cerqueira,4205001
+Sc-Dona Emma,4205100
+Sc-Doutor Pedrinho,4205159
+Sc-Entre Rios,4205175
+Sc-Ermo,4205191
+Sc-Erval Velho,4205209
+Sc-Faxinal dos Guedes,4205308
+Sc-Flor do Sertao,4205357
+Sc-Florianopolis,4205407
+Sc-Formosa do Sul,4205431
+Sc-Forquilhinha,4205456
+Sc-Fraiburgo,4205506
+Sc-Frei Rogerio,4205555
+Sc-Galvao,4205605
+Sc-Garopaba,4205704
+Sc-Garuva,4205803
+Sc-Gaspar,4205902
+Sc-Governador Celso Ramos,4206009
+Sc-Grao Para,4206108
+Sc-Gravatal,4206207
+Sc-Guabiruba,4206306
+Sc-Guaraciaba,4206405
+Sc-Guaramirim,4206504
+Sc-Guaruja do Sul,4206603
+Sc-Guatambu,4206652
+Sc-Herval D Oeste,4206702
+Sc-Ibiam,4206751
+Sc-Ibicare,4206801
+Sc-Ibirama,4206900
+Sc-Icara,4207007
+Sc-Ilhota,4207106
+Sc-Imarui,4207205
+Sc-Imbituba,4207304
+Sc-Imbuia,4207403
+Sc-Indaial,4207502
+Sc-Iomere,4207577
+Sc-Ipira,4207601
+Sc-Ipora do Oeste,4207650
+Sc-Ipuacu,4207684
+Sc-Ipumirim,4207700
+Sc-Iraceminha,4207759
+Sc-Irani,4207809
+Sc-Irati,4207858
+Sc-Irineopolis,4207908
+Sc-Ita,4208005
+Sc-Itaiopolis,4208104
+Sc-Itajai,4208203
+Sc-Itapema,4208302
+Sc-Itapiranga,4208401
+Sc-Itapoa,4208450
+Sc-Ituporanga,4208500
+Sc-Jabora,4208609
+Sc-Jacinto Machado,4208708
+Sc-Jaguaruna,4208807
+Sc-Jaragua do Sul,4208906
+Sc-Jardinopolis,4208955
+Sc-Joacaba,4209003
+Sc-Joinville,4209102
+Sc-Jose Boiteux,4209151
+Sc-Jupia,4209177
+Sc-Lacerdopolis,4209201
+Sc-Lages,4209300
+Sc-Laguna,4209409
+Sc-Lajeado Grande,4209458
+Sc-Laurentino,4209508
+Sc-Lauro Muller,4209607
+Sc-Lebon Regis,4209706
+Sc-Leoberto Leal,4209805
+Sc-Lindoia do Sul,4209854
+Sc-Lontras,4209904
+Sc-Luiz Alves,4210001
+Sc-Luzerna,4210035
+Sc-Macieira,4210050
+Sc-Mafra,4210100
+Sc-Major Gercino,4210209
+Sc-Major Vieira,4210308
+Sc-Maracaja,4210407
+Sc-Maravilha,4210506
+Sc-Marema,4210555
+Sc-Massaranduba,4210605
+Sc-Matos Costa,4210704
+Sc-Meleiro,4210803
+Sc-Mirim Doce,4210852
+Sc-Modelo,4210902
+Sc-Mondai,4211009
+Sc-Monte Carlo,4211058
+Sc-Monte Castelo,4211108
+Sc-Morro da Fumaca,4211207
+Sc-Morro Grande,4211256
+Sc-Navegantes,4211306
+Sc-Nova Erechim,4211405
+Sc-Nova Itaberaba,4211454
+Sc-Nova Trento,4211504
+Sc-Nova Veneza,4211603
+Sc-Novo Horizonte,4211652
+Sc-Orleans,4211702
+Sc-Otacilio Costa,4211751
+Sc-Ouro,4211801
+Sc-Ouro Verde,4211850
+Sc-Paial,4211876
+Sc-Painel,4211892
+Sc-Palhoca,4211900
+Sc-Palma Sola,4212007
+Sc-Palmeira,4212056
+Sc-Palmitos,4212106
+Sc-Papanduva,4212205
+Sc-Paraiso,4212239
+Sc-Passo de Torres,4212254
+Sc-Passos Maia,4212270
+Sc-Paulo Lopes,4212304
+Sc-Pedras Grandes,4212403
+Sc-Penha,4212502
+Sc-Peritiba,4212601
+Sc-Pescaria Brava,4212650
+Sc-Petrolandia,4212700
+Sc-Balneario Picarras,4212809
+Sc-Pinhalzinho,4212908
+Sc-Pinheiro Preto,4213005
+Sc-Piratuba,4213104
+Sc-Planalto Alegre,4213153
+Sc-Pomerode,4213203
+Sc-Ponte Alta,4213302
+Sc-Ponte Alta do Norte,4213351
+Sc-Ponte Serrada,4213401
+Sc-Porto Belo,4213500
+Sc-Porto Uniao,4213609
+Sc-Pouso Redondo,4213708
+Sc-Praia Grande,4213807
+Sc-Presidente Castello Branco,4213906
+Sc-Presidente Getulio,4214003
+Sc-Presidente Nereu,4214102
+Sc-Princesa,4214151
+Sc-Quilombo,4214201
+Sc-Rancho Queimado,4214300
+Sc-Rio das Antas,4214409
+Sc-Rio do Campo,4214508
+Sc-Rio do Oeste,4214607
+Sc-Rio dos Cedros,4214706
+Sc-Rio do Sul,4214805
+Sc-Rio Fortuna,4214904
+Sc-Rio Negrinho,4215000
+Sc-Rio Rufino,4215059
+Sc-Riqueza,4215075
+Sc-Rodeio,4215109
+Sc-Romelandia,4215208
+Sc-Salete,4215307
+Sc-Saltinho,4215356
+Sc-Salto Veloso,4215406
+Sc-Sangao,4215455
+Sc-Santa Cecilia,4215505
+Sc-Santa Helena,4215554
+Sc-Santa Rosa de Lima,4215604
+Sc-Santa Rosa do Sul,4215653
+Sc-Santa Terezinha,4215679
+Sc-Santa Terezinha do Progresso,4215687
+Sc-Santiago do Sul,4215695
+Sc-Santo Amaro da Imperatriz,4215703
+Sc-Sao Bernardino,4215752
+Sc-Sao Bento do Sul,4215802
+Sc-Sao Bonifacio,4215901
+Sc-Sao Carlos,4216008
+Sc-Sao Cristovao do Sul,4216057
+Sc-Sao Domingos,4216107
+Sc-Sao Francisco do Sul,4216206
+Sc-Sao Joao do Oeste,4216255
+Sc-Sao Joao Batista,4216305
+Sc-Sao Joao do Itaperiu,4216354
+Sc-Sao Joao do Sul,4216404
+Sc-Sao Joaquim,4216503
+Sc-Sao Jose,4216602
+Sc-Sao Jose do Cedro,4216701
+Sc-Sao Jose do Cerrito,4216800
+Sc-Sao Lourenco do Oeste,4216909
+Sc-Sao Ludgero,4217006
+Sc-Sao Martinho,4217105
+Sc-Sao Miguel da Boa Vista,4217154
+Sc-Sao Miguel do Oeste,4217204
+Sc-Sao Pedro de Alcantara,4217253
+Sc-Saudades,4217303
+Sc-Schroeder,4217402
+Sc-Seara,4217501
+Sc-Serra Alta,4217550
+Sc-Sideropolis,4217600
+Sc-Sombrio,4217709
+Sc-Sul Brasil,4217758
+Sc-Taio,4217808
+Sc-Tangara,4217907
+Sc-Tigrinhos,4217956
+Sc-Tijucas,4218004
+Sc-Timbe do Sul,4218103
+Sc-Timbo,4218202
+Sc-Timbo Grande,4218251
+Sc-Tres Barras,4218301
+Sc-Treviso,4218350
+Sc-Treze de Maio,4218400
+Sc-Treze Tilias,4218509
+Sc-Trombudo Central,4218608
+Sc-Tubarao,4218707
+Sc-Tunapolis,4218756
+Sc-Turvo,4218806
+Sc-Uniao do Oeste,4218855
+Sc-Urubici,4218905
+Sc-Urupema,4218954
+Sc-Urussanga,4219002
+Sc-Vargeao,4219101
+Sc-Vargem,4219150
+Sc-Vargem Bonita,4219176
+Sc-Vidal Ramos,4219200
+Sc-Videira,4219309
+Sc-Vitor Meireles,4219358
+Sc-Witmarsum,4219408
+Sc-Xanxere,4219507
+Sc-Xavantina,4219606
+Sc-Xaxim,4219705
+Sc-Zortea,4219853
+Sc-Balneario Rincao,4220000
+Rs-Acegua,4300034
+Rs-Agua Santa,4300059
+Rs-Agudo,4300109
+Rs-Ajuricaba,4300208
+Rs-Alecrim,4300307
+Rs-Alegrete,4300406
+Rs-Alegria,4300455
+Rs-Almirante Tamandare do Sul,4300471
+Rs-Alpestre,4300505
+Rs-Alto Alegre,4300554
+Rs-Alto Feliz,4300570
+Rs-Alvorada,4300604
+Rs-Amaral Ferrador,4300638
+Rs-Ametista do Sul,4300646
+Rs-Andre da Rocha,4300661
+Rs-Anta Gorda,4300703
+Rs-Antonio Prado,4300802
+Rs-Arambare,4300851
+Rs-Ararica,4300877
+Rs-Aratiba,4300901
+Rs-Arroio do Meio,4301008
+Rs-Arroio do Sal,4301057
+Rs-Arroio do Padre,4301073
+Rs-Arroio dos Ratos,4301107
+Rs-Arroio do Tigre,4301206
+Rs-Arroio Grande,4301305
+Rs-Arvorezinha,4301404
+Rs-Augusto Pestana,4301503
+Rs-Aurea,4301552
+Rs-Bage,4301602
+Rs-Balneario Pinhal,4301636
+Rs-Barao,4301651
+Rs-Barao de Cotegipe,4301701
+Rs-Barao do Triunfo,4301750
+Rs-Barracao,4301800
+Rs-Barra do Guarita,4301859
+Rs-Barra do Quarai,4301875
+Rs-Barra do Ribeiro,4301909
+Rs-Barra do Rio Azul,4301925
+Rs-Barra Funda,4301958
+Rs-Barros Cassal,4302006
+Rs-Benjamin Constant do Sul,4302055
+Rs-Bento Goncalves,4302105
+Rs-Boa Vista das Missoes,4302154
+Rs-Boa Vista do Burica,4302204
+Rs-Boa Vista do Cadeado,4302220
+Rs-Boa Vista do Incra,4302238
+Rs-Boa Vista do Sul,4302253
+Rs-Bom Jesus,4302303
+Rs-Bom Principio,4302352
+Rs-Bom Progresso,4302378
+Rs-Bom Retiro do Sul,4302402
+Rs-Boqueirao do Leao,4302451
+Rs-Bossoroca,4302501
+Rs-Bozano,4302584
+Rs-Braga,4302600
+Rs-Brochier,4302659
+Rs-Butia,4302709
+Rs-Cacapava do Sul,4302808
+Rs-Cacequi,4302907
+Rs-Cachoeira do Sul,4303004
+Rs-Cachoeirinha,4303103
+Rs-Cacique Doble,4303202
+Rs-Caibate,4303301
+Rs-Caicara,4303400
+Rs-Camaqua,4303509
+Rs-Camargo,4303558
+Rs-Cambara do Sul,4303608
+Rs-Campestre da Serra,4303673
+Rs-Campina das Missoes,4303707
+Rs-Campinas do Sul,4303806
+Rs-Campo Bom,4303905
+Rs-Campo Novo,4304002
+Rs-Campos Borges,4304101
+Rs-Candelaria,4304200
+Rs-Candido Godoi,4304309
+Rs-Candiota,4304358
+Rs-Canela,4304408
+Rs-Cangucu,4304507
+Rs-Canoas,4304606
+Rs-Canudos do Vale,4304614
+Rs-Capao Bonito do Sul,4304622
+Rs-Capao da Canoa,4304630
+Rs-Capao do Cipo,4304655
+Rs-Capao do Leao,4304663
+Rs-Capivari do Sul,4304671
+Rs-Capela de Santana,4304689
+Rs-Capitao,4304697
+Rs-Carazinho,4304705
+Rs-Caraa,4304713
+Rs-Carlos Barbosa,4304804
+Rs-Carlos Gomes,4304853
+Rs-Casca,4304903
+Rs-Caseiros,4304952
+Rs-Catuipe,4305009
+Rs-Caxias do Sul,4305108
+Rs-Centenario,4305116
+Rs-Cerrito,4305124
+Rs-Cerro Branco,4305132
+Rs-Cerro Grande,4305157
+Rs-Cerro Grande do Sul,4305173
+Rs-Cerro Largo,4305207
+Rs-Chapada,4305306
+Rs-Charqueadas,4305355
+Rs-Charrua,4305371
+Rs-Chiapetta,4305405
+Rs-Chui,4305439
+Rs-Chuvisca,4305447
+Rs-Cidreira,4305454
+Rs-Ciriaco,4305504
+Rs-Colinas,4305587
+Rs-Colorado,4305603
+Rs-Condor,4305702
+Rs-Constantina,4305801
+Rs-Coqueiro Baixo,4305835
+Rs-Coqueiros do Sul,4305850
+Rs-Coronel Barros,4305871
+Rs-Coronel Bicaco,4305900
+Rs-Coronel Pilar,4305934
+Rs-Cotipora,4305959
+Rs-Coxilha,4305975
+Rs-Crissiumal,4306007
+Rs-Cristal,4306056
+Rs-Cristal do Sul,4306072
+Rs-Cruz Alta,4306106
+Rs-Cruzaltense,4306130
+Rs-Cruzeiro do Sul,4306205
+Rs-David Canabarro,4306304
+Rs-Derrubadas,4306320
+Rs-Dezesseis de Novembro,4306353
+Rs-Dilermando de Aguiar,4306379
+Rs-Dois Irmaos,4306403
+Rs-Dois Irmaos das Missoes,4306429
+Rs-Dois Lajeados,4306452
+Rs-Dom Feliciano,4306502
+Rs-Dom Pedro de Alcantara,4306551
+Rs-Dom Pedrito,4306601
+Rs-Dona Francisca,4306700
+Rs-Doutor Mauricio Cardoso,4306734
+Rs-Doutor Ricardo,4306759
+Rs-Eldorado do Sul,4306767
+Rs-Encantado,4306809
+Rs-Encruzilhada do Sul,4306908
+Rs-Engenho Velho,4306924
+Rs-Entre-Ijuis,4306932
+Rs-Entre Rios do Sul,4306957
+Rs-Erebango,4306973
+Rs-Erechim,4307005
+Rs-Ernestina,4307054
+Rs-Herval,4307104
+Rs-Erval Grande,4307203
+Rs-Erval Seco,4307302
+Rs-Esmeralda,4307401
+Rs-Esperanca do Sul,4307450
+Rs-Espumoso,4307500
+Rs-Estacao,4307559
+Rs-Estancia Velha,4307609
+Rs-Esteio,4307708
+Rs-Estrela,4307807
+Rs-Estrela Velha,4307815
+Rs-Eugenio de Castro,4307831
+Rs-Fagundes Varela,4307864
+Rs-Farroupilha,4307906
+Rs-Faxinal do Soturno,4308003
+Rs-Faxinalzinho,4308052
+Rs-Fazenda Vilanova,4308078
+Rs-Feliz,4308102
+Rs-Flores da Cunha,4308201
+Rs-Floriano Peixoto,4308250
+Rs-Fontoura Xavier,4308300
+Rs-Formigueiro,4308409
+Rs-Forquetinha,4308433
+Rs-Fortaleza dos Valos,4308458
+Rs-Frederico Westphalen,4308508
+Rs-Garibaldi,4308607
+Rs-Garruchos,4308656
+Rs-Gaurama,4308706
+Rs-General Camara,4308805
+Rs-Gentil,4308854
+Rs-Getulio Vargas,4308904
+Rs-Girua,4309001
+Rs-Glorinha,4309050
+Rs-Gramado,4309100
+Rs-Gramado dos Loureiros,4309126
+Rs-Gramado Xavier,4309159
+Rs-Gravatai,4309209
+Rs-Guabiju,4309258
+Rs-Guaiba,4309308
+Rs-Guapore,4309407
+Rs-Guarani das Missoes,4309506
+Rs-Harmonia,4309555
+Rs-Herveiras,4309571
+Rs-Horizontina,4309605
+Rs-Hulha Negra,4309654
+Rs-Humaita,4309704
+Rs-Ibarama,4309753
+Rs-Ibiaca,4309803
+Rs-Ibiraiaras,4309902
+Rs-Ibirapuita,4309951
+Rs-Ibiruba,4310009
+Rs-Igrejinha,4310108
+Rs-Ijui,4310207
+Rs-Ilopolis,4310306
+Rs-Imbe,4310330
+Rs-Imigrante,4310363
+Rs-Independencia,4310405
+Rs-Inhacora,4310413
+Rs-Ipe,4310439
+Rs-Ipiranga do Sul,4310462
+Rs-Irai,4310504
+Rs-Itaara,4310538
+Rs-Itacurubi,4310553
+Rs-Itapuca,4310579
+Rs-Itaqui,4310603
+Rs-Itati,4310652
+Rs-Itatiba do Sul,4310702
+Rs-Ivora,4310751
+Rs-Ivoti,4310801
+Rs-Jaboticaba,4310850
+Rs-Jacuizinho,4310876
+Rs-Jacutinga,4310900
+Rs-Jaguarao,4311007
+Rs-Jaguari,4311106
+Rs-Jaquirana,4311122
+Rs-Jari,4311130
+Rs-Joia,4311155
+Rs-Julio de Castilhos,4311205
+Rs-Lagoa Bonita do Sul,4311239
+Rs-Lagoao,4311254
+Rs-Lagoa dos Tres Cantos,4311270
+Rs-Lagoa Vermelha,4311304
+Rs-Lajeado,4311403
+Rs-Lajeado do Bugre,4311429
+Rs-Lavras do Sul,4311502
+Rs-Liberato Salzano,4311601
+Rs-Lindolfo Collor,4311627
+Rs-Linha Nova,4311643
+Rs-Machadinho,4311700
+Rs-Macambara,4311718
+Rs-Mampituba,4311734
+Rs-Manoel Viana,4311759
+Rs-Maquine,4311775
+Rs-Marata,4311791
+Rs-Marau,4311809
+Rs-Marcelino Ramos,4311908
+Rs-Mariana Pimentel,4311981
+Rs-Mariano Moro,4312005
+Rs-Marques de Souza,4312054
+Rs-Mata,4312104
+Rs-Mato Castelhano,4312138
+Rs-Mato Leitao,4312153
+Rs-Mato Queimado,4312179
+Rs-Maximiliano de Almeida,4312203
+Rs-Minas do Leao,4312252
+Rs-Miraguai,4312302
+Rs-Montauri,4312351
+Rs-Monte Alegre dos Campos,4312377
+Rs-Monte Belo do Sul,4312385
+Rs-Montenegro,4312401
+Rs-Mormaco,4312427
+Rs-Morrinhos do Sul,4312443
+Rs-Morro Redondo,4312450
+Rs-Morro Reuter,4312476
+Rs-Mostardas,4312500
+Rs-Mucum,4312609
+Rs-Muitos Capoes,4312617
+Rs-Muliterno,4312625
+Rs-Nao-Me-Toque,4312658
+Rs-Nicolau Vergueiro,4312674
+Rs-Nonoai,4312708
+Rs-Nova Alvorada,4312757
+Rs-Nova Araca,4312807
+Rs-Nova Bassano,4312906
+Rs-Nova Boa Vista,4312955
+Rs-Nova Brescia,4313003
+Rs-Nova Candelaria,4313011
+Rs-Nova Esperanca do Sul,4313037
+Rs-Nova Hartz,4313060
+Rs-Nova Padua,4313086
+Rs-Nova Palma,4313102
+Rs-Nova Petropolis,4313201
+Rs-Nova Prata,4313300
+Rs-Nova Ramada,4313334
+Rs-Nova Roma do Sul,4313359
+Rs-Nova Santa Rita,4313375
+Rs-Novo Cabrais,4313391
+Rs-Novo Hamburgo,4313409
+Rs-Novo Machado,4313425
+Rs-Novo Tiradentes,4313441
+Rs-Novo Xingu,4313466
+Rs-Novo Barreiro,4313490
+Rs-Osorio,4313508
+Rs-Paim Filho,4313607
+Rs-Palmares do Sul,4313656
+Rs-Palmeira das Missoes,4313706
+Rs-Palmitinho,4313805
+Rs-Panambi,4313904
+Rs-Pantano Grande,4313953
+Rs-Parai,4314001
+Rs-Paraiso do Sul,4314027
+Rs-Pareci Novo,4314035
+Rs-Parobe,4314050
+Rs-Passa Sete,4314068
+Rs-Passo do Sobrado,4314076
+Rs-Passo Fundo,4314100
+Rs-Paulo Bento,4314134
+Rs-Paverama,4314159
+Rs-Pedras Altas,4314175
+Rs-Pedro Osorio,4314209
+Rs-Pejucara,4314308
+Rs-Pelotas,4314407
+Rs-Picada Cafe,4314423
+Rs-Pinhal,4314456
+Rs-Pinhal da Serra,4314464
+Rs-Pinhal Grande,4314472
+Rs-Pinheirinho do Vale,4314498
+Rs-Pinheiro Machado,4314506
+Rs-Pinto Bandeira,4314548
+Rs-Pinto Bandeira,4314548
+Rs-Pirapo,4314555
+Rs-Piratini,4314605
+Rs-Planalto,4314704
+Rs-Poco das Antas,4314753
+Rs-Pontao,4314779
+Rs-Ponte Preta,4314787
+Rs-Portao,4314803
+Rs-Porto Alegre,4314902
+Rs-Porto Lucena,4315008
+Rs-Porto Maua,4315057
+Rs-Porto Vera Cruz,4315073
+Rs-Porto Xavier,4315107
+Rs-Pouso Novo,4315131
+Rs-Presidente Lucena,4315149
+Rs-Progresso,4315156
+Rs-Protasio Alves,4315172
+Rs-Putinga,4315206
+Rs-Quarai,4315305
+Rs-Quatro Irmaos,4315313
+Rs-Quevedos,4315321
+Rs-Quinze de Novembro,4315354
+Rs-Redentora,4315404
+Rs-Relvado,4315453
+Rs-Restinga Seca,4315503
+Rs-Rio dos Indios,4315552
+Rs-Rio Grande,4315602
+Rs-Rio Pardo,4315701
+Rs-Riozinho,4315750
+Rs-Roca Sales,4315800
+Rs-Rodeio Bonito,4315909
+Rs-Rolador,4315958
+Rs-Rolante,4316006
+Rs-Ronda Alta,4316105
+Rs-Rondinha,4316204
+Rs-Roque Gonzales,4316303
+Rs-Rosario do Sul,4316402
+Rs-Sagrada Familia,4316428
+Rs-Saldanha Marinho,4316436
+Rs-Salto do Jacui,4316451
+Rs-Salvador das Missoes,4316477
+Rs-Salvador do Sul,4316501
+Rs-Sananduva,4316600
+Rs-Santa Barbara do Sul,4316709
+Rs-Santa Cecilia do Sul,4316733
+Rs-Santa Clara do Sul,4316758
+Rs-Santa Cruz do Sul,4316808
+Rs-Santa Maria,4316907
+Rs-Santa Maria do Herval,4316956
+Rs-Santa Margarida do Sul,4316972
+Rs-Santana da Boa Vista,4317004
+Rs-Sant Ana do Livramento,4317103
+Rs-Santa Rosa,4317202
+Rs-Santa Tereza,4317251
+Rs-Santa Vitoria do Palmar,4317301
+Rs-Santiago,4317400
+Rs-Santo Angelo,4317509
+Rs-Santo Antonio do Palma,4317558
+Rs-Santo Antonio da Patrulha,4317608
+Rs-Santo Antonio das Missoes,4317707
+Rs-Santo Antonio do Planalto,4317756
+Rs-Santo Augusto,4317806
+Rs-Santo Cristo,4317905
+Rs-Santo Expedito do Sul,4317954
+Rs-Sao Borja,4318002
+Rs-Sao Domingos do Sul,4318051
+Rs-Sao Francisco de Assis,4318101
+Rs-Sao Francisco de Paula,4318200
+Rs-Sao Gabriel,4318309
+Rs-Sao Jeronimo,4318408
+Rs-Sao Joao da Urtiga,4318424
+Rs-Sao Joao do Polesine,4318432
+Rs-Sao Jorge,4318440
+Rs-Sao Jose das Missoes,4318457
+Rs-Sao Jose do Herval,4318465
+Rs-Sao Jose do Hortencio,4318481
+Rs-Sao Jose do Inhacora,4318499
+Rs-Sao Jose do Norte,4318507
+Rs-Sao Jose do Ouro,4318606
+Rs-Sao Jose do Sul,4318614
+Rs-Sao Jose dos Ausentes,4318622
+Rs-Sao Leopoldo,4318705
+Rs-Sao Lourenco do Sul,4318804
+Rs-Sao Luiz Gonzaga,4318903
+Rs-Sao Marcos,4319000
+Rs-Sao Martinho,4319109
+Rs-Sao Martinho da Serra,4319125
+Rs-Sao Miguel das Missoes,4319158
+Rs-Sao Nicolau,4319208
+Rs-Sao Paulo das Missoes,4319307
+Rs-Sao Pedro da Serra,4319356
+Rs-Sao Pedro das Missoes,4319364
+Rs-Sao Pedro do Butia,4319372
+Rs-Sao Pedro do Sul,4319406
+Rs-Sao Sebastiao do Cai,4319505
+Rs-Sao Sepe,4319604
+Rs-Sao Valentim,4319703
+Rs-Sao Valentim do Sul,4319711
+Rs-Sao Valerio do Sul,4319737
+Rs-Sao Vendelino,4319752
+Rs-Sao Vicente do Sul,4319802
+Rs-Sapiranga,4319901
+Rs-Sapucaia do Sul,4320008
+Rs-Sarandi,4320107
+Rs-Seberi,4320206
+Rs-Sede Nova,4320230
+Rs-Segredo,4320263
+Rs-Selbach,4320305
+Rs-Senador Salgado Filho,4320321
+Rs-Sentinela do Sul,4320354
+Rs-Serafina Correa,4320404
+Rs-Serio,4320453
+Rs-Sertao,4320503
+Rs-Sertao Santana,4320552
+Rs-Sete de Setembro,4320578
+Rs-Severiano de Almeida,4320602
+Rs-Silveira Martins,4320651
+Rs-Sinimbu,4320677
+Rs-Sobradinho,4320701
+Rs-Soledade,4320800
+Rs-Tabai,4320859
+Rs-Tapejara,4320909
+Rs-Tapera,4321006
+Rs-Tapes,4321105
+Rs-Taquara,4321204
+Rs-Taquari,4321303
+Rs-Taquarucu do Sul,4321329
+Rs-Tavares,4321352
+Rs-Tenente Portela,4321402
+Rs-Terra de Areia,4321436
+Rs-Teutonia,4321451
+Rs-Tio Hugo,4321469
+Rs-Tiradentes do Sul,4321477
+Rs-Toropi,4321493
+Rs-Torres,4321501
+Rs-Tramandai,4321600
+Rs-Travesseiro,4321626
+Rs-Tres Arroios,4321634
+Rs-Tres Cachoeiras,4321667
+Rs-Tres Coroas,4321709
+Rs-Tres de Maio,4321808
+Rs-Tres Forquilhas,4321832
+Rs-Tres Palmeiras,4321857
+Rs-Tres Passos,4321907
+Rs-Trindade do Sul,4321956
+Rs-Triunfo,4322004
+Rs-Tucunduva,4322103
+Rs-Tunas,4322152
+Rs-Tupanci do Sul,4322186
+Rs-Tupancireta,4322202
+Rs-Tupandi,4322251
+Rs-Tuparendi,4322301
+Rs-Turucu,4322327
+Rs-Ubiretama,4322343
+Rs-Uniao da Serra,4322350
+Rs-Unistalda,4322376
+Rs-Uruguaiana,4322400
+Rs-Vacaria,4322509
+Rs-Vale Verde,4322525
+Rs-Vale do Sol,4322533
+Rs-Vale Real,4322541
+Rs-Vanini,4322558
+Rs-Venancio Aires,4322608
+Rs-Vera Cruz,4322707
+Rs-Veranopolis,4322806
+Rs-Vespasiano Correa,4322855
+Rs-Viadutos,4322905
+Rs-Viamao,4323002
+Rs-Vicente Dutra,4323101
+Rs-Victor Graeff,4323200
+Rs-Vila Flores,4323309
+Rs-Vila Langaro,4323358
+Rs-Vila Maria,4323408
+Rs-Vila Nova do Sul,4323457
+Rs-Vista Alegre,4323507
+Rs-Vista Alegre do Prata,4323606
+Rs-Vista Gaucha,4323705
+Rs-Vitoria das Missoes,4323754
+Rs-Westfalia,4323770
+Rs-Xangri-La,4323804
+Ms-Agua Clara,5000203
+Ms-Alcinopolis,5000252
+Ms-Amambai,5000609
+Ms-Anastacio,5000708
+Ms-Anaurilandia,5000807
+Ms-Angelica,5000856
+Ms-Antonio Joao,5000906
+Ms-Aparecida do Taboado,5001003
+Ms-Aquidauana,5001102
+Ms-Aral Moreira,5001243
+Ms-Bandeirantes,5001508
+Ms-Bataguassu,5001904
+Ms-Bataypora,5002001
+Ms-Bela Vista,5002100
+Ms-Bodoquena,5002159
+Ms-Bonito,5002209
+Ms-Brasilandia,5002308
+Ms-Caarapo,5002407
+Ms-Camapua,5002605
+Ms-Campo Grande,5002704
+Ms-Caracol,5002803
+Ms-Cassilandia,5002902
+Ms-Chapadao do Sul,5002951
+Ms-Corguinho,5003108
+Ms-Coronel Sapucaia,5003157
+Ms-Corumba,5003207
+Ms-Costa Rica,5003256
+Ms-Coxim,5003306
+Ms-Deodapolis,5003454
+Ms-Dois Irmaos do Buriti,5003488
+Ms-Douradina,5003504
+Ms-Dourados,5003702
+Ms-Eldorado,5003751
+Ms-Fatima do Sul,5003801
+Ms-Figueirao,5003900
+Ms-Gloria de Dourados,5004007
+Ms-Guia Lopes da Laguna,5004106
+Ms-Iguatemi,5004304
+Ms-Inocencia,5004403
+Ms-Itapora,5004502
+Ms-Itaquirai,5004601
+Ms-Ivinhema,5004700
+Ms-Japora,5004809
+Ms-Jaraguari,5004908
+Ms-Jardim,5005004
+Ms-Jatei,5005103
+Ms-Juti,5005152
+Ms-Ladario,5005202
+Ms-Laguna Carapa,5005251
+Ms-Maracaju,5005400
+Ms-Miranda,5005608
+Ms-Mundo Novo,5005681
+Ms-Navirai,5005707
+Ms-Nioaque,5005806
+Ms-Nova Alvorada do Sul,5006002
+Ms-Nova Andradina,5006200
+Ms-Novo Horizonte do Sul,5006259
+Ms-Paraiso das Aguas,5006275
+Ms-Paranaiba,5006309
+Ms-Paranhos,5006358
+Ms-Pedro Gomes,5006408
+Ms-Ponta Pora,5006606
+Ms-Porto Murtinho,5006903
+Ms-Ribas do Rio Pardo,5007109
+Ms-Rio Brilhante,5007208
+Ms-Rio Negro,5007307
+Ms-Rio Verde de Mato Grosso,5007406
+Ms-Rochedo,5007505
+Ms-Santa Rita do Pardo,5007554
+Ms-Sao Gabriel do Oeste,5007695
+Ms-Sete Quedas,5007703
+Ms-Selviria,5007802
+Ms-Sidrolandia,5007901
+Ms-Sonora,5007935
+Ms-Tacuru,5007950
+Ms-Taquarussu,5007976
+Ms-Terenos,5008008
+Ms-Tres Lagoas,5008305
+Ms-Vicentina,5008404
+Mt-Acorizal,5100102
+Mt-Agua Boa,5100201
+Mt-Alta Floresta,5100250
+Mt-Alto Araguaia,5100300
+Mt-Alto Boa Vista,5100359
+Mt-Alto Garcas,5100409
+Mt-Alto Paraguai,5100508
+Mt-Alto Taquari,5100607
+Mt-Apiacas,5100805
+Mt-Araguaiana,5101001
+Mt-Araguainha,5101209
+Mt-Araputanga,5101258
+Mt-Arenapolis,5101308
+Mt-Aripuana,5101407
+Mt-Barao de Melgaco,5101605
+Mt-Barra do Bugres,5101704
+Mt-Barra do Garcas,5101803
+Mt-Bom Jesus do Araguaia,5101852
+Mt-Brasnorte,5101902
+Mt-Caceres,5102504
+Mt-Campinapolis,5102603
+Mt-Campo Novo do Parecis,5102637
+Mt-Campo Verde,5102678
+Mt-Campos de Julio,5102686
+Mt-Canabrava do Norte,5102694
+Mt-Canarana,5102702
+Mt-Carlinda,5102793
+Mt-Castanheira,5102850
+Mt-Chapada dos Guimaraes,5103007
+Mt-Claudia,5103056
+Mt-Cocalinho,5103106
+Mt-Colider,5103205
+Mt-Colniza,5103254
+Mt-Comodoro,5103304
+Mt-Confresa,5103353
+Mt-Conquista D Oeste,5103361
+Mt-Cotriguacu,5103379
+Mt-Cuiaba,5103403
+Mt-Curvelandia,5103437
+Mt-Denise,5103452
+Mt-Diamantino,5103502
+Mt-Dom Aquino,5103601
+Mt-Feliz Natal,5103700
+Mt-Figueiropolis D Oeste,5103809
+Mt-Gaucha do Norte,5103858
+Mt-General Carneiro,5103908
+Mt-Gloria D Oeste,5103957
+Mt-Guaranta do Norte,5104104
+Mt-Guiratinga,5104203
+Mt-Indiavai,5104500
+Mt-Ipiranga do Norte,5104526
+Mt-Itanhanga,5104542
+Mt-Itauba,5104559
+Mt-Itiquira,5104609
+Mt-Jaciara,5104807
+Mt-Jangada,5104906
+Mt-Jauru,5105002
+Mt-Juara,5105101
+Mt-Juina,5105150
+Mt-Juruena,5105176
+Mt-Juscimeira,5105200
+Mt-Lambari D Oeste,5105234
+Mt-Lucas do Rio Verde,5105259
+Mt-Luciara,5105309
+Mt-Vila Bela da Santissima Trindade,5105507
+Mt-Marcelandia,5105580
+Mt-Matupa,5105606
+Mt-Mirassol D Oeste,5105622
+Mt-Nobres,5105903
+Mt-Nortelandia,5106000
+Mt-Nossa Senhora do Livramento,5106109
+Mt-Nova Bandeirantes,5106158
+Mt-Nova Nazare,5106174
+Mt-Nova Lacerda,5106182
+Mt-Nova Santa Helena,5106190
+Mt-Nova Brasilandia,5106208
+Mt-Nova Canaa do Norte,5106216
+Mt-Nova Mutum,5106224
+Mt-Nova Olimpia,5106232
+Mt-Nova Ubirata,5106240
+Mt-Nova Xavantina,5106257
+Mt-Novo Mundo,5106265
+Mt-Novo Horizonte do Norte,5106273
+Mt-Novo Sao Joaquim,5106281
+Mt-Paranaita,5106299
+Mt-Paranatinga,5106307
+Mt-Novo Santo Antonio,5106315
+Mt-Pedra Preta,5106372
+Mt-Peixoto de Azevedo,5106422
+Mt-Planalto da Serra,5106455
+Mt-Pocone,5106505
+Mt-Pontal do Araguaia,5106653
+Mt-Ponte Branca,5106703
+Mt-Pontes e Lacerda,5106752
+Mt-Porto Alegre do Norte,5106778
+Mt-Porto dos Gauchos,5106802
+Mt-Porto Esperidiao,5106828
+Mt-Porto Estrela,5106851
+Mt-Poxoréu,5107008
+Mt-Primavera do Leste,5107040
+Mt-Querencia,5107065
+Mt-Sao Jose dos Quatro Marcos,5107107
+Mt-Reserva do Cabacal,5107156
+Mt-Ribeirao Cascalheira,5107180
+Mt-Ribeiraozinho,5107198
+Mt-Rio Branco,5107206
+Mt-Santa Carmem,5107248
+Mt-Santo Afonso,5107263
+Mt-Sao Jose do Povo,5107297
+Mt-Sao Jose do Rio Claro,5107305
+Mt-Sao Jose do Xingu,5107354
+Mt-Sao Pedro da Cipa,5107404
+Mt-Rondolandia,5107578
+Mt-Rondonopolis,5107602
+Mt-Rosario Oeste,5107701
+Mt-Santa Cruz do Xingu,5107743
+Mt-Salto do Ceu,5107750
+Mt-Santa Rita do Trivelato,5107768
+Mt-Santa Terezinha,5107776
+Mt-Santo Antonio do Leste,5107792
+Mt-Santo Antonio do Leverger,5107800
+Mt-Sao Felix do Araguaia,5107859
+Mt-Sapezal,5107875
+Mt-Serra Nova Dourada,5107883
+Mt-Sinop,5107909
+Mt-Sorriso,5107925
+Mt-Tabapora,5107941
+Mt-Tangara da Serra,5107958
+Mt-Tapurah,5108006
+Mt-Terra Nova do Norte,5108055
+Mt-Tesouro,5108105
+Mt-Torixoreu,5108204
+Mt-Uniao do Sul,5108303
+Mt-Vale de Sao Domingos,5108352
+Mt-Varzea Grande,5108402
+Mt-Vera,5108501
+Mt-Vila Rica,5108600
+Mt-Nova Guarita,5108808
+Mt-Nova Marilandia,5108857
+Mt-Nova Maringa,5108907
+Mt-Nova Monte Verde,5108956
+Go-Abadia de Goias,5200050
+Go-Abadiania,5200100
+Go-Acreuna,5200134
+Go-Adelandia,5200159
+Go-Agua Fria de Goias,5200175
+Go-Agua Limpa,5200209
+Go-Aguas Lindas de Goias,5200258
+Go-Alexania,5200308
+Go-Aloandia,5200506
+Go-Alto Horizonte,5200555
+Go-Alto Paraiso de Goias,5200605
+Go-Alvorada do Norte,5200803
+Go-Amaralina,5200829
+Go-Americano do Brasil,5200852
+Go-Amorinopolis,5200902
+Go-Anapolis,5201108
+Go-Anhanguera,5201207
+Go-Anicuns,5201306
+Go-Aparecida de Goiania,5201405
+Go-Aparecida do Rio Doce,5201454
+Go-Apore,5201504
+Go-Aracu,5201603
+Go-Aragarcas,5201702
+Go-Aragoiania,5201801
+Go-Araguapaz,5202155
+Go-Arenopolis,5202353
+Go-Aruana,5202502
+Go-Aurilandia,5202601
+Go-Avelinopolis,5202809
+Go-Baliza,5203104
+Go-Barro Alto,5203203
+Go-Bela Vista de Goias,5203302
+Go-Bom Jardim de Goias,5203401
+Go-Bom Jesus de Goias,5203500
+Go-Bonfinopolis,5203559
+Go-Bonopolis,5203575
+Go-Brazabrantes,5203609
+Go-Britania,5203807
+Go-Buriti Alegre,5203906
+Go-Buriti de Goias,5203939
+Go-Buritinopolis,5203962
+Go-Cabeceiras,5204003
+Go-Cachoeira Alta,5204102
+Go-Cachoeira de Goias,5204201
+Go-Cachoeira Dourada,5204250
+Go-Cacu,5204300
+Go-Caiaponia,5204409
+Go-Caldas Novas,5204508
+Go-Caldazinha,5204557
+Go-Campestre de Goias,5204607
+Go-Campinacu,5204656
+Go-Campinorte,5204706
+Go-Campo Alegre de Goias,5204805
+Go-Campo Limpo de Goias,5204854
+Go-Campos Belos,5204904
+Go-Campos Verdes,5204953
+Go-Carmo do Rio Verde,5205000
+Go-Castelandia,5205059
+Go-Catalao,5205109
+Go-Caturai,5205208
+Go-Cavalcante,5205307
+Go-Ceres,5205406
+Go-Cezarina,5205455
+Go-Chapadao do Ceu,5205471
+Go-Cidade Ocidental,5205497
+Go-Cocalzinho de Goias,5205513
+Go-Colinas do Sul,5205521
+Go-Corrego do Ouro,5205703
+Go-Corumba de Goias,5205802
+Go-Corumbaiba,5205901
+Go-Cristalina,5206206
+Go-Cristianopolis,5206305
+Go-Crixas,5206404
+Go-Crominia,5206503
+Go-Cumari,5206602
+Go-Damianopolis,5206701
+Go-Damolandia,5206800
+Go-Davinopolis,5206909
+Go-Diorama,5207105
+Go-Doverlandia,5207253
+Go-Edealina,5207352
+Go-Edeia,5207402
+Go-Estrela do Norte,5207501
+Go-Faina,5207535
+Go-Fazenda Nova,5207600
+Go-Firminopolis,5207808
+Go-Flores de Goias,5207907
+Go-Formosa,5208004
+Go-Formoso,5208103
+Go-Gameleira de Goias,5208152
+Go-Divinopolis de Goias,5208301
+Go-Goianapolis,5208400
+Go-Goiandira,5208509
+Go-Goianesia,5208608
+Go-Goiania,5208707
+Go-Goianira,5208806
+Go-Goias,5208905
+Go-Goiatuba,5209101
+Go-Gouvelandia,5209150
+Go-Guapo,5209200
+Go-Guaraita,5209291
+Go-Guarani de Goias,5209408
+Go-Guarinos,5209457
+Go-Heitorai,5209606
+Go-Hidrolandia,5209705
+Go-Hidrolina,5209804
+Go-Iaciara,5209903
+Go-Inaciolandia,5209937
+Go-Indiara,5209952
+Go-Inhumas,5210000
+Go-Ipameri,5210109
+Go-Ipiranga de Goias,5210158
+Go-Ipora,5210208
+Go-Israelandia,5210307
+Go-Itaberai,5210406
+Go-Itaguari,5210562
+Go-Itaguaru,5210604
+Go-Itaja,5210802
+Go-Itapaci,5210901
+Go-Itapirapua,5211008
+Go-Itapuranga,5211206
+Go-Itaruma,5211305
+Go-Itaucu,5211404
+Go-Itumbiara,5211503
+Go-Ivolandia,5211602
+Go-Jandaia,5211701
+Go-Jaragua,5211800
+Go-Jatai,5211909
+Go-Jaupaci,5212006
+Go-Jesupolis,5212055
+Go-Joviania,5212105
+Go-Jussara,5212204
+Go-Lagoa Santa,5212253
+Go-Leopoldo de Bulhoes,5212303
+Go-Luziania,5212501
+Go-Mairipotaba,5212600
+Go-Mambai,5212709
+Go-Mara Rosa,5212808
+Go-Marzagao,5212907
+Go-Matrincha,5212956
+Go-Maurilandia,5213004
+Go-Mimoso de Goias,5213053
+Go-Minacu,5213087
+Go-Mineiros,5213103
+Go-Moipora,5213400
+Go-Monte Alegre de Goias,5213509
+Go-Montes Claros de Goias,5213707
+Go-Montividiu,5213756
+Go-Montividiu do Norte,5213772
+Go-Morrinhos,5213806
+Go-Morro Agudo de Goias,5213855
+Go-Mossamedes,5213905
+Go-Mozarlandia,5214002
+Go-Mundo Novo,5214051
+Go-Mutunopolis,5214101
+Go-Nazario,5214408
+Go-Neropolis,5214507
+Go-Niquelandia,5214606
+Go-Nova America,5214705
+Go-Nova Aurora,5214804
+Go-Nova Crixas,5214838
+Go-Nova Gloria,5214861
+Go-Nova Iguacu de Goias,5214879
+Go-Nova Roma,5214903
+Go-Nova Veneza,5215009
+Go-Novo Brasil,5215207
+Go-Novo Gama,5215231
+Go-Novo Planalto,5215256
+Go-Orizona,5215306
+Go-Ouro Verde de Goias,5215405
+Go-Ouvidor,5215504
+Go-Padre Bernardo,5215603
+Go-Palestina de Goias,5215652
+Go-Palmeiras de Goias,5215702
+Go-Palmelo,5215801
+Go-Palminopolis,5215900
+Go-Panama,5216007
+Go-Paranaiguara,5216304
+Go-Parauna,5216403
+Go-Perolandia,5216452
+Go-Petrolina de Goias,5216809
+Go-Pilar de Goias,5216908
+Go-Piracanjuba,5217104
+Go-Piranhas,5217203
+Go-Pirenopolis,5217302
+Go-Pires do Rio,5217401
+Go-Planaltina,5217609
+Go-Pontalina,5217708
+Go-Porangatu,5218003
+Go-Porteirao,5218052
+Go-Portelandia,5218102
+Go-Posse,5218300
+Go-Professor Jamil,5218391
+Go-Quirinopolis,5218508
+Go-Rialma,5218607
+Go-Rianapolis,5218706
+Go-Rio Quente,5218789
+Go-Rio Verde,5218805
+Go-Rubiataba,5218904
+Go-Sanclerlandia,5219001
+Go-Santa Barbara de Goias,5219100
+Go-Santa Cruz de Goias,5219209
+Go-Santa Fe de Goias,5219258
+Go-Santa Helena de Goias,5219308
+Go-Santa Isabel,5219357
+Go-Santa Rita do Araguaia,5219407
+Go-Santa Rita do Novo Destino,5219456
+Go-Santa Rosa de Goias,5219506
+Go-Santa Tereza de Goias,5219605
+Go-Santa Terezinha de Goias,5219704
+Go-Santo Antonio da Barra,5219712
+Go-Santo Antonio de Goias,5219738
+Go-Santo Antonio do Descoberto,5219753
+Go-Sao Domingos,5219803
+Go-Sao Francisco de Goias,5219902
+Go-Sao Joao D Alianca,5220009
+Go-Sao Joao da Parauna,5220058
+Go-Sao Luis de Montes Belos,5220108
+Go-Sao Luiz do Norte,5220157
+Go-Sao Miguel do Araguaia,5220207
+Go-Sao Miguel do Passa Quatro,5220264
+Go-Sao Patricio,5220280
+Go-Sao Simao,5220405
+Go-Senador Canedo,5220454
+Go-Serranopolis,5220504
+Go-Silvania,5220603
+Go-Simolandia,5220686
+Go-Sitio D Abadia,5220702
+Go-Taquaral de Goias,5221007
+Go-Teresina de Goias,5221080
+Go-Terezopolis de Goias,5221197
+Go-Tres Ranchos,5221304
+Go-Trindade,5221403
+Go-Trombas,5221452
+Go-Turvania,5221502
+Go-Turvelandia,5221551
+Go-Uirapuru,5221577
+Go-Uruacu,5221601
+Go-Uruana,5221700
+Go-Urutai,5221809
+Go-Valparaiso de Goias,5221858
+Go-Varjao,5221908
+Go-Vianopolis,5222005
+Go-Vicentinopolis,5222054
+Go-Vila Boa,5222203
+Go-Vila Propicio,5222302
+Df-Brasilia,5300108

@@ -1,4 +1,4 @@
-InstitutionID	InstitutionName	State_ID	Mesoregion_ID	Microregion_ID	Municipality_ID	Municipality_Name
+ID_da_instituicao	Nome_da_instituicao	ID_do_estado	ID_da_mesoregiao	ID_da_microregiao	ID_do_municipio	Nome_do_municipio
 000600000001	PONTIFICIA UNIVERSIDADE CATOLICA DO RIO GRANDE DO SUL	43	430005	430026	4314902	Porto Alegre
 867100000004	UNIVERSIDADE FEDERAL DE ALFENAS	31	310010	310049	3101607	Alfenas
 000200000993	INSTITUTO DE MEDICINA INTEGRAL PROF FERNANDO FIGUEIRA	26	260005	260017	2611606	Recife
