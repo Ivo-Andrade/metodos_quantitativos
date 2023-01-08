@@ -40,8 +40,30 @@ with open(filepath, 'r', encoding='utf8') as file:
     dictReader = DictReader(file, delimiter='\t')
     listaIndicadoresMicrorregioes = list(dictReader)
 
+indicadoresMicrorregioes = pd.read_csv(
+    filepath_or_buffer= listaIndicadoresMicrorregioes,
+    delimiter='\t'
+)
+
 ##
 #
 #   Análise Fatorial
 #
 ##
+
+scale_indicadores = preprocessing.scale(
+    X = listaIndicadoresMicrorregioes
+)
+
+scale_indicadores = pd.DataFrame(
+    data = scale_indicadores
+)
+
+scale_indicadores.corr()
+
+sns.heatmap(
+    data = scale_indicadores.corr(),
+    vmin=-1, vmax=1, center=0,
+    cmap=sns.diverging_palette(20,220,n=200),
+    square=True
+)
